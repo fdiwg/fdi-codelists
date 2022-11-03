@@ -1,40 +1,40 @@
-"code";"uri";"label";"definition"
-"AIA";;"Anguilla";
-"ATG";;"Antigua and Barbuda";
-"BHS";;"Bahamas";
-"BRB";;"Barbados";
-"BLZ";;"Belize";
-"BRA";;"Brazil";
-"COL";;"Colombia";
-"CRI";;"Costa Rica";
-"CUB";;"Cuba";
-"DMA";;"Dominica";
-"DOM";;"Dominican Republic";
-"EU";;"Europeean Union";
-"FRA";;"France";
-"GRD";;"Grenada";
-"GLP";;"Guadeloupe";
-"GTM";;"Guatemala";
-"GIN";;"Guinea";
-"GUY";;"Guyana";
-"GUF";;"French Guyana";
-"HTI";;"Haiti";
-"HND";;"Honduras";
-"JAM";;"Jamaica";
-"JPN";;"Japan";
-"MTQ";;"Martinique";
-"MEX";;"Mexico";
-"NLD";;"Netherlands";
-"NIC";;"Nicaragua";
-"PAN";;"Panama";
-"KOR";;"Republic of Korea";
-"KNA";;"Saint Kitts and Nevis";
-"LCA";;"Saint Lucia";
-"MAF";;"Saint-Martin (French Part)";
-"VCT";;"Saint Vincent/Grenadines";
-"ESP";;"Spain";
-"SUR";;"Suriname";
-"TTO";;"Trinidad and Tobago";
-"GBR";;"United Kingdom";
-"USA";;"United States of America";
-"VEN";;"Rep of Venezuela";
+"code","uri","label","definition"
+"AIA",,"Anguilla",
+"ATG",,"Antigua and Barbuda",
+"BHS",,"Bahamas",
+"BRB",,"Barbados",
+"BLZ",,"Belize",
+"BRA",,"Brazil",
+"COL",,"Colombia",
+"CRI",,"Costa Rica",
+"CUB",,"Cuba",
+"DMA",,"Dominica",
+"DOM",,"Dominican Republic",
+"EU",,"Europeean Union",
+"FRA",,"France",
+"GRD",,"Grenada",
+"GLP",,"Guadeloupe",
+"GTM",,"Guatemala",
+"GIN",,"Guinea",
+"GUY",,"Guyana",
+"GUF",,"French Guyana",
+"HTI",,"Haiti",
+"HND",,"Honduras",
+"JAM",,"Jamaica",
+"JPN",,"Japan",
+"MTQ",,"Martinique",
+"MEX",,"Mexico",
+"NLD",,"Netherlands",
+"NIC",,"Nicaragua",
+"PAN",,"Panama",
+"KOR",,"Republic of Korea",
+"KNA",,"Saint Kitts and Nevis",
+"LCA",,"Saint Lucia",
+"MAF",,"Saint-Martin (French Part)",
+"VCT",,"Saint Vincent/Grenadines",
+"ESP",,"Spain",
+"SUR",,"Suriname",
+"TTO",,"Trinidad and Tobago",
+"GBR",,"United Kingdom",
+"USA",,"United States of America",
+"VEN",,"Rep of Venezuela",
