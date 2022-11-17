@@ -1,40 +1,41 @@
-"code","uri","label","definition"
-"AIA",,"Anguilla",
-"ATG",,"Antigua and Barbuda",
-"BHS",,"Bahamas",
-"BRB",,"Barbados",
-"BLZ",,"Belize",
-"BRA",,"Brazil",
-"COL",,"Colombia",
-"CRI",,"Costa Rica",
-"CUB",,"Cuba",
-"DMA",,"Dominica",
-"DOM",,"Dominican Republic",
-"EU",,"Europeean Union",
-"FRA",,"France",
-"GRD",,"Grenada",
-"GLP",,"Guadeloupe",
-"GTM",,"Guatemala",
-"GIN",,"Guinea",
-"GUY",,"Guyana",
-"GUF",,"French Guyana",
-"HTI",,"Haiti",
-"HND",,"Honduras",
-"JAM",,"Jamaica",
-"JPN",,"Japan",
-"MTQ",,"Martinique",
-"MEX",,"Mexico",
-"NLD",,"Netherlands",
-"NIC",,"Nicaragua",
-"PAN",,"Panama",
-"KOR",,"Republic of Korea",
-"KNA",,"Saint Kitts and Nevis",
-"LCA",,"Saint Lucia",
-"MAF",,"Saint-Martin (French Part)",
-"VCT",,"Saint Vincent/Grenadines",
-"ESP",,"Spain",
-"SUR",,"Suriname",
-"TTO",,"Trinidad and Tobago",
-"GBR",,"United Kingdom",
-"USA",,"United States of America",
-"VEN",,"Rep of Venezuela",
+"code","uri","label","definition","M49"
+"AIA",,"Anguilla",,660
+"ATG",,"Antigua and Barbuda",,28
+"BHS",,"Bahamas",,44
+"BRB",,"Barbados",,52
+"BLZ",,"Belize",,84
+"BRA",,"Brazil",,76
+"COL",,"Colombia",,170
+"CRI",,"Costa Rica",,188
+"CUB",,"Cuba",,192
+"DMA",,"Dominica",,212
+"DOM",,"Dominican Republic",,214
+"EU",,"Europeean Union",,999
+"FRA",,"France",,250
+"GRD",,"Grenada",,308
+"GLP",,"Guadeloupe",,312
+"GTM",,"Guatemala",,320
+"GIN",,"Guinea",,324
+"GUY",,"Guyana",,328
+"GUF",,"French Guyana",,254
+"HTI",,"Haiti",,332
+"HND",,"Honduras",,340
+"JAM",,"Jamaica",,388
+"JPN",,"Japan",,392
+"MTQ",,"Martinique",,474
+"MEX",,"Mexico",,484
+"NLD",,"Netherlands",,528
+"NIC",,"Nicaragua",,558
+"PAN",,"Panama",,591
+"KOR",,"Republic of Korea",,410
+"N/A",,"Saint-Barthélemy &",,652
+"KNA",,"Saint Kitts and Nevis",,659
+"LCA",,"Saint Lucia",,662
+"MAF",,"Saint-Martin (French Part)",,663
+"VCT",,"Saint Vincent/Grenadines",,670
+"ESP",,"Spain",,724
+"SUR",,"Suriname",,740
+"TTO",,"Trinidad and Tobago",,780
+"GBR",,"United Kingdom",,826
+"USA",,"United States of America",,840
+"VEN",,"Rep of Venezuela",,862
