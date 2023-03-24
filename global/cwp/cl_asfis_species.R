@@ -32,6 +32,6 @@ produce_cl_asfis_species<-function(dest=getwd()){
   
   reformat[is.na(reformat)] <- ""
   
-  write.csv(reformat,paste0(dest,"/cl_asfis_species.csv"),fileEncoding = "UTF-8", row.names=FALSE, quote=FALSE)
+  readr::write_csv(reformat,file.path(dest,"cl_asfis_species.csv"))
   
 }
