@@ -1,0 +1,30 @@
+require(readr)
+require(atom4R)
+
+wecafc_codelists = readr::read_csv("wecafc.csv")
+
+for(i in 1:nrow(wecafc_codelists)){
+  wecafc_cl = wecafc_codelists[i,]
+  dcentry = DCEntry$new()
+  dcentry$addDCIdentifier(wecafc_cl$urn)
+  dcentry$addDCIdentifier(wecafc_cl$id)
+  dcentry$addDCTitle(wecafc_cl$title)
+  dcentry$addDCLicense("NONE")
+  dcentry$addDCHasVersion(wecafc_cl$version)
+  dcentry$addDCType("Dataset")
+  creator <- DCCreator$new(value = "WECAFC Working Group for fisheries data and statistics (FDS-WG)")
+  dcentry$addDCCreator(creator)
+  dcentry$addDCPublisher("Fisheries Data Interoperability adhoc working group")
+  dcentry$addDCSource("WECAFC Interim Data Collection Reference Framework (version 0.8): https://www.fao.org/3/cc0657en/cc0657en.pdf")
+  if(!is.na(wecafc_cl$term)) dcentry$addDCRelation(wecafc_cl$term)
+  dcentry$addDCSubject("WECAFC")
+  dcentry$addDCSubject("WECAFIS")
+  dcentry$addDCSubject("DCRF")
+  dcentry$addDCSubject("FAO")
+  dcentry$addDCSubject("CWP")
+  dcentry$addDCSubject("FDI")
+  dcentry$addDCSubject("FAIR")
+  dcentry$addDCSubject("Fisheries")
+  dcentry$addDCSubject("Interoperability")
+  dcentry$save(paste0(wecafc_cl$id, ".xml"))
+}
