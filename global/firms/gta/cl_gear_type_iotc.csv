@@ -1,0 +1,48 @@
+code,label,grsort,engin,grgroup,grgroupe
+BB,Baitboat,3,Canne,Baitboat,Canne
+BBM,Baitboat mechanized,3,Canne motorisée,Baitboat,Canne
+BBN,Baitboat non-mechanized,3,Canne non motorisée,Baitboat,Canne
+BBOF,Baitboat (OFFSHORE),3,Canne (hauturière),Baitboat,Canne
+BBPS,Baitboat and purse seine,3,Canne et senne tournante,Baitboat,Canne
+BS,Beach seine,1,Senne de plage,Other,Autres
+CN,Cast net,9,Épervier,Other,Autres
+DDSEI,Demersal Danish seine,0,Senne danoise démersaux,Other,Autres
+DL,DL-Dropline (vertical handline),0,DL-Ligne à main vertical,Line,Lignes
+DSEI,Danish Seine,9,Senne danoise,Other,Autres
+ELL,Longline targeting swordfish,5,Palangre à espadon,Longline,Palangre
+FLL,Longline Fresh,5,Palangre Frais,Longline,Palangre
+FN,Fish net,9,Filet de pêche,Other,Autres
+G/L,Gillnet and Longline combination,4,Filet maillant et Palangre,Gillnet,Filet maillant
+GIHA,Gillnet and hand line,4,Filet maillant et Ligne à main,Gillnet,Filet maillant
+GIHT,Gillnet and hand line and troll line,4,Filet maillant et ligne à main et ligne de traîne,Gillnet,Filet maillant
+GILL,Gillnet,4,Filet maillant,Gillnet,Filet maillant
+GIOF,Offshore gillnet,4,Filet maillant pêche hauturière,Gillnet,Filet maillant
+GL,Gillnet operated attached to a longline,0,Filet maillant operé en combinaison avec palangre,Gillnet,Filet maillant
+HABBTR,"Hand line, Pole and line  and Troll line",6,Ligne à main et Ligne de traîne,Line,Lignes
+HAND,Hand line,6,Ligne à main,Line,Lignes
+HARP,Harpoon,9,Harpon,Other,Autres
+HATR,Hand line and Troll line,6,Ligne à main et Ligne de traîne,Line,Lignes
+HLOF,Hand line (offshore),6,Ligne à main (hauturière),Line,Lignes
+HOOK,Hook and line,6,Ligne et hameçon,Line,Lignes
+LG,Longline operated attached to Gillnet,0,Palangre opérée en combinaison avec filet maillant,Longline,Palangre
+LIFT,Liftnet,9,Carrelet,Other,Autres
+LL,Longline,5,Palangre dérivante au-dessus de 1800 hameçons,Longline,Palangre
+LLCO,Coastal longline,6,Petite palangre,Line,Lignes
+LLEX,Exploratory longline,5,Palangre de prospection,Longline,Palangre
+LLF,Set longline,5,Palangre calée,Longline,Palangre
+LLTR,Coastal Longline and Troll line combination,5,Palangre côtière et ligne de traîne,Longline,Palangre
+PS,Purse seine,1,Senne tournante aux thons,Purse Seine,Senne tournante
+PSS,Small purse seine,1,Senneur côtier,Purse Seine,Senne tournante
+RIN,Ring net,1,Lampara,Purse Seine,Senne tournante
+RNOF,Ring net (offshore),1,Lampara (hauturière),Purse Seine,Senne tournante
+RR,Rod and reel and pole and line,3,Rod et bobine et canne,Baitboat,Canne
+RRBB,Rod and reel and pole and line,3,Rod et bobine et canne,Baitboat,Canne
+SLL,Longline targeting sharks,5,Palangre ciblant les requins,Longline,Palangre
+SPOR,Sport fishing,6,Pêche sportive,Line,Lignes
+TRAP,Trap,9,Madragues,Other,Autres
+TRAW,Trawl,9,Chaluts,Other,Autres
+TROL,Troll line,6,Ligne de traîne,Line,Lignes
+TROLM,Trolling mechanized,6,Ligne de traîne motorisée,Line,Lignes
+TROLN,Trolling non-mechanized,6,Ligne de traîne non motorisée,Line,Lignes
+TROT,Trotline,9,Trotline,Line,Lignes
+UNCL,Unclassified,9,Non classé,Other,Autres

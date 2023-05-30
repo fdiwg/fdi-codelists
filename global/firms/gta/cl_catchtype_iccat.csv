@@ -1,0 +1,9 @@
+"code","label","catchtypenamefr","catchtypenamees"
+"C","Catches",NA,NA
+"L","Landings",NA,NA
+"DD","Discards dead",NA,NA
+"DL","Discards alive",NA,NA
+"FA","Catches live (farming)",NA,NA
+"LF","Landings (faux poisson)",NA,NA
+"DM","Discards (Live) Mortality",NA,NA
+"UNK","Unknown",NA,NA

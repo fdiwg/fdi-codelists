@@ -1,0 +1,27 @@
+code,label,efforttypeid
+-none-,No effort available,0
+D.FISH,Number of days fishing,1
+D.FISH.G,Number of days at fishing ground,2
+D.AT SEA,Number of days at sea,3
+NO.SETS,Number of Sets,4
+SUC.SETS,Number of successful sets,5
+NO.TRIPS,Number of Trips,6
+NO.HOOKS,Number of hooks,7
+N.POLE-D,Number of pole-days (baitboat fishing),8
+NO.LINES,Number of lines used (troll),9
+NO.BOATS,Number of boats engaged in fishing,10
+TRAP D,Number of trap-days,11
+FISH.HOUR,Number of fishing hours,12
+NO.TRAPS,Number of Traps,13
+SUC.D.FI,Number of successful fishing days,14
+LINE.DAYS,Number of Line days ( ~ nr. Fshing days),15
+NO.POLES,Number of Poles,16
+HOURS.SEA,Number of Fishing Hours at Sea,17
+Hours.STD,Number of standardised Fishing hours (etro),18
+Hours.FAD,Number of FAD (floating devices) fishing hours,19
+Hours.FSC,Number of FSC (free school) fishing hours,20
+NO.NETS,Number of Nets (Gill),21
+KM.SETS,Number of km (Sets),22
+NO.MTZAS,Number of Matanzas (TRAPS),23
+NO.FISH.OP,Number of fishing Operations,24
+NO.FADS.VIS,Number of FAD (floating devices) visited,25

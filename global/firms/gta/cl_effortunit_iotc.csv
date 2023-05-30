@@ -1,0 +1,14 @@
+code,label
+BOATS,Number of boats
+DAYS,Number of days at sea
+FDAYS,Number of fishing days
+FHOURS,Number of hours fishing
+HOOKS,Number of hooks
+HOURS,Number of hours at sea
+HRSRH,Number of hours searching
+LINES,Number of lines (poles)
+MD,Men-days
+NETS,net-days
+SETS,Number of sets
+STDHR,Number of hours fishing standarized
+TRIPS,Number of trips

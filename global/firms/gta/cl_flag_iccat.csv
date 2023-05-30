@@ -1,0 +1,185 @@
+code,label,flagid,status,partyname
+UNCL,Unclassified flag,0,NCO,NA
+DZA,Algerie,1,CP,ALGÉRIE
+ARG,Argentina,2,NCO,Non-contracting parties
+BRA,Brazil,3,CP,BRAZIL
+CAN,Canada,4,CP,CANADA
+TAI,Chinese Taipei,5,NCC,Chinese Taipei
+CUB,Cuba,6,NCO,Non-contracting parties
+EU.DNK,EU.Denmark,7,CP,EUROPEAN UNION
+EU.FRA,EU.France,8,CP,EUROPEAN UNION
+EU.DEU,EU.Germany,9,CP,EUROPEAN UNION
+EU.GRC,EU.Greece,10,CP,EUROPEAN UNION
+EU.ITA,EU.Italy,11,CP,EUROPEAN UNION
+JPN,Japan,12,CP,JAPAN
+KOR,Korea Rep.,13,CP,KOREA REP.
+LBY,Libya,14,CP,LIBYA
+EU.MLT,EU.Malta,15,CP,EUROPEAN UNION
+MAR,Maroc,16,CP,MAROC
+NOR,Norway,17,CP,NORWAY
+EU.POL,EU.Poland,18,CP,EUROPEAN UNION
+EU.PRT,EU.Portugal,19,CP,EUROPEAN UNION
+ZAF,South Africa,20,CP,SOUTH AFRICA
+EU.ESP,EU.España,21,CP,EUROPEAN UNION
+EU.SWE,EU.Sweden,22,CP,EUROPEAN UNION
+TUN,Tunisie,23,CP,TUNISIE
+TUR,Turkey,24,CP,TURKEY
+USA,U.S.A.,25,CP,UNITED STATES
+YUG,Yugoslavia Fed.,26,NCO,Non-contracting parties
+GHA,Ghana,27,CP,GHANA
+PAN,Panama,28,CP,PANAMA
+VEN,Venezuela,29,CP,VENEZUELA
+GRD,Grenada,30,CP,GRENADA
+MEX,Mexico,31,CP,MEXICO
+AGO,Angola,34,CP,ANGOLA
+SUN,U.S.S.R.,35,CP,RUSSIA
+DOM,Dominican Republic,37,NCO,Non-contracting parties
+ISR,Israel,38,NCO,Non-contracting parties
+LBN,Lebanon,39,NCO,Non-contracting parties
+SLE,Sierra Leone,40,CP,SIERRA LEONE
+TTO,Trinidad and Tobago,41,CP,TRINIDAD & TOBAGO
+URY,Uruguay,42,CP,URUGUAY
+VIR,US Virgin Islands,43,NCO,Non-contracting parties
+EU.BGR,EU.Bulgaria,47,CP,EUROPEAN UNION
+EU.CYP,EU.Cyprus,48,CP,EUROPEAN UNION
+DDR,Germany Democratic Rep.,49,NCO,Non-contracting parties
+CIV,Côte d'Ivoire,50,CP,CÔTE D'IVOIRE
+LBR,Liberia,51,CP,LIBERIA
+EU.ROU,EU.Rumania,52,CP,EUROPEAN UNION
+SEN,Senegal,53,CP,SENEGAL
+PRI,Puerto Rico,58,NCO,Non-contracting parties
+EGY,Egypt,60,CP,EGYPT
+UK.SHN,UK.Sta Helena,61,CP,UNITED KINGDOM (O.Territories)
+COL,Colombia,62,NCC,Colombia
+BRB,Barbados,63,CP,BARBADOS
+SYR,Syria,64,CP,SYRIA
+CPV,Cape Verde,65,CP,CAP-VERT
+EU.IRL,EU.Ireland,66,CP,EUROPEAN UNION
+BEN,Benin,67,NCO,Non-contracting parties
+GAB,Gabon,68,CP,GABON
+COG,Congo,69,NCO,Non-contracting parties
+EU.NLD,EU.Netherlands,70,CP,EUROPEAN UNION
+HND,Honduras,71,CP,HONDURAS
+TGO,Togo,72,NCO,Non-contracting parties
+CYM,Cayman Islands,74,NCO,Non-contracting parties
+CUW,Curaçao,76,CP,CURAÇAO
+LCA,Sta. Lucia,77,NCO,Non-contracting parties
+STP,S. Tomé e Príncipe,79,CP,S. TOMÉ E PRINCIPE
+GNQ,Guinea Ecuatorial,81,CP,GUINEA ECUATORIAL
+MRT,Mauritania,82,CP,MAURITANIA
+UK.BMU,UK.Bermuda,83,CP,UNITED KINGDOM (O.Territories)
+CMR,Cameroon,84,NCO,Non-contracting parties
+NGA,Nigeria,88,CP,NIGERIA
+ABW,Aruba,90,NCO,Non-contracting parties
+GNB,Guinea Bissau,94,CP,GUINEA BISSAU
+EU.HRV,EU.Croatia,101,CP,EUROPEAN UNION
+RUS,Russian Federation,104,CP,RUSSIA
+GIN,Guinée Rep.,105,CP,GUINÉE REP.
+UKR,Ukraine,110,NCO,Non-contracting parties
+VCT,St. Vincent and Grenadines,111,CP,St VINCENT & GRENADINES
+EU.UK,EU.United Kingdom,112,CP,EUROPEAN UNION
+NAM,Namibia,113,CP,NAMIBIA
+ATG,Antigua and Barbuda,114,NCO,Non-contracting parties
+JAM,Jamaica,115,NCO,Non-contracting parties
+DMA,Dominica,116,NCO,Non-contracting parties
+CHN,China PR,118,CP,CHINA PR.
+GUY,Guyana,119,NCC,Guyana
+BLZ,Belize,134,CP,BELIZE
+CRI,Costa Rica,142,NCC,Costa Rica
+EU.EST,EU.Estonia,143,CP,EUROPEAN UNION
+GEO,Georgia,144,NCO,Non-contracting parties
+EU.LVA,EU.Latvia,145,CP,EUROPEAN UNION
+EU.LTU,EU.Lithuania,146,CP,EUROPEAN UNION
+GMB,Gambia,147,CP,GAMBIA
+ALB,Albania,148,CP,ALBANIA
+SCG,Serbia & Montenegro,152,NCO,Non-contracting parties
+SRB,Serbia,153,NCO,Non-contracting parties
+MNE,Montenegro,154,NCO,Non-contracting parties
+ISL,Iceland,156,CP,ICELAND
+BLR,Belarus,157,NCO,Non-contracting parties
+FRO,Faroe Islands,164,NCO,Non-contracting parties
+PHL,Philippines,165,CP,PHILIPPINES
+KHM,Cambodia,166,NCO,Non-contracting parties
+FLK,Falklands,167,NCO,Non-contracting parties
+FR.SPM,FR.St Pierre et Miquelon,172,CP,FRANCE (St-Pierre et Miquelon)
+PSE,Palestine,178,NCO,Non-contracting parties
+SYC,Seychelles,179,NCO,Non-contracting parties
+KNA,Saint Kitts and Nevis,185,NCO,Non-contracting parties
+MUS,Mauritius,191,NCO,Non-contracting parties
+IND,India,192,NCO,Non-contracting parties
+VUT,Vanuatu,193,CP,VANUATU
+IRN,Iran,194,NCO,Non-contracting parties
+MYS,Malaysia,195,NCO,Non-contracting parties
+GTM,Guatemala,196,CP,GUATEMALA
+SLV,El Salvador,197,CP,EL SALVADOR
+AIA,Anguilla,198,NCO,Non-contracting parties
+UK.TCA,UK.Turks and Caicos,199,CP,UNITED KINGDOM (O.Territories)
+EU.BEL,EU.Belgium,200,CP,EUROPEAN UNION
+UK.VGB,UK.British Virgin Islands,201,CP,UNITED KINGDOM (O.Territories)
+THA,Thailand,202,NCO,Non-contracting parties
+CHL,Chile,203,NCO,Non-contracting parties
+NIC,Nicaragua,204,CP,NICARAGUA
+BHS,Bahamas,205,NCO,Non-contracting parties
+SUR,Suriname,206,NCC,Suriname
+ECU,Ecuador,207,NCO,Non-contracting parties
+AUS,Australia,208,NCO,Non-contracting parties
+FJI,Fiji Islands,209,NCO,Non-contracting parties
+GUM,Guam,210,NCO,Non-contracting parties
+IDN,Indonesia,211,NCO,Non-contracting parties
+KIR,Kiribati,212,NCO,Non-contracting parties
+MDV,Maldives,213,NCO,Non-contracting parties
+PNG,Papua New Guinea,214,NCO,Non-contracting parties
+LKA,Sri Lanka,215,NCO,Non-contracting parties
+VNM,Vietnam,216,NCO,Non-contracting parties
+SGP,Singapore,217,NCO,Non-contracting parties
+OMN,Oman,218,NCO,Non-contracting parties
+NZL,New Zealand,219,NCO,Non-contracting parties
+FSM,Micronesia,220,NCO,Non-contracting parties
+COK,Cook Islands,221,NCO,Non-contracting parties
+BOL,Bolivia,222,NCC,Bolivia
+PLW,Palau,223,NCO,Non-contracting parties
+TON,Tonga,224,NCO,Non-contracting parties
+KEN,Kenya,225,NCO,Non-contracting parties
+PYF,Polynesie Française,226,NCO,Non-contracting parties
+EU.SVN,EU.Slovenia,227,CP,EUROPEAN UNION
+PER,Perú,228,NCO,Non-contracting parties
+CHE,Switzerland,229,NCO,Non-contracting parties
+TZA,Tanzania,230,NCO,Non-contracting parties
+ARE,United Arab Emirates,231,NCO,Non-contracting parties
+KWT,Kuwait,232,NCO,Non-contracting parties
+HTI,Haiti,233,NCO,Non-contracting parties
+MDG,Madagascar,234,NCO,Non-contracting parties
+MOZ,Mozambique,235,NCO,Non-contracting parties
+WSM,Samoa,236,NCO,Non-contracting parties
+SLB,Solomon Islands,238,NCO,Non-contracting parties
+MHL,Marshall Islands,239,NCO,Non-contracting parties
+EU.HUN,EU.Hungary,240,CP,EUROPEAN UNION
+TUV,Tuvalu,241,NCO,Non-contracting parties
+BND,Brunei,242,NCO,Non-contracting parties
+BFA,Burkina Faso,243,NCO,Non-contracting parties
+NCL,New Caledonia,244,NCO,Non-contracting parties
+SAU,Saudi Arabia,245,NCO,Non-contracting parties
+AND,Andorra,246,NCO,Non-contracting parties
+EU.AUT,EU Austria,247,CP,EUROPEAN UNION
+DJI,Djibouti,248,NCO,Non-contracting parties
+BIH,Bosnia and Herzegovina,249,NCO,Non-contracting parties
+EU.CZE,EU.Czechia,250,CP,EUROPEAN UNION
+EU.FIN,EU.Finland,251,CP,EUROPEAN UNION
+EU.LUX,EU.Luxemburg,252,CP,EUROPEAN UNION
+EU.SVK,EU.Slovakia,253,CP,EUROPEAN UNION
+MKD,North Macedonia Rep.,254,NCO,Non-contracting parties
+MNG,Mongolia,255,NCO,Non-contracting parties
+IMN,Isle of Man,256,NCO,Non-contracting parties
+QAT,Qatar,257,NCO,Non-contracting parties
+SMR,San Marino,258,NCO,Non-contracting parties
+NEI.FLAGS,NEI (Flag related),500,NCO,Non-contracting parties
+NEI.001,NEI (ETRO),501,NCO,Non-contracting parties
+NEI.002,NEI (MED),502,NCO,Non-contracting parties
+NEI.COMB,NEI (combined),503,NCO,Non-contracting parties
+NEI-BIL,NEI (BIL),505,NCO,Non-contracting parties
+NEI.INFLT,NEI (inflated),506,NCO,Non-contracting parties
+MIX.FIS,Mixed flags (FIS),800,NCO,Non-contracting parties
+MIX.KR+PA,Mixed flags (KR+PA),801,NCO,Non-contracting parties
+MIX.FR+ES,Mixed flags (FR+ES),802,NCO,Non-contracting parties
+MIX.EU-ETRO,Mixed flags (EU tropical),803,NCO,Non-contracting parties
+ICCAT-RMA,ICCAT (RMA),924,NCO,Non-contracting parties

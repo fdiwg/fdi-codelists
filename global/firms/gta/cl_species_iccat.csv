@@ -1,0 +1,241 @@
+code,label,speciesid,sciename,label_fr, label_es,iccspcgrp,taxontype
+BFT,Northern bluefin tuna,1,Thunnus thynnus,Thon rouge du Nord,Atún rojo,1-Tuna (major sp.),1-Species
+YFT,Yellowfin tuna,3,Thunnus albacares,Albacore,Rabil,1-Tuna (major sp.),1-Species
+ALB,Albacore,4,Thunnus alalunga,Germon,Atún blanco,1-Tuna (major sp.),1-Species
+BET,Bigeye tuna,5,Thunnus obesus,Thon obèse(=Patudo),Patudo,1-Tuna (major sp.),1-Species
+SKJ,Skipjack tuna,8,Katsuwonus pelamis,Listao,Listado,1-Tuna (major sp.),1-Species
+SAI,Atlantic sailfish,15,Istiophorus albicans,Voilier de l'Atlantique,Pez vela del Atlántico,1-Tuna (major sp.),1-Species
+BUM,Atlantic blue marlin,17,Makaira nigricans,Makaire bleu de l'Atlantique,Aguja azul del Atlántico,1-Tuna (major sp.),1-Species
+WHM,Atlantic white marlin,18,Kajikia albida,Makaire blanc de l'Atlantique,Aguja blanca del Atlántico,1-Tuna (major sp.),1-Species
+SWO,Swordfish,19,Xiphias gladius,Espadon,Pez espada,1-Tuna (major sp.),1-Species
+SPF,Longbill spearfish,20,Tetrapturus pfluegeri,Makaire bécune,Aguja picuda,1-Tuna (major sp.),1-Species
+BLF,Blackfin tuna,6,Thunnus atlanticus,Thon à nageoires noires,Atún des aletas negras,2-Tuna (small),1-Species
+LTA,Little tunny(=Atl.black skipj),7,Euthynnus alletteratus,Thonine commune,Bacoreta,2-Tuna (small),1-Species
+BON,Atlantic bonito,9,Sarda sarda,Bonite à dos rayé,Bonito del Atlántico,2-Tuna (small),1-Species
+FRI,Frigate tuna,10,Auxis thazard,Auxide,Melva,2-Tuna (small),1-Species
+BOP,Plain bonito,11,Orcynopsis unicolor,Palomette,Tasarte,2-Tuna (small),1-Species
+WAH,Wahoo,12,Acanthocybium solandri,Thazard-bâtard,Peto,2-Tuna (small),1-Species
+SSM,Atlantic Spanish mackerel,13,Scomberomorus maculatus,Thazard atlantique,Carite atlántico,2-Tuna (small),1-Species
+KGM,King mackerel,14,Scomberomorus cavalla,Thazard barré,Carite lucio,2-Tuna (small),1-Species
+SLT,Slender tuna,27,Allothunnus fallai,Thon élégant,Atún lanzón,3-Tuna (other),1-Species
+MAW,West African Spanish mackerel,28,Scomberomorus tritor,Thazard blanc,Carite lusitánico,2-Tuna (small),1-Species
+CER,Cero,29,Scomberomorus regalis,Thazard franc,Carite chinigua,2-Tuna (small),1-Species
+BLT,Bullet tuna,30,Auxis rochei,Bonitou,Melva(=Melvera),2-Tuna (small),1-Species
+BRS,Serra Spanish mackerel,32,Scomberomorus brasiliensis,Thazard serra,Serra,2-Tuna (small),1-Species
+DOL,Common dolphinfish,300,Coryphaena hippurus,Coryphène commune,Lampuga,2-Tuna (small),1-Species
+KGX,Seerfishes nei,26,Scomberomorus spp,Thazards nca,Carites nep,3-Tuna (other),2-Genus
+SBF,Southern bluefin tuna,2,Thunnus maccoyii,Thon rouge du Sud,Atún del Sur,3-Tuna (other),1-Species
+BLM,Black marlin,16,Makaira indica,Makaire noir,Aguja negra,3-Tuna (other),1-Species
+MAS,Chub mackerel,34,Scomber japonicus,Maquereau espagnol,Estornino,1-Tuna (major sp.),1-Species
+LEC,Escolar,35,Lepidocybium flavobrunneum,Escolier noir,Escolar negro,3-Tuna (other),1-Species
+BSF,black scabbardfish,36,Aphanopus carbo,Sabre noir,Sable negro,6-Other Species,1-Species
+GES,Snake mackerel,38,Gempylus serpens,Escolier serpent,Escolar de canal,3-Tuna (other),1-Species
+NEN,Black gemfish,39,Nesiarchus nasutus,Escolier long nez,Escolar narigudo,1-Tuna (major sp.),1-Species
+SFS,Silver scabbardfish,40,Lepidopus caudatus,Sabre argenté,Pez cinto,6-Other Species,1-Species
+OIL,Oilfish,48,Ruvettus pretiosus,Rouvet,Escolar clavo,3-Tuna (other),1-Species
+BIP,Striped bonito,50,Sarda orientalis,Bonite oriental,Bonito mono,1-Tuna (major sp.),1-Species
+BEP,Eastern Pacific bonito,51,Sarda chiliensis,Bonite du Pacifique oriental,Bonito del Pacífico oriental,1-Tuna (major sp.),1-Species
+BAU,Australian bonito,52,Sarda australis,Bonite bagnard,Bonito austral,1-Tuna (major sp.),1-Species
+DOT,Dogtooth tuna,53,Gymnosarda unicolor,Bonite à gros yeux,Casarte ojón,1-Tuna (major sp.),1-Species
+CHY,Chinese seerfish,54,Scomberomorus sinensis,Thazard nébuleux,Carite indochino,1-Tuna (major sp.),1-Species
+COM,Narrow-barred Spanish mackerel,55,Scomberomorus commerson,Thazard rayé indo-pacifique,Carite estriado Indo-Pacífico,1-Tuna (major sp.),1-Species
+GUT,Indo-Pacific king mackerel,56,Scomberomorus guttatus,Thazard ponctué indo-pacifique,Carite del Indo-Pacífico,1-Tuna (major sp.),1-Species
+STS,Streaked seerfish,57,Scomberomorus lineolatus,Thazard cirrus,Carite rayado,1-Tuna (major sp.),1-Species
+SIE,Pacific sierra,58,Scomberomorus sierra,Thazard sierra(Pacifique),Carite sierra,1-Tuna (major sp.),1-Species
+QUM,Queensland school mackerel,59,Scomberomorus queenslandicus,Thazard du Queensland,Carite de Queensland,1-Tuna (major sp.),1-Species
+NPH,Japanese Spanish mackerel,60,Scomberomorus niphonius,Thazard oriental,Carite oriental,3-Tuna (other),1-Species
+BBM,Broad-barred king mackerel,61,Scomberomorus semifasciatus,Thazard tigré,Carite tigre,1-Tuna (major sp.),1-Species
+KOS,Korean seerfish,62,Scomberomorus koreanus,Thazard coréen,Carite coreano,1-Tuna (major sp.),1-Species
+MOS,Monterey Spanish mackerel,63,Scomberomorus concolor,Thazard de Monterey,Carite de Monterrey,1-Tuna (major sp.),1-Species
+PAP,Papuan seerfish,64,Scomberomorus multiradiatus,Thazard papou,Carite papuense,1-Tuna (major sp.),1-Species
+KAK,Kanadi kingfish,65,Scomberomorus plurilineatus,Thazard kanadi,Carite canadí,3-Tuna (other),1-Species
+ASM,Australian spotted mackerel,66,Scomberomorus munroi,Thazard australien,Carite australiano,1-Tuna (major sp.),1-Species
+BUK,Butterfly kingfish,67,Gasterochisma melampus,Thon papillon,Atún chauchera,3-Tuna (other),1-Species
+LEB,Leaping bonito,68,Cybiosarda elegans,Bonite à dos tacheté,Bonito saltador,1-Tuna (major sp.),1-Species
+SHM,Shark mackerel,69,Grammatorcynus bicarinatus,Thazard requin,Carite-cazón,1-Tuna (major sp.),1-Species
+DBM,Double-lined mackerel,70,Grammatorcynus bilineatus,Thazard-kusara,Carite-cazón pintado,3-Tuna (other),1-Species
+BKJ,Black skipjack,72,Euthynnus lineatus,Thonine noire,Barrilete negro,3-Tuna (other),1-Species
+KAW,Kawakawa,73,Euthynnus affinis,Thonine orientale,Bacoreta oriental,3-Tuna (other),1-Species
+LOT,Longtail tuna,74,Thunnus tonggol,Thon mignon,Atún tongol,3-Tuna (other),1-Species
+SFA,Indo-Pacific sailfish,76,Istiophorus platypterus,Voilier indo-pacifique,Pez vela del Indo-Pacífico,1-Tuna (major sp.),1-Species
+MSP,Mediterranean spearfish,78,Tetrapturus belone,Marlin de la Méditerranée,Marlín del Mediterráneo,3-Tuna (other),1-Species
+MLS,Striped marlin,79,Tetrapturus audax,Marlin rayé,Marlín rayado,3-Tuna (other),1-Species
+SSP,Shortbill spearfish,80,Tetrapturus angustirostris,Makaire à rostre court,Marlín trompa corta,3-Tuna (other),1-Species
+RSP,Roundscale spearfish,81,Tetrapturus georgii,Makaire épée,Marlín peto,3-Tuna (other),1-Species
+TUS,True tunas nei,75,Thunnus spp,Thons Thunnus nca,Atunes verdaderos nep,3-Tuna (other),2-Genus
+TUN,Tunas nei,21,Thunnini,Thonidés nca,Atunes nep,3-Tuna (other),3-Tribe
+BIL,"Marlins, sailfishes, etc. Nei",24,Istiophoridae,"Makaires, marlins, voiliers nca","Agujas, marlines, peces vela nep",3-Tuna (other),4-Family
+CUT,"Hairtails, scabbardfishes nei",37,Trichiuridae,"Poissons-sabres, sabres nca","Peces sable, cintos nep",1-Tuna (major sp.),4-Family
+TUX,Tuna-like fishes nei,83,Scombroidei,Poissons type thon nca,Peces parec.a los atunes nep,1-Tuna (major sp.),5-Suborder
+SMA,Shortfin mako,109,Isurus oxyrinchus,Taupe bleue,Marrajo dientuso,4-Sharks (major),1-Species
+POR,Porbeagle,112,Lamna nasus,Requin-taupe commun,Marrajo sardinero,4-Sharks (major),1-Species
+BSH,Blue shark,126,Prionace glauca,Peau bleue,Tiburón azul,4-Sharks (major),1-Species
+BSK,Basking shark,103,Cetorhinus maximus,Pèlerin,Peregrino,5-Sharks (other),1-Species
+ALV,Thresher,105,Alopias vulpinus,Renard,Zorro,5-Sharks (other),1-Species
+BTH,Bigeye thresher,107,Alopias superciliosus,Renard à gros yeux,Zorro ojón,5-Sharks (other),1-Species
+LMA,Longfin mako,110,Isurus paucus,Petite taupe,Marrajo carite,5-Sharks (other),1-Species
+WSH,Great white shark,114,Carcharodon carcharias,Grand requin blanc,Jaquetón blanco,5-Sharks (other),1-Species
+RHN,Whale shark,118,Rhincodon typus,Requin baleine,Tiburón ballena,5-Sharks (other),1-Species
+OCS,Oceanic whitetip shark,132,Carcharhinus longimanus,Requin océanique,Tiburón oceánico,5-Sharks (other),1-Species
+FAL,Silky shark,135,Carcharhinus falciformis,Requin soyeux,Tiburón jaquetón,5-Sharks (other),1-Species
+SPZ,Smooth hammerhead,150,Sphyrna zygaena,Requin-marteau commun,Cornuda cruz(=Pez martillo),5-Sharks (other),1-Species
+SPL,Scalloped hammerhead,151,Sphyrna lewini,Requin-marteau halicorne,Cornuda común,5-Sharks (other),1-Species
+SPK,Great hammerhead,153,Sphyrna mokarran,Grand requin marteau,Cornuda gigante,5-Sharks (other),1-Species
+CCG,Galapagos shark,200,Carcharhinus galapagensis,Requin des Galapagos,Tiburón de Galápagos,5-Sharks (other),1-Species
+PSK,Crocodile shark,202,Pseudocarcharias kamoharai,Requin crocodile,Tiburón cocodrilo,5-Sharks (other),1-Species
+ISB,Cookie cutter shark,209,Isistius brasiliensis,Squalelet féroce,Tollo cigarro,5-Sharks (other),1-Species
+LMP,Megamouth shark,210,Megachasma pelagios,Requin grande guele,Tiburón bocudo,5-Sharks (other),1-Species
+PLS,Pelagic stingray,218,Pteroplatytrygon violacea,Pastenague violette,Raya-látigo violeta,5-Sharks (other),1-Species
+QUL,Spined pygmy shark,221,Squaliolus laticaudus,Squale nain,Tollo pigmeo espinudo,5-Sharks (other),1-Species
+RMB,Giant manta,227,Manta birostris,Mante géante,Manta gigante,5-Sharks (other),1-Species
+RMH,Lesser devil ray,228,Mobula hypostoma,Mante diable,Manta del Golfo,5-Sharks (other),1-Species
+RMJ,Spinetail mobula,229,Mobula japanica,,,5-Sharks (other),1-Species
+RMM,Devil fish,230,Mobula mobular,Diable de mer méditerranéen,Manta mobula,5-Sharks (other),1-Species
+RMO,Smoothtail mobula,231,Mobula thurstoni,Mante vampire,Diablo chupasangre,5-Sharks (other),1-Species
+RMT,Chilean devil ray,232,Mobula tarapacana,,,5-Sharks (other),1-Species
+RMN,Lesser Guinean devil ray,243,Mobula rochebrunei,Petit diable de Guinée,Diablito de Guinea,5-Sharks (other),1-Species
+THR,Thresher sharks nei,108,Alopias spp,Renards de mer nca,Zorros nep,5-Sharks (other),2-Genus
+MAK,Mako sharks nei,111,Isurus spp,Taupes nca,Marrajos nep,5-Sharks (other),2-Genus
+SPN,Hammerhead sharks nei,154,Sphyrna spp,Requins marteau nca,Cornudas (Peces martillo) nep,5-Sharks (other),2-Genus
+MSK,"Mackerel sharks,porbeagles nei",115,Lamnidae,Requins taupe nca,"Jaquetones,marrajos nep",5-Sharks (other),4-Family
+RSK,Requiem sharks nei,149,Carcharhinidae,Requins nca,"Cazones picudos,tintoreras nep",5-Sharks (other),4-Family
+SPY,"Hammerhead sharks, etc. nei",155,Sphyrnidae,"Requins marteau, etc. nca","Cornudas, etc. nep",5-Sharks (other),4-Family
+MAN,"Mantas, devil rays nei",212,Mobulidae,"Mantes, diables de mer nca","Mantas, diablos nep",5-Sharks (other),4-Family
+STT,"Stingrays, butterfly rays nei",234,Dasyatidae,"Pastenagues, etc. nca","Pastinacas, etc. nep",5-Sharks (other),4-Family
+AGN,Angelshark,190,Squatina squatina,Ange de mer commun,Angelote,5-Sharks (other),1-Species
+ALS,Silvertip shark,137,Carcharhinus albimarginatus,Requin pointe blanche,Tiburón de puntas blancas,5-Sharks (other),1-Species
+AMB,Greater amberjack,306,Seriola dumerili,Sériole couronnée,Pez de limón,6-Other Species,1-Species
+AMX,Amberjacks nei,307,Seriola spp,Sérioles nca,Medregales nep,6-Other Species,2-Genus
+API,Deep-water catsharks,124,Apristurus spp,Holbiches,Pejegatos,5-Sharks (other),2-Genus
+ASK,"Angelsharks, sand devils nei",191,Squatinidae,Anges de mer nca,"Angelotes, peces ángel nep",5-Sharks (other),4-Family
+BLR,Blacktip reef shark,130,Carcharhinus melanopterus,Requin pointes noires,Tiburón de puntas negras,5-Sharks (other),1-Species
+BRO,Copper shark,138,Carcharhinus brachyurus,Requin cuivre,Tiburón cobrizo,5-Sharks (other),1-Species
+CCA,Bignose shark,144,Carcharhinus altimus,Requin babosse,Tiburón baboso,5-Sharks (other),1-Species
+CCB,Spinner shark,139,Carcharhinus brevipinna,Requin tisserand,Tiburón aleta negra,5-Sharks (other),1-Species
+CCE,Bull shark,136,Carcharhinus leucas,Requin bouledogue,Tiburón sarda,5-Sharks (other),1-Species
+CCL,Blacktip shark,129,Carcharhinus limbatus,Requin bordé,Tiburón macuira,5-Sharks (other),1-Species
+CCN,Blacknose shark,131,Carcharhinus acronotus,Requin nez noir,Tiburón amarillo,5-Sharks (other),1-Species
+CCO,Finetooth shark,143,Carcharhinus isodon,Requin à petits dents,Tiburón dentiliso,5-Sharks (other),1-Species
+CCP,Sandbar shark,128,Carcharhinus plumbeus,Requin gris,Tiburón trozo,5-Sharks (other),1-Species
+CCR,Smalltail shark,133,Carcharhinus porosus,Requin tiqueue,Tiburón poroso,5-Sharks (other),1-Species
+CCS,Night shark,141,Carcharhinus signatus,Requin de nuit,Tiburón de noche,5-Sharks (other),1-Species
+CCT,Sand tiger shark,104,Carcharias taurus,Requin taureau,Toro bacota,5-Sharks (other),1-Species
+CFB,Black dogfish,187,Centroscyllium fabricii,Aiguillat noir,Tollo negro merga,5-Sharks (other),1-Species
+CPL,Lowfin gulper shark,174,Centrophorus lusitanicus,Squale-chagrin longue dorsale,Quelvacho lusitánico,5-Sharks (other),1-Species
+CTK,Brown smooth-hound,156,Mustelus henlei,Emissole brune,Musola parda,5-Sharks (other),1-Species
+CVJ,Crevalle jack,301,Caranx hippos,Carangue crevalle,Jurel común,6-Other Species,1-Species
+CVX,Ground sharks,165,Carcharhiniformes,,,5-Sharks (other),9-other
+CXX,Coastal Sharks nei,501,Coastal Sharks nei,,,5-Sharks (other),9-other
+CYO,Portuguese dogfish,181,Centroscymnus coelolepis,Pailona commun,Pailona,5-Sharks (other),1-Species
+CYP,Longnose velvet dogfish,182,Centroscymnus crepidater,Pailona à long nez,Sapata negra,5-Sharks (other),1-Species
+DCA,Birdbeak dogfish,179,Deania calcea,Squale savate,Tollo pajarito,5-Sharks (other),1-Species
+DGH,Dogfishes and hounds nei,189,Squalidae / Scyliorhinidae,Squales et émissoles nca,"Galludos, tollos y musolas nep",5-Sharks (other),4-Family
+DGS,Picked dogfish,168,Squalus acanthias,Aiguillat commun,Mielga,5-Sharks (other),1-Species
+DGX,Dogfish sharks nei,188,Squalidae,Squales nca,"Galludos, tollos, nep",5-Sharks (other),4-Family
+DGZ,Dogfish nei,170,Squalus spp,Aiguillats nca,Mielgas nep,5-Sharks (other),2-Genus
+DOP,Shortnose spurdog,169,Squalus megalops,Aiguillat nez court,Galludo ñato,5-Sharks (other),1-Species
+DUS,Dusky shark,134,Carcharhinus obscurus,Requin de sable,Tiburón arenero,5-Sharks (other),1-Species
+ETR,Great lanternshark,176,Etmopterus princeps,Sagre rude,Tollo lucero raspa,5-Sharks (other),1-Species
+ETX,Velvet belly,175,Etmopterus spinax,Sagre commun,Negrito,5-Sharks (other),1-Species
+FRZ,Frigate and bullet tunas,71,Auxis thazard / A.rochei,Auxide et bonitou,Melva y melvera,1-Tuna (major sp.),1-Species
+GAG,Tope shark,161,Galeorhinus galeus,Requin-hâ,Cazón,5-Sharks (other),1-Species
+GAR,Garfish,347,Belone belone,Orphie,Aguja,6-Other Species,1-Species
+GAU,Crest-tail catsharks nei,120,Galeus spp,Chiens galeus nca,Pintarrojas nep,5-Sharks (other),2-Genus
+GBA,Great barracuda,302,Sphyraena barracuda,Barracuda,Picuda barracuda,6-Other Species,1-Species
+GNC,Nurse shark,116,Ginglymostoma cirratum,Requin-nourrice,Gata nodriza,5-Sharks (other),1-Species
+GNG,Nurse sharks nei,117,Ginglymostoma spp,Requins-nourrices nca,Gatas nodrizas nep,5-Sharks (other),2-Genus
+GSK,Greenland shark,166,Somniosus microcephalus,Laimargue du Groenland,Tollo de Groenlandia,5-Sharks (other),1-Species
+GUP,Gulper shark,171,Centrophorus granulosus,Squale-chagrin commun,Quelvacho,5-Sharks (other),1-Species
+GUQ,Leafscale gulper shark,173,Centrophorus squamosus,Squale-chagrin de l'Atlantique,Quelvacho negro,5-Sharks (other),1-Species
+HXT,Sharpnose sevengill shark,100,Heptranchias perlo,Requin perlon,Cañabota bocadulce,5-Sharks (other),1-Species
+LAG,Opah,308,Lampris guttatus,Opah,Opa,6-Other Species,1-Species
+LEE,Leerfish,355,Lichia amia,Liche,Palometón,6-Other Species,1-Species
+LES,Leopard shark,162,Triakis semifasciata,Virli léopard,Tollo leopardo,5-Sharks (other),1-Species
+LMD,Salmon shark,113,Lamna ditropis,Requin-taupe saumon,Marrajo salmón,5-Sharks (other),1-Species
+MOX,Ocean sunfish,361,Mola mola,Poisson lune,Pez luna,6-Other Species,1-Species
+NAU,Pilotfish,363,Naucrates ductor,Poisson pilote,Pez piloto,6-Other Species,1-Species
+NGB,Lemon shark,146,Negaprion brevirostris,Requin citron,Tiburón galano,5-Sharks (other),1-Species
+NTC,Broadnose sevengill shark,102,Notorynchus cepedianus,Platnez,Cañabota gata,5-Sharks (other),1-Species
+OXN,Sailfin roughshark,193,Oxynotus paradoxus,Humantin,Cerdo marino velero,5-Sharks (other),1-Species
+OXY,Angular roughshark,192,Oxynotus centrina,Centrine commune,Cerdo marino,5-Sharks (other),1-Species
+POA,Atlantic pomfret,305,Brama brama,Grande castagnole,Japuta,6-Other Species,1-Species
+PTH,Pelagic thresher,106,Alopias pelagicus,Renard pélagique,Zorro pelágico,5-Sharks (other),1-Species
+PTM,False catshark,164,Pseudotriakis microdon,Requin à longue dorsale,Musolón de aleta larga,5-Sharks (other),1-Species
+PXX,Pelagic Sharks nei,500,Pelagic Sharks nei,,,5-Sharks (other),9-other
+QUB,Longnose spurdog,219,Squalus blainville,Aiguillat coq,Galludo,5-Sharks (other),1-Species
+RHA,Milk shark,201,Rhizoprionodon acutus,Requin à museau pointu,Cazón lechoso,5-Sharks (other),1-Species
+RHT,Atlantic sharpnose shark,147,Rhizoprionodon terraenovae,Requin aguille gussi,Cazón picudo atlántico,5-Sharks (other),1-Species
+RHZ,Sharpnose sharks nei,148,Rhizoprionodon spp,Requins aguilles gussi nca,Cazones picudos nep,5-Sharks (other),2-Genus
+SAU,Atlantic saury,304,Scomberesox saurus,Balaou atlantique,Paparda del Atlántico,6-Other Species,1-Species
+SBL,Bluntnose sixgill shark,101,Hexanchus griseus,Requin griset,Cañabota gris,5-Sharks (other),1-Species
+SCK,Kitefin shark,186,Dalatias licha,Squale liche,Carocho,5-Sharks (other),1-Species
+SCL,"Catsharks, nursehounds nei",123,Scyliorhinus spp,Roussettes nca,"Alitanes, pintarrojas nep",5-Sharks (other),2-Genus
+SDP,Narrownose smooth-hound,157,Mustelus schmitti,Emissole gatuso,Gatuso,5-Sharks (other),1-Species
+SDS,Starry smooth-hound,159,Mustelus asterias,Emissole tachetée,Musola dentuda,5-Sharks (other),1-Species
+SDV,Smooth-hounds nei,160,Mustelus spp,Emissoles nca,Tollos nep,5-Sharks (other),2-Genus
+SHB,Bramble shark,194,Echinorhinus brucus,Squale bouclé,Tiburón de clavos,5-Sharks (other),1-Species
+SHL,Lanternsharks nei,178,Etmopterus spp,Sagres nca,Tollos lucero nep,5-Sharks (other),2-Genus
+SHO,Blackmouth catshark,119,Galeus melastomus,Chien espagnol,Pintarroja bocanegra,5-Sharks (other),1-Species
+SHX,"Dogfish sharks, etc. nei",195,Squaliformes,Squaliformes nca,Squaliformes nep,5-Sharks (other),9-other
+SKH,Various sharks nei,196,Selachimorpha(Pleurotremata),Requins divers nca,Escualos diversos nep,5-Sharks (other),6-Superorder
+SMD,Smooth-hound,158,Mustelus mustelus,Emissole lisse,Musola,5-Sharks (other),1-Species
+SOR,Little sleeper shark,167,Somniosus rostratus,Laimargue de la Méditerranée,Tollo boreal,5-Sharks (other),1-Species
+SPJ,Bonnethead,152,Sphyrna tiburo,Requin marteau tiburo,Cornuda de corona,5-Sharks (other),1-Species
+SYC,Small-spotted catshark,121,Scyliorhinus canicula,Petite roussette,Pintarroja,5-Sharks (other),1-Species
+SYO,Smallmouth knifetooth dogfish,184,Scymnodon obscurus,Squale-grogneur à queue échan.,Bruja bocachica,5-Sharks (other),1-Species
+SYR,Knifetooth dogfish,185,Scymnodon ringens,Squale-grogneur commun,Bruja,5-Sharks (other),1-Species
+SYT,Nursehound,122,Scyliorhinus stellaris,Grande roussette,Alitán,5-Sharks (other),1-Species
+SYX,"Catsharks, etc. nei",125,Scyliorhinidae,"Chiens,holbiches,rousset. nca","Alitanes,pejegatos,pintar. nep",5-Sharks (other),4-Family
+TIG,Tiger shark,145,Galeocerdo cuvier,Requin tigre commun,Tintorera tigre,5-Sharks (other),1-Species
+TRI,"Triggerfishes, durgons nei",384,Balistidae,Balistes nca,Peces-ballesta nep,6-Other Species,4-Family
+TRK,"Houndsharks, smoothhounds nei",163,Triakidae,"Emissoles, requins-hâ nca","Cazones, tollos nep",5-Sharks (other),4-Family
+YTC,Yellowtail amberjack,303,Seriola lalandi,Sériole chicard,Medregal rabo amarillo,6-Other Species,1-Species
+ALM,Unicorn leatherjacket filefish,323,Aluterus monoceros,Bourse loulou,Lija barbuda,6-Other Species,1-Species
+CFW,Pompano dolphinfish,338,Coryphaena equiselis,Coryphène dauphin,Dorado,6-Other Species,1-Species
+CNT,Rough triggerfish,339,Canthidermis maculata,Baliste rude,Calafate áspero,6-Other Species,1-Species
+DIY,Spot-fin porcupinefish,344,Diodon hystrix,Porc-épic boubou,Pejerizo común,6-Other Species,1-Species
+FLY,Flyingfishes nei,346,Exocoetidae,Exocets nca,Voladores nep,6-Other Species,4-Family
+MRW,Sharptail mola,362,Masturus lanceolatus,Poisson-lune lancéolé,Masturus lanceolatus,6-Other Species,1-Species
+RRU,Rainbow runner,373,Elagatis bipinnulata,Comète saumon,Macarela salmón,6-Other Species,1-Species
+RUB,Blue runner,375,Caranx crysos,Carangue coubali,Cojinúa negra,6-Other Species,1-Species
+RZV,Slender sunfish,376,Ranzania laevis,Ranzania,Ranzania,6-Other Species,1-Species
+TCR,Dagger pomfret,380,Taractes rubescens,,,6-Other Species,1-Species
+TRG,Grey triggerfish,383,Balistes carolinensis,Baliste cabri,Pejepuerco blanco,6-Other Species,1-Species
+TST,Sickle pomfret,387,Taractichthys steindachneri,,Tristón segador,6-Other Species,1-Species
+USE,Cottonmouth jack,388,Uraspis secunda,Carangue coton,Jurel volantín,6-Other Species,1-Species
+YTL,Longfin yellowtail,391,Seriola rivoliana,Sériole limon,Medregal limón,6-Other Species,1-Species
+AWI,Orange filefish,310,Aluterus schoepfii,Bourse orange,Lija naranja,6-Other Species,1-Species
+BAZ,"Barracudas, etc. nei",329,Sphyraenidae,"Bécunes, barracudas, nca","Barracudas, picudas, nep",6-Other Species,4-Family
+BEN,"Needlefishes, etc. nei",330,Belonidae,"Aiguilles, orphies nca","Agujones, maraos nep",6-Other Species,4-Family
+CWO,Gulper sharks nei,252,Centrophorus spp,Squales-chagrins nca,Quelvachos nep,5-Sharks (other),2-Genus
+HMM,Mediterranean horse mackerel,352,Trachurus mediterraneus,Chinchard à queue jaune,Jurel mediterráneo,6-Other Species,1-Species
+MOP,Sunfishes nei,360,Mola spp,Poissons lune nca,Peces luna nep,6-Other Species,2-Genus
+oSmt,NA,NA,other small tuna,NA,NA,2-Tuna (small),1-Species
+oSks,other sharks,NA,other sharks,NA,NA,5-Sharks (other),1-Species
+oTun,other tuna,NA,other tuna,NA,NA,1-Tuna (major sp.),1-Species
+LGH,Oceanic puffer,316,Lagocephalus lagocephalus,Compère océanique,Tamboril liebre,6-Other Species,1-Species
+BVP,Bluespotted triggerfish,311,Balistes punctatus,Baliste à taches bleues,Pejepuerco moteado,6-Other Species,1-Species
+BRZ,"Pomfrets, ocean breams nei",333,Bramidae,Castagnoles nca,Japutas nep,NA,4-Family
+DWH,Atlantic white-sided dolphin,411,Lagenorhynchus acutus,Dauphin à flancs blancs Atlan.,Delfín de flancos blancos,9-Mammals,1-Species
+TTH,Hawksbill turtle,703,Eretmochelys imbricata,Tortue caret,Tortuga carey,7-Sea turtles,1-Species
+TTX,Marine turtles nei,706,Cheloniidae,Tortues de mer nca,Tortugas de mar nep,7-Sea turtles,4-Family
+LHZ,Herring gull,800,Larus argentatus,Goéland argenté,Gaviota argéntea,8-Seabirds,1-Species
+AVO,Smooth alligatorfish,197,Anoplagonus inermis,,,5-Sharks (other),1-Species
+CCI,Blackspot shark,140,Carcharhinus sealei,Requin à tache noir,Tiburón alinegro,5-Sharks (other),1-Species
+CCM,Hardnose shark,142,Carcharhinus macloti,Requin à nez rude,Tiburón trompudo,5-Sharks (other),1-Species
+CPU,Little gulper shark,172,Centrophorus uyato,Petit squale-chagrin,Galludito,5-Sharks (other),1-Species
+CYY,Shortnose velvet dogfish,183,Centroscymnus cryptacanthus,Pailona sans épine,Pailona ñata,5-Sharks (other),1-Species
+DKK,Leatherback turtle,700,Dermochelys coriacea,Tortue Luth,Tortuga Laud,7-Sea turtles,1-Species
+DLP,Dolphins nei,428,Delphinidae,Dauphins nca,Delfínidos nep,9-Mammals,4-Family
+DNA,Deania dogfishes nei,180,Deania spp,Squales-savate nca,Tollos deania nep,5-Sharks (other),2-Genus
+ETP,Smooth lanternshark,177,Etmopterus pusillus,Sagre nain,Tollo lucero liso,5-Sharks (other),1-Species
+LKV,Olive Ridley turtle,701,Lepidochelys olivacea,Tortue olivatre,Tortuga golfina,7-Sea turtles,1-Species
+LKY,Kemp's ridley turtle,702,Lepidochelys kempii,Tortue de Kemp,Tortuga lora,7-Sea turtles,1-Species
+LMO,goblin shark ,249,Mitsukurina owstoni ,Requin lutin,Tiburón duende,5-Sharks (other),1-Species
+LMT,Broadfin shark,127,Lamiopsis temmincki,Requin grandes ailes,Tiburón aletón,5-Sharks (other),1-Species
+LVU,Great black-backed gull,804,Larus marinus,Goéland marin,Gavión atlántico,8-Seabirds,1-Species
+MAH,Hall's giant petrel,832,Macronectes halli,Pétrel De Hall,Petrel gigante de Hall,8-Seabirds,1-Species
+PUG,Great shearwater,805,Puffinus gravis,Puffin majeur,Pardela capirotada,8-Seabirds,1-Species
+SHW,Short-finned pilot whale,423,Globicephala macrorhynchus,Globicéphale tropical,Calderón de aletas cortas,9-Mammals,1-Species
+TTL,Loggerhead turtle,704,Caretta caretta,Caouane,Caguama,7-Sea turtles,1-Species
+TUG,Green turtle,705,Chelonia mydas,Tortue verte,Tortuga verde,7-Sea turtles,1-Species

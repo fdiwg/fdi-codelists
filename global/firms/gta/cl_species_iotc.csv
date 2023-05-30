@@ -1,0 +1,192 @@
+code,label,spsort,label_fr,splat,spgroup,spgroupe,spwp_spgt
+AGN,Angel shark,25,r,R,SHARKS,REQUINS,BYCT
+ALB,Albacore,4,Germon,Thunnus alalunga,TUNAS,THONS,TEMP
+ALI,Lancetfishes nei,26,Lanciers,Alepisaurus spp,OTHERS,AUTRES,UNCL
+ALM,Unicorn leatherjacket filefish,26,U,Aluterus monoceros,OTHERS,AUTRES,UNCL
+ALN,Scribbled leatherjacket filefi,26,Bourse écriture,Aluterus scriptus,OTHERS,AUTRES,UNCL
+ALS,Silvertip shark,25,Requin pointe blanche,Carcharhinus albimarginatus,SHARKS,REQUINS,BYCT
+ALV,Thresher Shark,25,Renard,Alopias vulpinus,SHARKS,REQUINS,BYCT
+AMB,Greater amberjack,26,Sériole couronnée,Seriola dumerili,OTHERS,AUTRES,UNCL
+AML,Grey Reef Shark,25,Requin dagsit,Carcharhinus amblyrhynchos,SHARKS,REQUINS,BYCT
+AMX,Amberjacks nei,26,Sérioles nca,Seriola spp,OTHERS,AUTRES,UNCL
+ASM,Australia Spotted Mackerel,26,Thazard Australien,Scomberomorus munroi,OTHERS,AUTRES,UNCL
+AYBT,"Albacore, yellowfin and bigeye tunas",11,Germon ;Albacore; Thon obèse,thunnus spp,TUNAS,THONS,UNCL
+BAF,Flat needlefish,26,Orphie plate,Ablennes hians,OTHERS,AUTRES,UNCL
+BAO,Longfin batfish,26,B,Platax teira,OTHERS,AUTRES,UNCL
+BAR,Barracudas,26,Brochets de mer,Sphyraena spp,OTHERS,AUTRES,UNCL
+BAT,Batfishes,26,Poules d'eau,Platax spp,OTHERS,AUTRES,UNCL
+BAU,Australian bonito,26,Bonite bagnard,Sarda australis,OTHERS,AUTRES,UNCL
+BBM,Broad-barred King Mackerel,26,Thazard sp,Scomberomorus semifasciatus,OTHERS,AUTRES,UNCL
+BEN,"Needlefishes, etc. nei",26,"Aiguilles, orphies nca",Belonidae,OTHERS,AUTRES,UNCL
+BET,Bigeye tuna,2,Patudo; Thon obèse,Thunnus obesus,TUNAS,THONS,TROP
+BFT,Northern bluefin tuna,5,Thon rouge du Nord,Thunnus thynnus,TUNAS,THONS,TEMP
+BIL,Marlins and sailfish and spearfish nei,23,Makaires et marlins et voiliers nca,Istiophoridae,BILLFISH,PORTE-ÉPÉE,BILL
+BILL,Billfish nei,23,Poissons epée nca,Xiphioidei,BILLFISH,PORTE-ÉPÉE,BILL
+BIP,Striped bonito,26,Bonite oriental,Sarda orientalis,OTHERS,AUTRES,UNCL
+BIS,Bigeye scad,26,Sélar coulisou,Selar crumenophthalmus,OTHERS,AUTRES,UNCL
+BLM,Black Marlin,19,Makaire noir,Makaira indica,BILLFISH,PORTE-ÉPÉE,BILL
+BLR,Blacktip reef shark,25,Requin pointes noires,Carcharhinus melanopterus,SHARKS,REQUINS,BYCT
+BLT,Bullet tuna,8,Bonitou,Auxis rochei,TUNAS,THONS,NERI
+BRA,Brama,26,Brama,Brama spp,OTHERS,AUTRES,UNCL
+BRO,Copper shark,25,Requin cuivre,Carcharhinus brachyurus,SHARKS,REQUINS,BYCT
+BSH,Blue shark,25,Peau bleue,Prionace glauca,SHARKS,REQUINS,BYCT
+BSX,"Groupers, seabasses nei",26,Serranidés nca,Serranidae,OTHERS,AUTRES,UNCL
+BTH,Bigeye thresher,25,Renard a gros yeux,Alopias Sperciliosus,SHARKS,REQUINS,BYCT
+BTS,Hound needlefish,26,Aiguille crocodile,Tylosurus crocodilus,OTHERS,AUTRES,UNCL
+BUK,Butterfly kingfish,26,Thon papillon,Gasterochisma melampus,OTHERS,AUTRES,UNCL
+BUM,Blue Marlin,18,Makaire bleu,Makaira nigricans,BILLFISH,PORTE-ÉPÉE,BILL
+BVV,Yellowmouth barracuda,26,Bécune bouche jaune,Sphyraena viridensis,OTHERS,AUTRES,UNCL
+BXQ,Marlins nei,23,Makaires nca,Makaira spp,BILLFISH,PORTE-ÉPÉE,BILL
+CAT,Catfishes,26,Loups nca,Anarhichas spp,OTHERS,AUTRES,UNCL
+CCB,Spinner Shark,25,Requin tisserand,Carcharhinus brevipinna,SHARKS,REQUINS,BYCT
+CCD,Whitecheek shark,25,Requin joues blanches,Carcharhinus dussumieri,SHARKS,REQUINS,BYCT
+CCE,Bull shark,25,Requin bouledogue,Carcharhinus leucas,SHARKS,REQUINS,BYCT
+CCG,Galapagos shark,25,Requin des Galapagos,Carcharhinus galapagensis,SHARKS,REQUINS,BYCT
+CCL,Blacktip shark,25,Requin bordé,Carcharhinus limbatus,SHARKS,REQUINS,BYCT
+CCM,Hardnose shark,25,Requin à nez rude,Tiburón trompudo,SHARKS,REQUINS,BYCT
+CCO,Finetooth shark,25,Requin à petits dents,Carcharhinus isodon,SHARKS,REQUINS,BYCT
+CCP,Sandbar shark,25,Requin gris,Carcharhinus plumbeus,SHARKS,REQUINS,BYCT
+CCQ,Spot-tail shark,25,Requin queue tachet,Carcharhinus sorrah,SHARKS,REQUINS,BYCT
+CCW,Blacktail reef shark,25,Requin à queue noire,Carcharhinus wheeleri,SHARKS,REQUINS,BYCT
+CCY,Graceful shark,25,Requin gracile,Carcharhinus amblyrhynchoides,SHARKS,REQUINS,BYCT
+CFW,Pompano dolphinfish,26,Dorade,Coryphaena equiselis,OTHERS,AUTRES,UNCL
+CGD,Burmese river gizzard shad,26,G,Gonialosa modesta,OTHERS,AUTRES,UNCL
+CGX,Carangidae,26,Carangids nei,Carangidés nca,OTHERS,AUTRES,UNCL
+CLD,Sliteye shark,25,Requin sagrin,Loxodon macrorhinus,SHARKS,REQUINS,BYCT
+CNT,Ocean triggerfish,26,C,Canthidermis maculata,OTHERS,AUTRES,UNCL
+COM,Narrow-barred Spanish mackerel,12,Thazard rayé indo-pacifique,Scomberomorus commerson,SEERFISH,THAZARDS,NERI
+CTU,Gummy shark,25,Émissole gommée,Mustelus antarcticus,SHARKS,REQUINS,BYCT
+CUT,"Hairtails, scabbardfishes nei",26,"Poissons-sabres, sabres nca",Trichiuridae,OTHERS,AUTRES,UNCL
+CWZ,Carcharhinus sharks nei,25,Requins Carcharhinus nca,Carcharhinus spp,SHARKS,REQUINS,BYCT
+CXS,Bigeye trevally,26,Carangue vorace,Caranx sexfasciatus,OTHERS,AUTRES,UNCL
+DGZ,Dogfishes nei,25,Aiguillats nca,Squalus spp.,SHARKS,REQUINS,BYCT
+DOB ,Wolf- herring,26,Chirocentre dorab,Chirocentrus dorab,OTHERS,AUTRES,UNCL
+DOL,Common dolphinfish,26,Coryphène commune,Coryphaena hippurus,OTHERS,AUTRES,UNCL
+DOT,Dogtooth tuna,26,Bonite à gros yeux,Gymnosarda unicolor,OTHERS,AUTRES,UNCL
+DOX,Dolphinfishes nei,26,Coryphènes nca,Coryphaenidae,OTHERS,AUTRES,UNCL
+DUS,Dusky shark,25,Requin de sable,Carcharhinus obscurus,SHARKS,REQUINS,BYCT
+EAG,Eagle Rays,26,Aigles de mer nca,Myliobatidae,SHARKS,REQUINS,BYCT
+EJA,Needle cuttle fish,26,Seiche aiguille,Sepia aculeata,OTHERS,AUTRES,UNCL
+ESCL,Black escolar,26,Escolier noir,Lepidocybium flavobrunneum,OTHERS,AUTRES,UNCL
+FAL,Silky shark,25,Requin soyeux,Carcharhinus falciformis,SHARKS,REQUINS,BYCT
+FLE,European Flounder,26,Flet Européen,Platichthys flesus,OTHERS,AUTRES,UNCL
+FRI,Frigate tuna,7,Auxide,Auxis thazard,TUNAS,THONS,NERI
+FRZ,Frigate and bullet tunas,9,Auxide et bonitou,Auxis spp.,TUNAS,THONS,NERI
+GAG,Tope shark,25,Requin-hâ,Galeorhinus galeus,SHARKS,REQUINS,BYCT
+GAM,Mouse catshark,25,Chien islandias,Galeus murinus,SHARKS,REQUINS,BYCT
+GBA,Great barracuda,26, Barracuda,Sphyraena barracuda,OTHERS,AUTRES,UNCL
+GEP,Snake mackerels and escolars nei,26,Escoliers et rouvets nca,Gempylidae,OTHERS,AUTRES,UNCL
+GES,Snake mackerel,26,Escolier serpent,Gempylus serpens,OTHERS,AUTRES,UNCL
+GLT,Golden trevally,26,Carangue royale,Gnathanodon speciosus,OTHERS,AUTRES,UNCL
+GRO,Groundfishes,26,Poisson de fond nca,Osteichthyes,OTHERS,AUTRES,UNCL
+GTF,"Guitarfishes, etc. nei",26,"Guitares, etc. nca",Rhinobatidae,OTHERS,AUTRES,UNCL
+GUT,Indo-Pacific king mackerel,13,Thazard ponctué indo-pacifique,Scomberomorus guttatus,SEERFISH,THAZARDS,NERI
+HCM,Hooktooth shark,25,Milandre harpon,Comadreja ganchuda,SHARKS,REQUINS,BYCT
+HEE,Snaggletooth shark,25,T,Hemipristis elongata,SHARKS,REQUINS,BYCT
+IAX,Needle Cuttle fish,26,Seiches nca,Sepia aculeata,OTHERS,AUTRES,UNCL
+KAFR,Kawakawa and Frigate and bullet tunas,11,Thonine orientale et Auxide et bonitou,Euthynnus affinis; Auxis spp.,TUNAS,THONS,NERI
+KAK,Kanadi kingfish,16,Thazard kanadi,Scomberomorus plurilineatus,SEERFISH,THAZARDS,NERI
+KAW,Kawakawa,10,Thonine orientale,Euthynnus affinis,TUNAS,THONS,NERI
+KGX,Seerfishes nei,16,Thazards nca,Scomberomorus spp.,SEERFISH,THAZARDS,NERI
+KYC,Blue sea chub,26,Calicagère bleue,Kyphosus cinerascens,OTHERS,AUTRES,UNCL
+KYV,Brassy chub,26,Saupe grise à lignes jaunes,Kyphosus vaigiensis,OTHERS,AUTRES,UNCL
+LAG,Opah,26,Opah,Lampris guttatus,OTHERS,AUTRES,UNCL
+LEC,Escolar,26,Escolier noir,Lepidocybium flavobrunneum,OTHERS,AUTRES,UNCL
+LHT,Largehead hairtail,26,Poisson-sabre commun,Trichiurus lepturus,OTHERS,AUTRES,UNCL
+LMA,Longfin mako,25,Petite taupe,Isurus paucus,SHARKS,REQUINS,BYCT
+LOB,Tripletail,26,Croupia roche,Lobotes surinamensis,OTHERS,AUTRES,UNCL
+LOKA,Longtail tuna and kawakawa,11,Thon mignon et Thonine orientale,Thunnus tonggol & Euthynnus affinis,TUNAS,THONS,NERI
+LOT,Longtail tuna,6,Thon mignon,Thunnus tonggol,TUNAS,THONS,NERI
+LTA,Little tunny(=Atl.black skipj),11,Thonine commune,Euthynnus alletteratus,TUNAS,THONS,UNCL
+MAA,Blue mackerel,26,Maquereau tacheté,Scomber australasicus,OTHERS,AUTRES,UNCL
+MAK,Mako sharks,25,Taupes,Isurus spp,SHARKS,REQUINS,BYCT
+MAN,"Mantas, devil rays nei",26,"Mantes, diables de mer nca",Mobulidae,SHARKS,REQUINS,BYCT
+MARL,Marlins nei,23,Marlin rayé et makaires nca,Tetrapturus audax; Makaira spp.,BILLFISH,PORTE-ÉPÉE,BILL
+MLBS,Black Marlin and Striped Marlin,23,Makaire Bleu et Marlin raye,Makaira nigricans & Tetrapturus audax,BILLFISH,PORTE-ÉPÉE,BILL
+MLS,Striped marlin,20,Marlin rayé,Tetrapturus audax,BILLFISH,PORTE-ÉPÉE,BILL
+MLW,Atlantic white marlin,23,Makaire blanc Atlantique,Tetrapturus albidus,BILLFISH,PORTE-ÉPÉE,BILL
+MOO,MoonFish,26,Luneur,Mene maculata,OTHERS,AUTRES,UNCL
+MOX,Ocean sunfish,26,Poisson lune,Mola mola,OTHERS,AUTRES,UNCL
+MSD,Mackerel scad,26,Comète maquereau,Decapterus macarellus,OTHERS,AUTRES,UNCL
+MSK,Sharks mackerel and porbeagles nei,25,Requins taupe nca,Lamnidae,SHARKS,REQUINS,BYCT
+MZZ,Marine fishes nei,26,Poissons marins nca,Osteichthyes,OTHERS,AUTRES,UNCL
+NAU,Pilotfish,26,Poisson pilote,Naucrates ductor,OTHERS,AUTRES,UNCL
+NGT,Island trevally,26,Carangue des îles,Carangoides orthogrammus,OTHERS,AUTRES,UNCL
+NTAD,"Non targeted, associated and dependent species",26,"Espèces non ciblées, associées et dépendantes",n/a,OTHERS,AUTRES,UNCL
+NTC,Broadnose sevengill shark,25,Platnez,Notorhynchus cepedianus,SHARKS,REQUINS,BYCT
+OBIL,Billfish nei,23,Poissons epée nca,Xiphioidei,BILLFISH,PORTE-ÉPÉE,BILL
+OCS,Oceanic whitetip shark,25,Requin océanique,Carcharhinus longimanus,SHARKS,REQUINS,BYCT
+OIL,Oilfish,26,Ruvet,Ruvettus pretiosus,OTHERS,AUTRES,UNCL
+OSF,Zebra shark,25,Requin zèbre,Stegostoma fasciatum,SHARKS,REQUINS,BYCT
+OTHR,Other non tuna-like fishes nei,26,Poissons non du type thon nca,Fishes non Scombroidei,OTHERS,AUTRES,UNCL
+OXY,Angular rough shark,25,Centrine communes,Oxynotus centrina,SHARKS,REQUINS,BYCT
+PLS,Pelagic stingray,26,Pastenague violette,Dasyatis violacea,SHARKS,REQUINS,BYCT
+POL,Pollack,26,Lieu jaune,Pollachius pollachius,OTHERS,AUTRES,UNCL
+POR,Porbeagle,25,Requin-taupe commun,Lamma nasus,SHARKS,REQUINS,BYCT
+PSK,Crocodile shark,25,Requin crocodile,Pseudocarcharias kamoharai,SHARKS,REQUINS,BYCT
+PTH,Pelagic thresher shark,25,Renard pelagique,Alopias pelagicus,SHARKS,REQUINS,BYCT
+QUM,Queensland school mackerel,26,Thazard du Queensland,Scomberomorus queenslandicus,OTHERS,AUTRES,UNCL
+RAG,Indian mackerel,26,Maquereau des Indes,Rastrelliger kanagurta,OTHERS,AUTRES,UNCL
+RAJ,Rays and skates nei,26,Rajidés nca,Rajidae,SHARKS,REQUINS,BYCT
+RAX,Mackerels Indian nei,26,Maquereaux Indo-pacifique nca,Rastrelliger spp.,OTHERS,AUTRES,UNCL
+RHA,Milk shark,25,Requin à museau pointu,Rhizoprionodon acutus,SHARKS,REQUINS,BYCT
+RHN,Whale shark,25,Requin baleine,Rhincodon typus,SHARKS,REQUINS,BYCT
+RMB,Giant Mantas,26,Manta géant,Manta birostris,SHARKS,REQUINS,BYCT
+RMJ,Spinetail mobula,26,Mante aiguillat,Mobula japanica,SHARKS,REQUINS,UNCL
+RMM,Devil Ray,26,D,Mobula mobular,SHARKS,REQUINS,BYCT
+RRU,Rainbow runner,26,Comète saumon,Elagatis bipinnulata,OTHERS,AUTRES,UNCL
+RSK,Requiem sharks nei,25,Requins nca,Carcharhinidae,SHARKS,REQUINS,BYCT
+RUS,Indian scad,26,Comète indienne,Decapterus russelli,OTHERS,AUTRES,UNCL
+SAI,Atlantic sailfish,23,Voilier Atlantique,Istiophorus albicans,BILLFISH,PORTE-ÉPÉE,BILL
+SASP,Indo-Pacific sailfish and shortbill spearfish,23,Voilier indo-pacifique et makaire à rostre court,Istiophorus platypterus; Tetrapturus angustirostris,BILLFISH,PORTE-ÉPÉE,BILL
+SBF,Southern bluefin tuna,5,Thon rouge du Sud,Thunnus maccoyii,TUNAS,THONS,TEMP
+SBL,Bluntnose sixgill shark,25,Requin griset,Hexanchus griseus,SHARKS,REQUINS,BYCT
+SCK,Kitefin shark,25,Squale liche,Dalatias licha,SHARKS,REQUINS,BYCT
+SEER,Wahoo and seerfishes nei,16,Thazards nca,Scomberomorini,SEERFISH,THAZARDS,NERI
+SFA,Indo-Pacific sailfish,21,Voilier indo-pacifique,Istiophorus platypterus,BILLFISH,PORTE-ÉPÉE,BILL
+SHBC,Banded Cat Shark,25,Holbiche des plages,Halaelurus lineatus,SHARKS,REQUINS,BYCT
+SHCW,Cow Shark,25,Requins griset,Hexanchidae spp,SHARKS,REQUINS,BYCT
+SHM,Mackerel Sharks,26,Requins taupe nca,Lamnidae,SHARKS,REQUINS,BYCT
+SHRK,Sharks various nei,25,Requins divers nca,Selachimorpha (Pleurotremata),SHARKS,REQUINS,BYCT
+SHXX,Sharks nei other than oceanic whitetip shark and blue shark,25,Requins nca hors requin océanique et peau bleue,Selachimorpha (Pleurotremata),SHARKS,REQUINS,BYCT
+SKH,Sharks various nei,25,Requins divers nca,Selachimorpha (Pleurotremata),SHARKS,REQUINS,BYCT
+SKHS,Sharks finned,25,Requins sans nageoires,Selachimorpha (Pleurotremata),SHARKS,REQUINS,BYCT
+SKJ,Skipjack tuna,3,Listao,Katsuwonus pelamis,TUNAS,THONS,TROP
+SKKA,Skipjack tuna and Kawakawa,11,Listao et Thonine orientale,"Katsuwonus pelamis, Euthynnus affinis",TUNAS,THONS,UNCL
+SKPN,Spinner Shark,25,Requin tisserand,Carcharhinus brevipinna,SHARKS,REQUINS,BYCT
+SLT,Slender Tuna,26,Thon élégant,Allothunnus fallai,OTHERS,AUTRES,UNCL
+SMA,Shortfin mako,25,Taupe bleue,Isurus oxyrinchus,SHARKS,REQUINS,BYCT
+SMD,Smooth-hound,25,Emissole lisse,Mustelus mustelus,SHARKS,REQUINS,BYCT
+SNK,Snoek,26,Escolier,Thyrsites atun,OTHERS,AUTRES,UNCL
+SNX,Snappers and jobfishes nei,26,Lutianidés nca,Lutjanides nep,OTHERS,AUTRES,UNCL
+SPF,Longbill spearfish,23,Makaire à rostre,Tetrapturus pfluegeri,BILLFISH,PORTE-ÉPÉE,BILL
+SPK,Great hammerhead shark,25,Grand requin marteau,Sphyrna mokarran,SHARKS,REQUINS,BYCT
+SPL,Scalloped hammerhead,25,Requin marteau halicorne,Sphyrna lewini,SHARKS,REQUINS,BYCT
+SPN,Hammerhead sharks nei,25,Requins marteau nca,Sphyrna spp.,SHARKS,REQUINS,BYCT
+SPY,Bonnethead and hammerhead sharks,25,Requins marteau,Sphyrnidae,SHARKS,REQUINS,BYCT
+SPZ,Smooth hammerhead,25,Requin marteau commun,Sphyrna zygaena,SHARKS,REQUINS,BYCT
+SRX,Rays and stingrays and mantas nei,26,Raies et pastenagues et mantes nca,Rajiformes,SHARKS,REQUINS,BYCT
+SSP,Short-billed spearfish,22,Makaire à rostre court,Tetrapturus angustirostris,BILLFISH,PORTE-ÉPÉE,BILL
+STS,Streaked seerfish,14,Thazard cirrus,Scomberomorus lineolatus,SEERFISH,THAZARDS,NERI
+SWA,White seabream,26,Sar commun,Diplodus sargus,OTHERS,AUTRES,UNCL
+SWO,Swordfish,17,Espadon,Xiphias gladius,BILLFISH,PORTE-ÉPÉE,BILL
+TFM,Whiskery shark,25,Émissole moustachue,Furgaleus macki,SHARKS,REQUINS,BYCT
+THR,Thresher sharks nei,25,Renards de mer nca,Alopias spp.,SHARKS,REQUINS,BYCT
+TIG,Tiger shark,25,Requin tigre commun,Galeocerdo cuvier,SHARKS,REQUINS,BYCT
+TRB,Whitetip reef shark,25,Requin corail,Triaenodon obesus,SHARKS,REQUINS,BYCT
+TRE,"Jacks, crevalles nei",26,"Chinchards, carangues nca",Caranx spp,OTHERS,AUTRES,UNCL
+TRK,"Houndsharks,smoothhounds nei",25,"Émissoles,requins-hâ nca","Cazones,tollos nep",SHARKS,REQUINS,BYCT
+TRU,Trumpeters nei,26,T,Latridae,OTHERS,AUTRES,UNCL
+TUM,Yellowtail scad,26,Sélar queue jaune,Atule mate,OTHERS,AUTRES,UNCL
+TUN,Tunas nei,11,Thonidés nca,Thunnini,TUNAS,THONS,UNCL
+TUS,True tunas nei,11,Thons Thunnus nca,Thunnus spp.,TUNAS,THONS,UNCL
+TUX,Tuna-like fishes nei,24,Poissons type thon nca,Scombroidei,OTHER NEI,AUTRES,UNCL
+UNCL,Unknown,26,Inconnu,n/a,OTHERS,AUTRES,UNCL
+USE,Cottonmouth jack,26,Carangue coton,Uraspis secunda,OTHERS,AUTRES,UNCL
+WAH,Wahoo,15,Thazard-bâtard,Acanthocybium solandri,SEERFISH,THAZARDS,NERI
+WEC,Round scad,26,Comète quiaquia,Decapterus punctatus,OTHERS,AUTRES,UNCL
+WHM,Atlantic white marlin,23,Makaire blanc Atlantique,Tetrapturus albidus,BILLFISH,PORTE-ÉPÉE,BILL
+YFT,Yellowfin tuna,1,Albacore,Thunnus albacares,TUNAS,THONS,TROP
+YRS,European Baracuda,26,Bécune europénne,Sphyraena sphyraena,OTHERS,AUTRES,UNCL
+YTC,Yellowtail amberjack,26,Sériole chicard,Seriola lalandi,OTHERS,AUTRES,UNCL
+YTL,Longfin yellowtail,26,Sériole limon,Seriola rivoliana,OTHERS,AUTRES,UNCL

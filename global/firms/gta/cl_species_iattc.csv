@@ -1,0 +1,36 @@
+code,label,scientific_name,label_es
+ALB,Albacore,Thunnus alalunga,"Albacora,  atún blanco"
+BET,Bigeye tuna,Thunnus obesus,"Atún patudo, ojo grande"
+BIL,"Marlins, sailfishes, spearfishes, nei",Istiophoridae,"Agujas, marlines, pez vela, nep"
+BKJ,Black skipjack,Euthynnus lineatus,Barrilete negro
+BLM,Black marlin,Makaira indica,Marlín negro
+BUM,Blue marlin,Makaira nigricans,Marlín azul
+BZX,Bonitos nei,Sarda spp,Peces marinos nep
+CGX,Carangids nei,Carangidae,Carángidos nep
+DOX,Dolphinfishes nei,Coryphaenidae,Dorados nep
+MLS,Striped marlin,Tetrapturus audax,Marlín rayado
+MZZ,Unidentified marine fishes nei,Osteichthyes,Peces marinos nep
+PBF,Pacific bluefin tuna,Thunnus orientalis,"Atún aleta azul del Pacífico, atún cimarrón"
+SFA,Indo-Pacific sailfish,Istiophorus platypterus,Pez vela
+SKH,Various sharks nei,Euselachii,Escualos diversos nep
+SKJ,Skipjack tuna,Katsuwonus pelamis,"Atún barrilete, listado"
+SKX,Unidentified elasmobranches nei,Elasmobranchii,"Tiburones, rayas, etc. nep"
+SRX,"Rays, Skates, nep",Rajiformes,"Rayas, Pastinacas, Mantas, nep"
+SSP,Shortbill spearfish,Tetrapturus angustirostris,Marlín trompa corta
+SWO,Swordfish,Xiphias gladius,Pez espada
+TUN,Tunas nei,Thunnini,Atunes nep
+YFT,Yellowfin tuna,Thunnus albacares,"Atún aleta amarilla, rabil"
+BSH,Prionace glauca,Blue shark,Tiburón azul
+CCL,Carcharhinus limbatus,Blacktip shark,Tiburón punta negra
+FAL,Carcharhinus falciformis,Silky shark,Tiburón sedoso
+OCS,Carcharhinus longimanus,Oceanic whitetip shark,Tib. punta blanca oceánico
+SEPN,C. falciformis o C. limbatus,Silky or Blacktip shark,Tib. sedoso o punta negra
+SPL,Sphyrna lewini,Scalloped hammerhead,Cornuda común
+SPN,Sphyrna spp.,Hammerhead shark nei,Cornudas nep
+SPZ,Sphyrna zygaena,Smooth hammerhead,Cornuda cruz
+THR,Alopias spp,Thresher shark nei,Zorros nep
+MAK,Isurus spp,"Mako shark, nei","Tiburón mako, nep"
+RSK,Carcharhinidae,"Requiem sharks, nei","Cazones picudos, nep"
+SMA,Isurus oxyrinchus,Short fin mako shark,Mako de aleta corta
+SBF,Southern bluefin,Thunnus maccoyii,NA
+WAH,Wahoo,Acanthocybium solandri,Peto

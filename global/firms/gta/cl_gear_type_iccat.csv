@@ -1,0 +1,53 @@
+code,label,gearid,geargroupcode,geargroupname
+LL,Longline,1,LL,longline
+LLMB,Longline: With mother boat,2,LL,longline
+LLFB,Longline: Foreign-based,3,LL,longline
+LLHB,Longline: Home-based,4,LL,longline
+PSG,Purse seine: Large scale (over 200 MT capacity),5,PS,purse seine
+PS,Purse seine,6,PS,purse seine
+PSS,Purse seine: Small scale (less than 50 MT capacity),7,PS,purse seine
+PSD,Purse seine: Double-boats,8,PS,purse seine
+TROL,Trolling,9,TR,trolling
+TRAP,Trap,10,TP,trap
+SURF,Surface fisheries unclassified,11,UN,Unclassified
+SPOR,Sport: Recreational fisheries (mostly RR),12,SP,sport
+UNCL,Unclassified: Gears not reported,13,UN,unclassified
+TRAW,Trawl,14,TW,trawl
+BBI,Baitboat: Ice-well,15,BB,baitboat
+BBF,Baitboat: Freezer,16,BB,baitboat
+BB,Baitboat,17,BB,baitboat
+HARP,Harpoon,18,HP,harpoon
+HAND,Handline,19,HL,handline
+PSM,Purse seine: Medium scale (between 50 and 200 MT capacity),20,PS,purse seine
+PSLB,Purse seine: Using live bait,21,PS,purse seine
+RR,Rod and Reel,22,RR,rood & reel
+TRAWP,Trawl: Mid-water pelagic trawl,23,TW,trawl
+GILL,Gillnet: Drift net,24,GN,gillnet
+PSFB,Purse seine: Catching large fish,25,PS,purse seine
+PSFS,Purse seine: Catching small fish,26,PS,purse seine
+RRFB,Rod and Reel (catching large fish),27,RR,rood & reel
+RRFS,Rod and Reel (catching small fish),28,RR,rood & reel
+HS,Haul seine,29,HS,haul seine
+TN,Trammel net,30,TN,trammel net
+SPHL,Handline SPORT (recreational mostly HAND),31,SP,sport
+LL-B,Longline: Bottom or Deep longliners,32,LL,longline
+TRAWPP,Trawl: Mid-water paired trawl,34,TW,trawl
+TL,Tended line,36,TL,tended line
+LLALB,Longline: targeting ALB (Spain),41,LL,longline
+LLJAP,Longline: japanese type (Spain),42,LL,longline
+LLPB,"Longline:""Stone-ball"" (Spain)",43,LL,longline
+GILLM,Gillnet: Drift nets - misto (used by Italy),44,GN,gillnet
+LLBFT,Longline: Targeting BFT (used by Italy),45,LL,longline
+LLSWO,Longline: Targeting SWO (used by Italy),46,LL,longline
+LL-deri,Longline: Derivante,47,LL,longline
+LL-surf,Longline: Surface,48,LL,longline
+TRAPM,Trap: non-fixed trap,49,TP,trap
+GILLALB,Gillnet: Targeting ALB,50,GN,gillnet
+GILLSWO,Gillnet: Targeting SWO,51,GN,gillnet
+BBALB,Baitboat: Targgetting ALB,52,BB,baitboat
+LL-Shrk,Longline: targeting sharks (BSH & SMA),53,LL,longline
+TRAP-S,Trap: small traps (Italy),54,TP,trap
+TRAWB,Trawl: Bottom paired trawl,55,TW,trawl
+HARPE,Harpoon (Electric),56,HP,harpoon
+GNS,"Gillnet: anchored (set gillnet, as FAO)",84,GN,gillnet
+OTH,Other unclassified,99,UN,unclassified
