@@ -1,0 +1,9 @@
+code,uri,label,definition,name_en,name_fr,name_es,name_ar,name_cn,name_ru,isscaap_group_code,taxa_scientific_name,taxa_code,taxa_author,taxa_family,taxa_order
+SKJ,NA,Skipjack tuna,Katsuwonus pelamis,Skipjack tuna,Listao,Listado,NA,鲣,Тунец полосатый (=скипджек),36,Katsuwonus pelamis,175001002501,(Linnaeus 1758),SCOMBRIDAE,SCOMBROIDEI
+BFT,NA,Atlantic bluefin tuna,Thunnus thynnus,Atlantic bluefin tuna,Thon rouge de l'Atlantique,Atún rojo del Atlántico,تونة حمراء أطلسيَّة,大西洋蓝鳍金枪鱼,NA,36,Thunnus thynnus,175001002601,(Linnaeus 1758),SCOMBRIDAE,SCOMBROIDEI
+PBF,NA,Pacific bluefin tuna,Thunnus orientalis,Pacific bluefin tuna,Thon bleu du Pacifique,Atún aleta azul del Pacífico,تونة أجنحة زرقاء للمحيط الهادئ,太平洋蓝鳍金枪鱼,NA,36,Thunnus orientalis,175001002602,(Temminck & Schlegel 1844),SCOMBRIDAE,SCOMBROIDEI
+ALB,NA,Albacore,Thunnus alalunga,Albacore,Germon,Atún blanco,NA,NA,Тунец длинноперый,36,Thunnus alalunga,175001002605,(Bonnaterre 1788),SCOMBRIDAE,SCOMBROIDEI
+SBF,NA,Southern bluefin tuna,Thunnus maccoyii,Southern bluefin tuna,Thon rouge du Sud,Atún rojo del Sur,NA,NA,южный голубой тунец,36,Thunnus maccoyii,175001002608,(Castelnau 1872),SCOMBRIDAE,SCOMBROIDEI
+YFT,NA,Yellowfin tuna,Thunnus albacares,Yellowfin tuna,Albacore,Rabil,NA,NA,Тунец желтоперый,36,Thunnus albacares,175001002610,(Bonnaterre 1788),SCOMBRIDAE,SCOMBROIDEI
+BET,NA,Bigeye tuna,Thunnus obesus,Bigeye tuna,Thon obèse(=Patudo),Patudo,NA,NA,Тунец большеглазый,36,Thunnus obesus,175001002612,(Lowe 1839),SCOMBRIDAE,SCOMBROIDEI
+SWO,NA,Swordfish,Xiphias gladius,Swordfish,Espadon,Pez espada,NA,NA,Меч-рыба,36,Xiphias gladius,175004000301,Linnaeus 1758,XIPHIIDAE,SCOMBROIDEI
