@@ -22,6 +22,10 @@ WFS_FAO = WFSClient$new(
     logger = "INFO"
 )
 rfb_comp_areas = WFS_FAO$getFeatures("fifao:RFB_COMP_CLIP", cql_filter = URLencode("RFB IN('CCSBT','IATTC','WCPFC')"))
+rfb_comp_areas = do.call("rbind", lapply(unique(rfb_comp_areas$RFB), function(rfb){
+	rfbarea = cbind(RFB = rfb, sf::st_sf(geom = sf::st_union(rfb_comp_areas[rfb_comp_areas$RFB == rfb,])))
+	return(rfbarea)
+}))
 
 rfb_vocab = httr::content(httr::GET("https://www.fao.org/figis/monikerj/figismapdata?format=jsonp"))
 rfb_vocab = do.call("rbind", lapply(rfb_vocab$rfbs$rfb, function(rfb){

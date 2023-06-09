@@ -12,6 +12,10 @@ iccat_sampling_areas = do.call("rbind.fill", lapply(iccat_sampling_area_layers, 
 
 #visualize
 iccat_sampling_areas_sf = sf::st_sf(iccat_sampling_areas, sf_column_name = "geom")
+iccat_sampling_areas_sf = do.call("rbind", lapply(unique(iccat_sampling_areas_sf$sareacod), function(code){
+	sfsarea = cbind(sareacod = code, sf::st_sf(geom = sf::st_union(iccat_sampling_areas_sf[iccat_sampling_areas_sf$sareacod == code,])))
+	return(sfsarea)
+}))
 
 #standardize
 iccat_sampling_areas_sf$geom_wkt = sf::st_as_text(iccat_sampling_areas_sf$geom)
