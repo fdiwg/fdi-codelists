@@ -1,62 +1,69 @@
-Species group,ASFIS code,Scientific name,Aggregate,TSN
-Billfishes,BIL,Istiophoridae,TRUE,172486
-Billfishes,BLM,Istiompax indica,FALSE,768125
-Billfishes,BUM,Makaira nigricans,FALSE,172491
-Billfishes,MLS,Kajikia audax,FALSE,768127
-Billfishes,SAI,Istiophorus albicans,FALSE,550888
-Billfishes,SFA,Istiophorus platypterus,FALSE,172488
-Billfishes,SPF,Tetrapturus pfluegeri,FALSE,172502
-Billfishes,SSP,Tetrapturus angustirostris,FALSE,172503
-Billfishes,SWO,Xiphias gladius,FALSE,172482
-Billfishes,WHM,Kajikia albida,FALSE,768126
-Bonitos and mackerels,BON,Sarda sarda,FALSE,172409
-Bonitos and mackerels,BOP,Orcynopsis unicolor,FALSE,172467
-Bonitos and mackerels,BZX,Sarda,TRUE,172407
-Neritic tunas,BKJ,Euthynnus lineatus,FALSE,172405
-Neritic tunas,BLT,Auxis rochei,FALSE,172455
-Neritic tunas,FRI,Auxis thazard,FALSE,172456
-Neritic tunas,KAW,Euthynnus affinis,FALSE,172403
-Neritic tunas,LOT,Thunnus tonggol,FALSE,172430
-Neritic tunas,LTA,Euthynnus alletteratus,FALSE,172402
-Other scombrids,TUN,Thunnini,TRUE,638252
-Other scombrids,WAH,Acanthocybium solandri,FALSE,172451
-Rays,MAN,Mobulidae,TRUE,160990
-Rays,RMB,Manta birostris,FALSE,160992
-Rays,RMJ,Mobula japanica,FALSE,160998
-Rays,RMM,Mobula mobular,FALSE,160999
-Rays,RMT,Mobula tarapacana,FALSE,564407
-Rays,SRX,Rajiformes,TRUE,160806
-Sharks,ALV,Alopias vulpinus,FALSE,159916
-Sharks,BSH,Prionace glauca,FALSE,160424
-Sharks,BTH,Alopias superciliosus,FALSE,159921
-Sharks,FAL,Carcharhinus falciformis,FALSE,160310
-Sharks,LMA,Isurus paucus,FALSE,159926
-Sharks,MAK,Isurus,TRUE,159923
-Sharks,OCS,Carcharhinus longimanus,FALSE,160330
-Sharks,POR,Lamna nasus,FALSE,159911
-Sharks,PTH,Alopias pelagicus,FALSE,159922
-Sharks,RSK,Carcharhinidae,TRUE,160178
-Sharks,SKH,Euselachii,TRUE,563987
-Sharks,SMA,Isurus oxyrinchus,FALSE,159924
-Sharks,SPK,Sphyrna mokarran,FALSE,160515
-Sharks,SPL,Sphyrna lewini,FALSE,160508
-Sharks,SPN,Sphyrna,TRUE,160499
-Sharks,SPY,Sphyrnidae,TRUE,160497
-Sharks,SPZ,Sphyrna zygaena,FALSE,160505
-Sharks,THR,Alopias,TRUE,159915
-Spanish mackerels,BRS,Scomberomorus brasiliensis,FALSE,202045
-Spanish mackerels,CER,Scomberomorus regalis,FALSE,172437
-Spanish mackerels,COM,Scomberomorus commerson,FALSE,172441
-Spanish mackerels,GUT,Scomberomorus guttatus,FALSE,172442
-Spanish mackerels,KGM,Scomberomorus cavalla,FALSE,172435
-Spanish mackerels,MAW,Scomberomorus tritor,FALSE,172439
-Spanish mackerels,SSM,Scomberomorus maculatus,FALSE,172436
-Temperate tunas,ALB,Thunnus alalunga,FALSE,172419
-Temperate tunas,BFT,Thunnus thynnus,FALSE,172421
-Temperate tunas,PBF,Thunnus orientalis,FALSE,172422
-Temperate tunas,SBF,Thunnus maccoyii,FALSE,172431
-Temperate tunas,SLT,Allothunnus fallai,FALSE,172460
-Tropical tunas,BET,Thunnus obesus,FALSE,172428
-Tropical tunas,BLF,Thunnus atlanticus,FALSE,172427
-Tropical tunas,SKJ,Katsuwonus pelamis,FALSE,172401
-Tropical tunas,YFT,Thunnus albacares,FALSE,172423
+"Species group","ASFIS code","Scientific name","Aggregate","TSN"
+"Billfishes","BIL","Istiophoridae",TRUE,"172486"
+"Billfishes","BLM","Istiompax indica",FALSE,"768125"
+"Billfishes","BUM","Makaira nigricans",FALSE,"172491"
+"Billfishes","BXQ","Makaira",TRUE,"172490"
+"Billfishes","MLS","Kajikia audax",FALSE,"768127"
+"Billfishes","MSP","Tetrapturus belone",FALSE,"172500"
+"Billfishes","SAI","Istiophorus albicans",FALSE,"550888"
+"Billfishes","SFA","Istiophorus platypterus",FALSE,"172488"
+"Billfishes","SPF","Tetrapturus pfluegeri",FALSE,"172502"
+"Billfishes","SSP","Tetrapturus angustirostris",FALSE,"172503"
+"Billfishes","SWO","Xiphias gladius",FALSE,"172482"
+"Billfishes","WHM","Kajikia albida",FALSE,"768126"
+"Bonitos and mackerels","BIP","Sarda orientalis",FALSE,"172410"
+"Bonitos and mackerels","BON","Sarda sarda",FALSE,"172409"
+"Bonitos and mackerels","BOP","Orcynopsis unicolor",FALSE,"172467"
+"Bonitos and mackerels","BZX","Sarda",TRUE,"172407"
+"Neritic tunas","BKJ","Euthynnus lineatus",FALSE,"172405"
+"Neritic tunas","BLT","Auxis rochei",FALSE,"172455"
+"Neritic tunas","FRI","Auxis thazard",FALSE,"172456"
+"Neritic tunas","FRZ","Auxis",TRUE,"172454"
+"Neritic tunas","KAW","Euthynnus affinis",FALSE,"172403"
+"Neritic tunas","LOT","Thunnus tonggol",FALSE,"172430"
+"Neritic tunas","LTA","Euthynnus alletteratus",FALSE,"172402"
+"Other scombrids","TUN","Thunnini",TRUE,"638252"
+"Other scombrids","TUS","Thunnus",TRUE,"172418"
+"Other scombrids","TUX","Scombroidei",TRUE,"172353"
+"Other scombrids","WAH","Acanthocybium solandri",FALSE,"172451"
+"Rays","MAN","Mobulidae",TRUE,"160990"
+"Rays","RMB","Manta birostris",FALSE,"160992"
+"Rays","RMM","Mobula mobular",FALSE,"160999"
+"Rays","RMT","Mobula tarapacana",FALSE,"564407"
+"Rays","SRX","Rajiformes",TRUE,"160806"
+"Sharks","ALV","Alopias vulpinus",FALSE,"159916"
+"Sharks","BSH","Prionace glauca",FALSE,"160424"
+"Sharks","BTH","Alopias superciliosus",FALSE,"159921"
+"Sharks","FAL","Carcharhinus falciformis",FALSE,"160310"
+"Sharks","LMA","Isurus paucus",FALSE,"159926"
+"Sharks","MAK","Isurus",TRUE,"159923"
+"Sharks","OCS","Carcharhinus longimanus",FALSE,"160330"
+"Sharks","POR","Lamna nasus",FALSE,"159911"
+"Sharks","PTH","Alopias pelagicus",FALSE,"159922"
+"Sharks","RSK","Carcharhinidae",TRUE,"160178"
+"Sharks","SKH","Euselachii",TRUE,"563987"
+"Sharks","SMA","Isurus oxyrinchus",FALSE,"159924"
+"Sharks","SPK","Sphyrna mokarran",FALSE,"160515"
+"Sharks","SPL","Sphyrna lewini",FALSE,"160508"
+"Sharks","SPN","Sphyrna",TRUE,"160499"
+"Sharks","SPY","Sphyrnidae",TRUE,"160497"
+"Sharks","SPZ","Sphyrna zygaena",FALSE,"160505"
+"Sharks","THR","Alopias",TRUE,"159915"
+"Spanish mackerels","BRS","Scomberomorus brasiliensis",FALSE,"202045"
+"Spanish mackerels","CER","Scomberomorus regalis",FALSE,"172437"
+"Spanish mackerels","COM","Scomberomorus commerson",FALSE,"172441"
+"Spanish mackerels","GUT","Scomberomorus guttatus",FALSE,"172442"
+"Spanish mackerels","KGM","Scomberomorus cavalla",FALSE,"172435"
+"Spanish mackerels","KGX","Scomberomorus",TRUE,"172434"
+"Spanish mackerels","MAW","Scomberomorus tritor",FALSE,"172439"
+"Spanish mackerels","SSM","Scomberomorus maculatus",FALSE,"172436"
+"Spanish mackerels","STS","Scomberomorus lineolatus",FALSE,"172445"
+"Temperate tunas","ALB","Thunnus alalunga",FALSE,"172419"
+"Temperate tunas","BFT","Thunnus thynnus",FALSE,"172421"
+"Temperate tunas","PBF","Thunnus orientalis",FALSE,"172422"
+"Temperate tunas","SBF","Thunnus maccoyii",FALSE,"172431"
+"Temperate tunas","SLT","Allothunnus fallai",FALSE,"172460"
+"Tropical tunas","BET","Thunnus obesus",FALSE,"172428"
+"Tropical tunas","BLF","Thunnus atlanticus",FALSE,"172427"
+"Tropical tunas","SKJ","Katsuwonus pelamis",FALSE,"172401"
+"Tropical tunas","YFT","Thunnus albacares",FALSE,"172423"

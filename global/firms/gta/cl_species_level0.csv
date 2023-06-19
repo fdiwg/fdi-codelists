@@ -1,17 +1,21 @@
 code,uri,label,definition,name_en,name_fr,name_es,name_ar,name_cn,name_ru,isscaap_group_code,taxa_scientific_name,taxa_code,taxa_author,taxa_family,taxa_order
 BON,NA,Atlantic bonito,Sarda sarda,Atlantic bonito,Bonite à dos rayé,Bonito del Atlántico,NA,NA,Пеламида атлантическая,36,Sarda sarda,175001000101,(Bloch 1793),SCOMBRIDAE,SCOMBROIDEI
+BIP,NA,Striped bonito,Sarda orientalis,Striped bonito,Bonite oriental,Bonito mono,NA,NA,Пеламида восточная,36,Sarda orientalis,175001000102,(Temminck & Schlegel 1844),SCOMBRIDAE,SCOMBROIDEI
 BZX,NA,Bonitos nei,Sarda spp,Bonitos nei,Bonites nca,Bonitos nep,NA,NA,NA,36,Sarda spp,1750010001XX,NA,SCOMBRIDAE,SCOMBROIDEI
 BOP,NA,Plain bonito,Orcynopsis unicolor,Plain bonito,Palomette,Tasarte,NA,NA,NA,36,Orcynopsis unicolor,175001000601,(Geoffroy St. Hilaire 1817),SCOMBRIDAE,SCOMBROIDEI
 WAH,NA,Wahoo,Acanthocybium solandri,Wahoo,Thazard-bâtard,Peto,NA,NA,Ваху,36,Acanthocybium solandri,175001001001,(Cuvier 1832),SCOMBRIDAE,SCOMBROIDEI
 COM,NA,Narrow-barred Spanish mackerel,Scomberomorus commerson,Narrow-barred Spanish mackerel,Thazard rayé indo-pacifique,Carite estriado Indo-Pacífico,NA,NA,NA,36,Scomberomorus commerson,175001001503,(Lacépède 1800),SCOMBRIDAE,SCOMBROIDEI
 GUT,NA,Indo-Pacific king mackerel,Scomberomorus guttatus,Indo-Pacific king mackerel,Thazard ponctué indo-pacifique,Carite del Indo-Pacífico,NA,NA,NA,36,Scomberomorus guttatus,175001001504,(Bloch & Schneider 1801),SCOMBRIDAE,SCOMBROIDEI
+STS,NA,Streaked seerfish,Scomberomorus lineolatus,Streaked seerfish,Thazard cirrus,Carite rayado,NA,NA,NA,36,Scomberomorus lineolatus,175001001505,(Cuvier 1831),SCOMBRIDAE,SCOMBROIDEI
 KGM,NA,King mackerel,Scomberomorus cavalla,King mackerel,Thazard barré,Carite lucio,NA,NA,NA,36,Scomberomorus cavalla,175001001506,(Cuvier 1829),SCOMBRIDAE,SCOMBROIDEI
 SSM,NA,Atlantic Spanish mackerel,Scomberomorus maculatus,Atlantic Spanish mackerel,Thazard atlantique,Carite atlántico,NA,NA,NA,36,Scomberomorus maculatus,175001001507,(Mitchill 1815),SCOMBRIDAE,SCOMBROIDEI
 CER,NA,Cero,Scomberomorus regalis,Cero,Thazard franc,Carite chinigua,NA,NA,NA,36,Scomberomorus regalis,175001001508,(Bloch 1793),SCOMBRIDAE,SCOMBROIDEI
 MAW,NA,West African Spanish mackerel,Scomberomorus tritor,West African Spanish mackerel,Thazard blanc,Carite lusitánico,NA,NA,Макрель западноафриканская,36,Scomberomorus tritor,175001001511,(Cuvier 1832),SCOMBRIDAE,SCOMBROIDEI
 BRS,NA,Serra Spanish mackerel,Scomberomorus brasiliensis,Serra Spanish mackerel,Thazard serra,Serra,NA,NA,NA,36,Scomberomorus brasiliensis,175001001515,"Collette, Russo & Zavala-Camin 1978",SCOMBRIDAE,SCOMBROIDEI
+KGX,NA,Seerfishes nei,Scomberomorus spp,Seerfishes nei,Thazards nca,Carites nep,NA,NA,NA,36,Scomberomorus spp,1750010015XX,NA,SCOMBRIDAE,SCOMBROIDEI
 FRI,NA,Frigate tuna,Auxis thazard,Frigate tuna,Auxide,Melva,NA,NA,NA,36,Auxis thazard,175001002301,(Lacépède 1800),SCOMBRIDAE,SCOMBROIDEI
 BLT,NA,Bullet tuna,Auxis rochei,Bullet tuna,Bonitou,Melva(=Melvera),NA,NA,NA,36,Auxis rochei,175001002303,(Risso 1810),SCOMBRIDAE,SCOMBROIDEI
+FRZ,NA,Frigate and bullet tunas,"Auxis thazard, A. rochei",Frigate and bullet tunas,Auxide et bonitou,Melva y melvera,بونيت أو تون رصاصي,扁鸵鲣，双鳍舵鲣,Тунец макрелевый,36,"Auxis thazard, A. rochei",1750010023XX018,NA,SCOMBRIDAE,SCOMBROIDEI
 LTA,NA,Little tunny(=Atl.black skipj),Euthynnus alletteratus,Little tunny(=Atl.black skipj),Thonine commune,Bacoreta,تونة صغيرة شائعة أو تونين شائعة,小鮪,Тунец малый атлантический,36,Euthynnus alletteratus,175001002401,(Rafinesque 1810),SCOMBRIDAE,SCOMBROIDEI
 BKJ,NA,Black skipjack,Euthynnus lineatus,Black skipjack,Thonine noire,Barrilete negro,NA,NA,NA,36,Euthynnus lineatus,175001002404,Kishinouye 1920,SCOMBRIDAE,SCOMBROIDEI
 KAW,NA,Kawakawa,Euthynnus affinis,Kawakawa,Thonine orientale,Bacoreta oriental,NA,NA,NA,36,Euthynnus affinis,175001002406,(Cantor 1849),SCOMBRIDAE,SCOMBROIDEI
@@ -24,18 +28,22 @@ ALB,NA,Albacore,Thunnus alalunga,Albacore,Germon,Atún blanco,NA,NA,Тунец �
 SBF,NA,Southern bluefin tuna,Thunnus maccoyii,Southern bluefin tuna,Thon rouge du Sud,Atún rojo del Sur,NA,NA,южный голубой тунец,36,Thunnus maccoyii,175001002608,(Castelnau 1872),SCOMBRIDAE,SCOMBROIDEI
 YFT,NA,Yellowfin tuna,Thunnus albacares,Yellowfin tuna,Albacore,Rabil,NA,NA,Тунец желтоперый,36,Thunnus albacares,175001002610,(Bonnaterre 1788),SCOMBRIDAE,SCOMBROIDEI
 BET,NA,Bigeye tuna,Thunnus obesus,Bigeye tuna,Thon obèse(=Patudo),Patudo,NA,NA,Тунец большеглазый,36,Thunnus obesus,175001002612,(Lowe 1839),SCOMBRIDAE,SCOMBROIDEI
+TUS,NA,True tunas nei,Thunnus spp,True tunas nei,Thons Thunnus nca,Atunes verdaderos nep,NA,NA,NA,36,Thunnus spp,1750010026XX,NA,SCOMBRIDAE,SCOMBROIDEI
 SLT,NA,Slender tuna,Allothunnus fallai,Slender tuna,Thon élégant,Atún lanzón,NA,NA,Тунец южный,36,Allothunnus fallai,175001002701,Serventy 1948,SCOMBRIDAE,SCOMBROIDEI
 TUN,NA,Tunas nei,Thunnini,Tunas nei,Thonidés nca,Atunes nep,NA,NA,NA,36,Thunnini,1750010XXXXX043,NA,SCOMBRIDAE,SCOMBROIDEI
 SFA,NA,Indo-Pacific sailfish,Istiophorus platypterus,Indo-Pacific sailfish,Voilier indo-pacifique,Pez vela del Indo-Pacífico,NA,NA,Парусник индо-тихоокеанский,36,Istiophorus platypterus,175003000402,(Shaw & Nodder 1792),ISTIOPHORIDAE,SCOMBROIDEI
 SAI,NA,Atlantic sailfish,Istiophorus albicans,Atlantic sailfish,Voilier de l'Atlantique,Pez vela del Atlántico,NA,NA,Парусник атлантический,36,Istiophorus albicans,175003000404,(Latreille 1804),ISTIOPHORIDAE,SCOMBROIDEI
 BUM,NA,Blue marlin,Makaira nigricans,Blue marlin,Makaire bleu,Aguja azul,مقير أزرق أطلسيّ ، مكيرأزرق أطلسيّ,蓝枪鱼,Марлин синий,36,Makaira nigricans,175003000505,Lacépède 1802,ISTIOPHORIDAE,SCOMBROIDEI
+BXQ,NA,Marlins nei,Makaira spp,Marlins nei,Makaires nca,Agujas nep,NA,NA,NA,36,Makaira spp,1750030005XX,NA,ISTIOPHORIDAE,SCOMBROIDEI
 BLM,NA,Black marlin,Istiompax indica,Black marlin,Makaire noir,Aguja negra,NA,NA,NA,36,Istiompax indica,175003000601,(Cuvier 1832),ISTIOPHORIDAE,SCOMBROIDEI
 WHM,NA,Atlantic white marlin,Kajikia albida,Atlantic white marlin,Makaire blanc de l'Atlantique,Aguja blanca del Atlántico,NA,NA,Копьеносец белый (=марлин белый),36,Kajikia albida,175003000701,Poey 1860,ISTIOPHORIDAE,SCOMBROIDEI
 MLS,NA,Striped marlin,Kajikia audax,Striped marlin,Marlin rayé,Marlín rayado,NA,NA,NA,36,Kajikia audax,175003000702,(Philippi 1887),ISTIOPHORIDAE,SCOMBROIDEI
+MSP,NA,Mediterranean spearfish,Tetrapturus belone,Mediterranean spearfish,Marlin de la Méditerranée,Marlín del Mediterráneo,NA,NA,NA,36,Tetrapturus belone,175003000901,Rafinesque 1810,ISTIOPHORIDAE,SCOMBROIDEI
 SSP,NA,Shortbill spearfish,Tetrapturus angustirostris,Shortbill spearfish,Makaire à rostre court,Marlín trompa corta,NA,NA,NA,36,Tetrapturus angustirostris,175003000905,Tanaka 1915,ISTIOPHORIDAE,SCOMBROIDEI
 SPF,NA,Longbill spearfish,Tetrapturus pfluegeri,Longbill spearfish,Makaire bécune,Aguja picuda,NA,NA,NA,36,Tetrapturus pfluegeri,175003000906,Robins & de Sylva 1963,ISTIOPHORIDAE,SCOMBROIDEI
 BIL,NA,"Marlins,sailfishes,etc. nei",Istiophoridae,"Marlins,sailfishes,etc. nei","Makaires,marlins,voiliers nca","Agujas,marlines,peces vela nep",NA,NA,NA,36,Istiophoridae,1750030XXXXX,NA,ISTIOPHORIDAE,SCOMBROIDEI
 SWO,NA,Swordfish,Xiphias gladius,Swordfish,Espadon,Pez espada,NA,NA,Меч-рыба,36,Xiphias gladius,175004000301,Linnaeus 1758,XIPHIIDAE,SCOMBROIDEI
+TUX,NA,Tuna-like fishes nei,Scombroidei,Tuna-like fishes nei,Poissons type thon nca,Peces parec. a los atunes nep,NA,NA,Скумбриевидные,36,Scombroidei,1750XXXXXXXX,NA,NA,SCOMBROIDEI
 ALV,NA,Thresher,Alopias vulpinus,Thresher,Renard,Zorro,القرش الثّعلب,狐形长尾鲨,Лисица морская обыкновенная,38,Alopias vulpinus,106006000101,(Bonnaterre 1788),ALOPIIDAE,LAMNIFORMES
 PTH,NA,Pelagic thresher,Alopias pelagicus,Pelagic thresher,Renard pélagique,Zorro pelágico,NA,NA,NA,38,Alopias pelagicus,106006000102,Nakamura 1935,ALOPIIDAE,LAMNIFORMES
 BTH,NA,Bigeye thresher,Alopias superciliosus,Bigeye thresher,Renard à gros yeux,Zorro ojón,NA,NA,NA,38,Alopias superciliosus,106006000103,(Lowe 1841),ALOPIIDAE,LAMNIFORMES
