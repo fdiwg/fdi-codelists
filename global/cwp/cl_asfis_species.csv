@@ -1,4 +1,4 @@
-code,uri,label,definition,name_en,name_fr,name_es,name_ar,name_cn,name_ru,isscaap_group_code,taxa_scientific_name,taxa_code,taxa_author,taxa_family,taxa_order
+code,uri,label,definition,name_en,name_fr,name_es,name_ar,name_cn,name_ru,isscaap_group_code,taxon_scientific_name,taxon_code,taxon_author,taxon_family,taxon_order
 YCL,,Blue sucker,Cycleptus elongatus,Blue sucker,,,,,,11,Cycleptus elongatus,140001000101,(Lesueur 1817),CATOSTOMIDAE,CYPRINIFORMES
 DEU,,Lost River sucker,Deltistes luxatus,Lost River sucker,,,,,,11,Deltistes luxatus,140001000201,(Cope 1879),CATOSTOMIDAE,CYPRINIFORMES
 ATC,,Longnose sucker,Catostomus catostomus,Longnose sucker,,,,,,11,Catostomus catostomus,140001000401,(Forster 1773),CATOSTOMIDAE,CYPRINIFORMES

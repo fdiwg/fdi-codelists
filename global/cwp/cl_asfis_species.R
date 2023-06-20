@@ -24,11 +24,11 @@ produce_cl_asfis_species<-function(dest=getwd()){
              name_cn=data$Chinese_name,
              name_ru=data$Russian_name,
              isscaap_group_code=data$ISSCAAP,
-             taxa_scientific_name=data$Scientific_Name,
-             taxa_code=data$TAXOCODE,
-             taxa_author=data$Author,
-             taxa_family=data$Family,
-             taxa_order=data$Order)
+             taxon_scientific_name=data$Scientific_Name,
+             taxon_code=data$TAXOCODE,
+             taxon_author=data$Author,
+             taxon_family=data$Family,
+             taxon_order=data$Order)
   
   reformat[is.na(reformat)] <- ""
   
