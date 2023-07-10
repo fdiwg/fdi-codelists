@@ -1,0 +1,22 @@
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <atom:updated>2023-07-10T14:00:00</atom:updated>
+  <dcterms:title>RECOFI Reference List of Flagstates</dcterms:title>
+  <dcterms:source>RECOFI MDR</dcterms:source>
+  <dcterms:identifier>urn:fdi:codelist:recofi:flagstate:1.0</dcterms:identifier>
+  <dcterms:identifier>cl_flagstate</dcterms:identifier>
+  <dcterms:license>NONE</dcterms:license>
+  <dcterms:hasVersion>1.0</dcterms:hasVersion>
+  <dcterms:type>Dataset</dcterms:type>
+  <dcterms:creator>RECOFI MDR</dcterms:creator>
+  <dcterms:publisher>Fisheries Data Interoperability adhoc working group</dcterms:publisher>
+  <dcterms:relation>urn:fdi:term:flagstate</dcterms:relation>
+  <dcterms:subject>RECOFI</dcterms:subject>
+  <dcterms:subject>RECOFI MDR</dcterms:subject>
+  <dcterms:subject>DCRF</dcterms:subject>
+  <dcterms:subject>FAO</dcterms:subject>
+  <dcterms:subject>CWP</dcterms:subject>
+  <dcterms:subject>FDI</dcterms:subject>
+  <dcterms:subject>FAIR</dcterms:subject>
+  <dcterms:subject>Fisheries</dcterms:subject>
+  <dcterms:subject>Interoperability</dcterms:subject>
+</atom:entry> 
