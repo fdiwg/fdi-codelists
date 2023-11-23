@@ -1,0 +1,325 @@
+code,uri,label,definition,label_en,label_fr,label_es,label_ar,label_zh,label_ru
+18,NA,Arctic Sea,NA,Arctic Sea,Mer Arctique,Mar Ártico,NA,NA,NA
+61,NA,"Pacific, Northwest",NA,"Pacific, Northwest","Pacifique, nord-ouest","Pacífico, noroeste",NA,NA,NA
+67,NA,"Pacific, Northeast",NA,"Pacific, Northeast","Pacifique, nord-est","Pacífico, nordeste",NA,NA,NA
+37,NA,Mediterranean and Black Sea,NA,Mediterranean and Black Sea,Méditerranée et mer Noire,Mediterráneo y Mar Negro,NA,NA,NA
+27,NA,"Atlantic, Northeast",NA,"Atlantic, Northeast","Atlantique, nord-est","Atlántico, nordeste",NA,NA,NA
+31,NA,"Atlantic, Western Central",NA,"Atlantic, Western Central","Atlantique, centre-ouest","Atlántico, centro-occidental",NA,NA,NA
+34,NA,"Atlantic, Eastern Central",NA,"Atlantic, Eastern Central","Atlantique, centre-est","Atlántico, centro-oriental",NA,NA,NA
+51,NA,"Indian Ocean, Western",NA,"Indian Ocean, Western","Océan Indien, ouest","Océano Índico, occidental",NA,NA,NA
+57,NA,"Indian Ocean, Eastern",NA,"Indian Ocean, Eastern","Océan Indien, est","Océano Índico, oriental",NA,NA,NA
+71,NA,"Pacific, Western Central",NA,"Pacific, Western Central","Pacifique, centre-ouest","Pacífico, centro-occidental",NA,NA,NA
+87,NA,"Pacific, Southeast",NA,"Pacific, Southeast","Pacifique, sud-est","Pacífico, sudoriental",NA,NA,NA
+41,NA,"Atlantic, Southwest",NA,"Atlantic, Southwest","Atlantique, sud-ouest","Atlántico, sudoccidental",NA,NA,NA
+81,NA,"Pacific, Southwest",NA,"Pacific, Southwest","Pacifique, sud-ouest","Pacífico, sudoccidental",NA,NA,NA
+58,NA,"Indian Ocean, Antarctic",NA,"Indian Ocean, Antarctic","Océan Indien, Antarctique","Océano Índico, Antártico",NA,NA,NA
+48,NA,"Atlantic, Antarctic",NA,"Atlantic, Antarctic","Atlantique, Antarctique","Atlántico, Antártico",NA,NA,NA
+88,NA,"Pacific, Antarctic",NA,"Pacific, Antarctic","Pacifique, Antarctique","Pacífico, Antártico",NA,NA,NA
+77,NA,"Pacific, Eastern Central",NA,"Pacific, Eastern Central","Pacifique, centre-est","Pacífico, centro-oriental",NA,NA,NA
+47,NA,"Atlantic, Southeast",NA,"Atlantic, Southeast","Atlantique, sud-est","Atlántico, sudoriental",NA,NA,NA
+21,NA,"Atlantic, Northwest",NA,"Atlantic, Northwest","Atlantique, nord-ouest","Atlántico, noroeste",NA,NA,NA
+37.4,NA,Black Sea subarea,NA,Black Sea subarea,Sous-zone mer Noire,Subárea mar Negro,NA,NA,NA
+37.1,NA,Western subarea,NA,Western subarea,Sous-zone occidentale,Subárea occidental,NA,NA,NA
+27.12,NA,North of Azores (Subarea 27.12),NA,North of Azores (Subarea 27.12),Nord des Açores (Sous-zone 27.12),Norte de las Azores (Subárea 27.12),NA,NA,NA
+37.2,NA,Central subarea,NA,Central subarea,Sous-zone centrale,Subárea central,NA,NA,NA
+37.3,NA,Eastern subarea,NA,Eastern subarea,Sous-zone orientale,Subárea oriental,NA,NA,NA
+34.2,NA,Northern oceanic subarea,NA,Northern oceanic subarea,Sous-zone océanique nord,Subárea oceánica norte,NA,NA,NA
+34.1,NA,Northern coastal subarea,NA,Northern coastal subarea,Sous-zone côtière nord,Subárea costera norte,NA,NA,NA
+51.2,NA,Gulf subarea,NA,Gulf subarea,Sous-zone Golfe,Subárea Golfo,NA,NA,NA
+57.1,NA,"Indian Ocean, East / 57.1",NA,"Indian Ocean, East / 57.1",Ind E / 57.1,Ind E / 57.1,NA,NA,NA
+34.4,NA,Southern oceanic subarea,NA,Southern oceanic subarea,Sous-zone océanique sud,Subárea oceánica sur,NA,NA,NA
+34.3,NA,Southern coastal subarea,NA,Southern coastal subarea,Sous-zone côtière sud,Subárea costera sur,NA,NA,NA
+51.5,NA,"Indian Ocean, West / 51.5",NA,"Indian Ocean, West / 51.5",Ind W / 51.5,Ind W / 51.5,NA,NA,NA
+87.1,NA,"Pacific, Southeast / 87.1",NA,"Pacific, Southeast / 87.1","Pacific, Southeast / 87.1","Pacific, Southeast / 87.1",NA,NA,NA
+41.1,NA,"Atlantic, Southwest / 41.1",NA,"Atlantic, Southwest / 41.1",Atl SW / 41.1,Atl SW / 41.1,NA,NA,NA
+57.2,NA,"Indian Ocean, East / 57.2",NA,"Indian Ocean, East / 57.2",Ind E / 57.2,Ind E / 57.2,NA,NA,NA
+51.6,NA,"Indian Ocean, West / 51.6",NA,"Indian Ocean, West / 51.6",Ind W / 51.6,Ind W / 51.6,NA,NA,NA
+51.7,NA,"Indian Ocean, West / 51.7",NA,"Indian Ocean, West / 51.7",Ind W / 51.7,Ind W / 51.7,NA,NA,NA
+51.8,NA,"Indian Ocean, West / 51.8",NA,"Indian Ocean, West / 51.8",Ind W / 51.8,Ind W / 51.8,NA,NA,NA
+57.5,NA,"Indian Ocean, East / 57.5",NA,"Indian Ocean, East / 57.5",Ind E / 57.5,Ind E / 57.5,NA,NA,NA
+57.3,NA,"Indian Ocean, East / 57.3",NA,"Indian Ocean, East / 57.3",Ind E / 57.3,Ind E / 57.3,NA,NA,NA
+87.2,NA,"Pacific, Southeast / 87.2",NA,"Pacific, Southeast / 87.2","Pacific, Southeast / 87.2","Pacific, Southeast / 87.2",NA,NA,NA
+41.2,NA,"Atlantic, Southwest / 41.2",NA,"Atlantic, Southwest / 41.2",Atl SW / 41.2,Atl SW / 41.2,NA,NA,NA
+57.4,NA,"Indian Ocean, East / 57.4",NA,"Indian Ocean, East / 57.4",Ind E / 57.4,Ind E / 57.4,NA,NA,NA
+87.3,NA,"Pacific, Southeast / 87.3",NA,"Pacific, Southeast / 87.3","Pacific, Southeast / 87.3","Pacific, Southeast / 87.3",NA,NA,NA
+58.7,NA,Indian Antarctic 58.7,NA,Indian Antarctic 58.7,Ind Antar 58.7,Ind Antar 58.7,NA,NA,NA
+58.6,NA,Indian Antarctic 58.6,NA,Indian Antarctic 58.6,Ind Antar 58.6,Ind Antar 58.6,NA,NA,NA
+58.5,NA,Indian Antarctic 58.5,NA,Indian Antarctic 58.5,Ind Antar 58.5,Ind Antar 58.5,NA,NA,NA
+41.3,NA,"Atlantic, Southwest / 41.3",NA,"Atlantic, Southwest / 41.3",Atl SW / 41.3,Atl SW / 41.3,NA,NA,NA
+27.10,NA,Azores Grounds and Northeast Atlantic South (Subarea  27.10),NA,Azores Grounds and Northeast Atlantic South (Subarea  27.10),Fonds des Açores et Atlantique nord-est du sud (Sous-zone 27.10),Fondos de las Azores y Atlántico nordeste del sur (Subárea 27.10),NA,NA,NA
+27.9,NA,Portuguese Waters (Subarea 27.9),NA,Portuguese Waters (Subarea 27.9),Eaux portugaises (Sous-zone 27.9),Aguas Portuguesas (Subárea 27.9),NA,NA,NA
+48.3,NA,Atlantic Antarctic / 48.3,NA,Atlantic Antarctic / 48.3,Atl Antar / 48.3,Atl Antar / 48.3,NA,NA,NA
+48.4,NA,Atlantic Antarctic / 48.4,NA,Atlantic Antarctic / 48.4,Atl Antar / 48.4,Atl Antar / 48.4,NA,NA,NA
+58.4,NA,Indian Antarctic 58.4,NA,Indian Antarctic 58.4,Ind Antar 58.4,Ind Antar 58.4,NA,NA,NA
+48.2,NA,Atlantic Antarctic / 48.2,NA,Atlantic Antarctic / 48.2,Atl Antar / 48.2,Atl Antar / 48.2,NA,NA,NA
+88.1,NA,Pacific Antarctic / 88.1,NA,Pacific Antarctic / 88.1,Pac Antar / 88.1,Pac Antar / 88.1,NA,NA,NA
+88.3,NA,Pacific Antarctic / 88.3,NA,Pacific Antarctic / 88.3,Pac Antar / 88.3,Pac Antar / 88.3,NA,NA,NA
+48.1,NA,Atlantic Antarctic / 48.1,NA,Atlantic Antarctic / 48.1,Atl Antar / 48.1,Atl Antar / 48.1,NA,NA,NA
+51.3,NA,Western Arabian Sea subarea,NA,Western Arabian Sea subarea,Sous-zone mer Arabe occidental,Subárea mar Árabe occidental,NA,NA,NA
+51.1,NA,Red Sea subarea,NA,Red Sea subarea,Sous-zone mer Rouge,Subárea mar Rojo,NA,NA,NA
+57.6,NA,"Indian Ocean, East / 57.6",NA,"Indian Ocean, East / 57.6",Ind E / 57.6,Ind E / 57.6,NA,NA,NA
+51.4,NA,"Indian Ocean, West / 51.4",NA,"Indian Ocean, West / 51.4",Ind W / 51.4,Ind W / 51.4,NA,NA,NA
+48.6,NA,Atlantic Antarctic / 48.6,NA,Atlantic Antarctic / 48.6,Atl Antar / 48.6,Atl Antar / 48.6,NA,NA,NA
+48.5,NA,Atlantic Antarctic / 48.5,NA,Atlantic Antarctic / 48.5,Atl Antar / 48.5,Atl Antar / 48.5,NA,NA,NA
+88.2,NA,Pacific Antarctic / 88.2,NA,Pacific Antarctic / 88.2,Pac Antar / 88.2,Pac Antar / 88.2,NA,NA,NA
+47.A,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21.1,NA,"Atlantic, Northwest / 21.1",NA,"Atlantic, Northwest / 21.1",Atl NW / 21.1,Atl NW / 21.1,NA,NA,NA
+21.2,NA,"Atlantic, Northwest / 21.2",NA,"Atlantic, Northwest / 21.2",Atl NW / 21.2,Atl NW / 21.2,NA,NA,NA
+21.3,NA,"Atlantic, Northwest / 21.3",NA,"Atlantic, Northwest / 21.3",Atl NW / 21.3,Atl NW / 21.3,NA,NA,NA
+47.1,NA,Western coastal subarea,NA,Western coastal subarea,Sous-zone côtière occidentale,Subárea costera occidental,NA,NA,NA
+47.C,NA,NA,NA,NA,NA,NA,NA,NA,NA
+47.D,NA,NA,NA,NA,NA,NA,NA,NA,NA
+47.2,NA,Agulhas coastal subarea,NA,Agulhas coastal subarea,Sous-zone côtière des Aiguilles,Subárea costera de Agulhas,NA,NA,NA
+27.8,NA,Bay of Biscay (Subarea 27.8),NA,Bay of Biscay (Subarea 27.8),Golfe de Gascogne (Sous-zone 27.8),Golfo de Vizcaya (Subárea 27.8),NA,NA,NA
+21.4,NA,"Atlantic, Northwest / 21.4",NA,"Atlantic, Northwest / 21.4",Atl NW / 21.4,Atl NW / 21.4,NA,NA,NA
+21.5,NA,"Atlantic, Northwest / 21.5",NA,"Atlantic, Northwest / 21.5",Atl NW / 21.5,Atl NW / 21.5,NA,NA,NA
+21.6,NA,"Atlantic, Northwest / 21.6",NA,"Atlantic, Northwest / 21.6",Atl NW / 21.6,Atl NW / 21.6,NA,NA,NA
+21.0,NA,"Atlantic, Northwest / 21.0",NA,"Atlantic, Northwest / 21.0",Atl NW / 21.0,Atl NW / 21.0,NA,NA,NA
+47.B,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27.7,NA,"Irish Sea, West of Ireland, Porcupine Bank, Eastern and Western English Channel, etc (Subarea 27.7)",NA,"Irish Sea, West of Ireland, Porcupine Bank, Eastern and Western English Channel, etc (Subarea 27.7)","Mer d'Irlande, Ouest de l'Irlande, Banc de Porcupine, Manche, etc. (Sous-zone 27.7)","Mar de Irlanda, Oeste de Irlanda, Porcupine Bank, Canal de La Mancha, etc. (Subárea 27.7)",NA,NA,NA
+27.4,NA,North Sea (Subarea 27.4),NA,North Sea (Subarea 27.4),Mer du Nord (Sous-zone 27.4),Mar del Norte (Subárea 27.4),NA,NA,NA
+27.3,NA,"Skagerrak, Kattegat, Sound, Belt Sea, and Baltic Sea (Subarea 27.3)",NA,"Skagerrak, Kattegat, Sound, Belt Sea, and Baltic Sea (Subarea 27.3)","Skagerrak, Cattégat, Sund, Mer des Belts, Mer Baltique (Sous-zone 27.3)","Skagerrak, Kattegat, Sund,  Mar de Belt y Mar Báltico (Subárea 27.3)",NA,NA,NA
+27.6,NA,"Rockall, Northwest Coast of Scotland and North Ireland (Subarea 27.6)",NA,"Rockall, Northwest Coast of Scotland and North Ireland (Subarea 27.6)","Rockall, Côte Nord-Ouest de l'Ecosse et Irlande du Nord (Sous-zone 27.6)","Rockall, costa nord-occidental de Escocia e Irlanda del Norte (Subárea 27.6)",NA,NA,NA
+27.5,NA,Iceland and Faroes Grounds (Subarea 27.5),NA,Iceland and Faroes Grounds (Subarea 27.5),Fonds d'Islande et des Féroé (Sous-zone 27.5),Fondos de Islandia y de las Feroe (Subárea 27.5),NA,NA,NA
+27.14,NA,East Greenland (Subarea 27.14),NA,East Greenland (Subarea 27.14),Groenland est (Sous-zone 27.14),Groenlandia oriental (Subárea 27.14),NA,NA,NA
+27.2,NA,"Norwegian Sea, Spitzbergen, and Bear Island (Subarea 27.2)",NA,"Norwegian Sea, Spitzbergen, and Bear Island (Subarea 27.2)","Mer de Norvège, Spitzberg et île aux Ours (Sous-zone 27.2)","Mar de Noruega, Spitzbergen e Islas Osos (Subárea 27.2)",NA,NA,NA
+27.1,NA,Barents Sea (Subarea 27.1),NA,Barents Sea (Subarea 27.1),Mer de Barents (Sous-zone 27.1),Mar de Barents (Subárea 27.1),NA,NA,NA
+37.4.2,NA,Black Sea,NA,Black Sea,Mer Noire,Mar Negro,NA,NA,NA
+37.4.3,NA,Azov Sea,NA,Azov Sea,Mer d'Azov,Mar de Azov,NA,NA,NA
+37.1.2,NA,Gulf of Lion,NA,Gulf of Lion,Golfe du Lion,Golfo de León,NA,NA,NA
+37.1.3,NA,Sardinia,NA,Sardinia,Sardaigne,Cerdeña,NA,NA,NA
+27.12.b,NA,Western Hatton Bank (Division 27.12.b),NA,Western Hatton Bank (Division 27.12.b),Nord des Açores (Division 27.12.b),Norte de las Azores (División 27.12.b),NA,NA,NA
+37.2.1,NA,Adriatic,NA,Adriatic,Adriatique,Adriático,NA,NA,NA
+37.2.2,NA,Ionian,NA,Ionian,Ionienne,Jónio,NA,NA,NA
+37.3.1,NA,Aegean,NA,Aegean,Égée,Egeo,NA,NA,NA
+37.4.1,NA,Marmara Sea,NA,Marmara Sea,Mer de Marmara,Mar de Mármara,NA,NA,NA
+37.3.2,NA,Levant,NA,Levant,Levant,Levante,NA,NA,NA
+34.1.2,NA,Canaries/Madeira insular,NA,Canaries/Madeira insular,Insulaire des Canaries/Madère,Insular de Canarias/Madera,NA,NA,NA
+34.1.1,NA,Morocco coastal,NA,Morocco coastal,Côtière du Maroc,Costera de Marruecos,NA,NA,NA
+34.1.3,NA,Sahara coastal,NA,Sahara coastal,Côtière du Sahara,Costera del Sahara,NA,NA,NA
+71.6.2,NA,"Pacific, West central / 71.6.2",NA,"Pacific, West central / 71.6.2",Pac WC / 71.6.2,Pac WC / 71.6.2,NA,NA,NA
+34.4.2,NA,Southwest oceanic,NA,Southwest oceanic,"Océanique, sud-ouest",Oceánica sudoccidental,NA,NA,NA
+34.3.2,NA,Cape Verde insular,NA,Cape Verde insular,Insulaire du Cap-Vert,Insular de Cabo Verde,NA,NA,NA
+71.6.1,NA,"Pacific, West central / 71.6.1",NA,"Pacific, West central / 71.6.1",Pac WC / 71.6.1,Pac WC / 71.6.1,NA,NA,NA
+34.3.1,NA,Cape Verde coastal,NA,Cape Verde coastal,Côtière du Cap-Vert,Costera de Cabo Verde,NA,NA,NA
+34.3.3,NA,Sherbro,NA,Sherbro,Sherbro,Sherbro,NA,NA,NA
+87.1.1,NA,"Pacific, Southeast / 87.1.1",NA,"Pacific, Southeast / 87.1.1","Pacific, Southeast / 87.1.1","Pacific, Southeast / 87.1.1",NA,NA,NA
+34.3.4,NA,Western Gulf of Guinea,NA,Western Gulf of Guinea,"Golfe de Guinée, ouest",Golfo de Guinea occidental,NA,NA,NA
+34.3.5,NA,Central Gulf of Guinea,NA,Central Gulf of Guinea,"Golfe de Guinée, centre",Golfo de Guinea central,NA,NA,NA
+87.1.2,NA,"Pacific, Southeast / 87.1.2",NA,"Pacific, Southeast / 87.1.2","Pacific, Southeast / 87.1.2","Pacific, Southeast / 87.1.2",NA,NA,NA
+87.1.4,NA,"Pacific, Southeast / 87.1.4",NA,"Pacific, Southeast / 87.1.4","Pacific, Southeast / 87.1.4","Pacific, Southeast / 87.1.4",NA,NA,NA
+41.1.1,NA,"Atlantic, Southwest / 41.1.1",NA,"Atlantic, Southwest / 41.1.1",Atl SW / 41.1.1,Atl SW / 41.1.1,NA,NA,NA
+87.1.3,NA,"Pacific, Southeast / 87.1.3",NA,"Pacific, Southeast / 87.1.3","Pacific, Southeast / 87.1.3","Pacific, Southeast / 87.1.3",NA,NA,NA
+41.1.2,NA,"Atlantic, Southwest / 41.1.2",NA,"Atlantic, Southwest / 41.1.2",Atl SW / 41.1.2,Atl SW / 41.1.2,NA,NA,NA
+41.1.3,NA,"Atlantic, Southwest / 41.1.3",NA,"Atlantic, Southwest / 41.1.3",Atl SW / 41.1.3,Atl SW / 41.1.3,NA,NA,NA
+57.5.1,NA,"Indian Ocean, East / 57.5.1",NA,"Indian Ocean, East / 57.5.1",Ind E / 57.5.1,Ind E / 57.5.1,NA,NA,NA
+87.2.6,NA,87.2.6,NA,87.2.6,87.2.6,87.2.6,NA,NA,NA
+87.2.2,NA,"Pacific, Southeast / 87.2.2",NA,"Pacific, Southeast / 87.2.2","Pacific, Southeast / 87.2.2","Pacific, Southeast / 87.2.2",NA,NA,NA
+87.2.1,NA,"Pacific, Southeast / 87.2.1",NA,"Pacific, Southeast / 87.2.1","Pacific, Southeast / 87.2.1","Pacific, Southeast / 87.2.1",NA,NA,NA
+41.2.1,NA,"Atlantic, Southwest / 41.2.1",NA,"Atlantic, Southwest / 41.2.1",Atl SW / 41.2.1,Atl SW / 41.2.1,NA,NA,NA
+41.1.4,NA,"Atlantic, Southwest / 41.1.4",NA,"Atlantic, Southwest / 41.1.4",Atl SW / 41.1.4,Atl SW / 41.1.4,NA,NA,NA
+34.4.1,NA,Southwest Gulf of Guinea,NA,Southwest Gulf of Guinea,"Golfe de Guinée, sud-ouest",Golfo de Guinea sudoccidental,NA,NA,NA
+57.5.2,NA,"Indian Ocean, East / 57.5.2",NA,"Indian Ocean, East / 57.5.2",Ind E / 57.5.2,Ind E / 57.5.2,NA,NA,NA
+87.2.3,NA,87.2.3,NA,87.2.3,87.2.3,87.2.3,NA,NA,NA
+87.2.5,NA,87.2.5,NA,87.2.5,87.2.5,87.2.5,NA,NA,NA
+41.2.2,NA,"Atlantic, Southwest / 41.2.2",NA,"Atlantic, Southwest / 41.2.2",Atl SW / 41.2.2,Atl SW / 41.2.2,NA,NA,NA
+87.2.4,NA,87.2.4,NA,87.2.4,87.2.4,87.2.4,NA,NA,NA
+87.3.3,NA,87.33,NA,87.33,87.33,87.33,NA,NA,NA
+87.3.2,NA,"Pacific, Southeast / 87.3.2",NA,"Pacific, Southeast / 87.3.2","Pacific, Southeast / 87.3.2","Pacific, Southeast / 87.3.2",NA,NA,NA
+87.3.1,NA,"Pacific, Southeast / 87.3.1",NA,"Pacific, Southeast / 87.3.1","Pacific, Southeast / 87.3.1","Pacific, Southeast / 87.3.1",NA,NA,NA
+58.5.1,NA,Indian Antarctic 58.5.1,NA,Indian Antarctic 58.5.1,Ind Antar 58.5.1,Ind Antar 58.5.1,NA,NA,NA
+41.2.4,NA,"Atlantic, Southwest / 41.2.4",NA,"Atlantic, Southwest / 41.2.4",Atl SW / 41.2.4,Atl SW / 41.2.4,NA,NA,NA
+41.3.3,NA,"Atlantic, Southwest / 41.3.3",NA,"Atlantic, Southwest / 41.3.3",Atl SW / 41.3.3,Atl SW / 41.3.3,NA,NA,NA
+27.10.a,NA,Azores Grounds (Division 27.10.a),NA,Azores Grounds (Division 27.10.a),Fonds des Açores (Division 27.10.a),Fondos de las Azores (División  27.10.a),NA,NA,NA
+27.9.b,NA,Portuguese Waters - West (Division 27.9.b),NA,Portuguese Waters - West (Division 27.9.b),Eaux portugaises - Ouest (Division 27.9.b),Aguas Portuguesas - oeste (División 27.9.b),NA,NA,NA
+58.5.2,NA,Indian Antarctic 58.5.2,NA,Indian Antarctic 58.5.2,Ind Antar 58.5.2,Ind Antar 58.5.2,NA,NA,NA
+58.4.4,NA,Indian Antarctic 58.4.4,NA,Indian Antarctic 58.4.4,Ind Antar 58.4.4,Ind Antar 58.4.4,NA,NA,NA
+41.2.3,NA,"Atlantic, Southwest / 41.2.3",NA,"Atlantic, Southwest / 41.2.3",Atl SW / 41.2.3,Atl SW / 41.2.3,NA,NA,NA
+41.3.1,NA,"Atlantic, Southwest / 41.3.1",NA,"Atlantic, Southwest / 41.3.1",Atl SW / 41.3.1,Atl SW / 41.3.1,NA,NA,NA
+37.1.1,NA,Balearic,NA,Balearic,Baléares,Baleares,NA,NA,NA
+34.3.6,NA,Southern Gulf of Guinea,NA,Southern Gulf of Guinea,"Golfe de Guinée, sud",Golfo de Guinea meridional,NA,NA,NA
+41.3.2,NA,"Atlantic, Southwest / 41.3.2",NA,"Atlantic, Southwest / 41.3.2",Atl SW / 41.3.2,Atl SW / 41.3.2,NA,NA,NA
+58.4.2,NA,Indian Antarctic 58.4.2,NA,Indian Antarctic 58.4.2,Ind Antar 58.4.2,Ind Antar 58.4.2,NA,NA,NA
+58.4.1,NA,Indian Antarctic 58.4.1,NA,Indian Antarctic 58.4.1,Ind Antar 58.4.1,Ind Antar 58.4.1,NA,NA,NA
+58.4.3,NA,Indian Antarctic 58.4.3,NA,Indian Antarctic 58.4.3,Ind Antar 58.4.3,Ind Antar 58.4.3,NA,NA,NA
+47.A.0,NA,SEAFO division A.0,NA,SEAFO division A.0,Division SEAFO A.0,División SEAFO A.0,NA,NA,NA
+47.A.1,NA,SEAFO division A.1,NA,SEAFO division A.1,Division SEAFO A.1,División SEAFO A.1,NA,NA,NA
+21.1.D,NA,"Atlantic, Northwest / 21.1.D",NA,"Atlantic, Northwest / 21.1.D",Atl NW / 21.1.D,Atl NW / 21.1.D,NA,NA,NA
+21.1.E,NA,"Atlantic, Northwest / 21.1.E",NA,"Atlantic, Northwest / 21.1.E",Atl NW / 21.1.E,Atl NW / 21.1.E,NA,NA,NA
+21.2.G,NA,"Atlantic, Northwest / 21.2.G",NA,"Atlantic, Northwest / 21.2.G",Atl NW / 21.2.G,Atl NW / 21.2.G,NA,NA,NA
+21.1.F,NA,"Atlantic, Northwest / 21.1.F",NA,"Atlantic, Northwest / 21.1.F",Atl NW / 21.1.F,Atl NW / 21.1.F,NA,NA,NA
+21.2.H,NA,"Atlantic, Northwest / 21.2.H",NA,"Atlantic, Northwest / 21.2.H",Atl NW / 21.2.H,Atl NW / 21.2.H,NA,NA,NA
+21.3.M,NA,"Atlantic, Northwest / 21.3.M",NA,"Atlantic, Northwest / 21.3.M",Atl NW / 21.3.M,Atl NW / 21.3.M,NA,NA,NA
+21.3.O,NA,"Atlantic, Northwest / 21.3.O",NA,"Atlantic, Northwest / 21.3.O",Atl NW / 21.3.O,Atl NW / 21.3.O,NA,NA,NA
+47.1.1,NA,Cape Palmeirinhas,NA,Cape Palmeirinhas,Cap Palmeirinhas,Cabo Palmeirinhas,NA,NA,NA
+47.1.2,NA,Cape Salinas,NA,Cape Salinas,Cap Salinas,Cabo Salinas,NA,NA,NA
+47.C.0,NA,SEAFO division C.0,NA,SEAFO division C.0,Division SEAFO C.0,División SEAFO C.0,NA,NA,NA
+47.D.0,NA,SEAFO division D.0,NA,SEAFO division D.0,Division SEAFO D.0,División SEAFO D.0,NA,NA,NA
+47.2.2,NA,Eastern Agulhas,NA,Eastern Agulhas,"Aiguilles, est",Agulhas oriental,NA,NA,NA
+47.2.1,NA,Middle Agulhas,NA,Middle Agulhas,"Aiguilles, centre",Agulhas central,NA,NA,NA
+47.1.3,NA,Cunene,NA,Cunene,Cunène,Cunene,NA,NA,NA
+47.1.4,NA,Cape Cross,NA,Cape Cross,Cap Cross,Cabo Cross,NA,NA,NA
+47.1.5,NA,Orange River,NA,Orange River,Fleuve Orange,Río Orange,NA,NA,NA
+47.1.6,NA,Cape of Good Hope,NA,Cape of Good Hope,Cap de Bonne-Espérance,Cabo de Buena Esperanza,NA,NA,NA
+27.9.a,NA,Portuguese Waters - East (Division 27.9.a),NA,Portuguese Waters - East (Division 27.9.a),Eaux portugaises - Est (Division 27.9.a),Aguas Portuguesas - este (División 27.9.a),NA,NA,NA
+27.8.c,NA,Bay of Biscay - South (Division 27.8.c),NA,Bay of Biscay - South (Division 27.8.c),Golfe de Gascogne - Sud (Division 27.8.c),Golfo de Vizcaya - sur (División 27.8.c),NA,NA,NA
+27.8.b,NA,Bay of Biscay - Central (Division 27.8.b),NA,Bay of Biscay - Central (Division 27.8.b),Golfe de Gascogne - Central (Division 27.8.b),Golfo de Vizcaya - centro (División 27.8.b),NA,NA,NA
+27.10.b,NA,Northeast Atlantic South (Division 27.10.b),NA,Northeast Atlantic South (Division 27.10.b),Fonds des Açores (Division 27.10.b),Fondos de las Azores (División 27.10.b),NA,NA,NA
+27.8.e,NA,West of Bay of Biscay (Division 27.8.e),NA,West of Bay of Biscay (Division 27.8.e),Ouest du golfe de Gascogne (Division 27.8.e),Oeste del Golfo de Vizcaya (División 27.8.e),NA,NA,NA
+27.8.d,NA,Bay of Biscay - Offshore (Division 27.8.d),NA,Bay of Biscay - Offshore (Division 27.8.d),Golfe de Gascogne - Large (Division 27.8.d),Golfo de Vizcaya - alta mar (División 27.8.d),NA,NA,NA
+21.3.N,NA,"Atlantic, Northwest / 21.3.N",NA,"Atlantic, Northwest / 21.3.N",Atl NW / 21.3.N,Atl NW / 21.3.N,NA,NA,NA
+21.4.V,NA,"Atlantic, Northwest / 21.4.V",NA,"Atlantic, Northwest / 21.4.V",Atl NW / 21.4.V,Atl NW / 21.4.V,NA,NA,NA
+21.5.Z,NA,"Atlantic, Northwest / 21.5.Z",NA,"Atlantic, Northwest / 21.5.Z",Atl NW / 21.5.Z,Atl NW / 21.5.Z,NA,NA,NA
+21.6.B,NA,"Atlantic, Northwest / 21.6.B",NA,"Atlantic, Northwest / 21.6.B",Atl NW / 21.6.B,Atl NW / 21.6.B,NA,NA,NA
+21.6.D,NA,"Atlantic, Northwest / 21.6.D",NA,"Atlantic, Northwest / 21.6.D",Atl NW / 21.6.D,Atl NW / 21.6.D,NA,NA,NA
+21.6.E,NA,"Atlantic, Northwest / 21.6.E",NA,"Atlantic, Northwest / 21.6.E",Atl NW / 21.6.E,Atl NW / 21.6.E,NA,NA,NA
+21.6.F,NA,"Atlantic, Northwest / 21.6.F",NA,"Atlantic, Northwest / 21.6.F",Atl NW / 21.6.F,Atl NW / 21.6.F,NA,NA,NA
+21.6.G,NA,"Atlantic, Northwest / 21.6.G",NA,"Atlantic, Northwest / 21.6.G",Atl NW / 21.6.G,Atl NW / 21.6.G,NA,NA,NA
+21.6.H,NA,"Atlantic, Northwest / 21.6.H",NA,"Atlantic, Northwest / 21.6.H",Atl NW / 21.6.H,Atl NW / 21.6.H,NA,NA,NA
+21.0.A,NA,"Atlantic, Northwest / 21.0.A",NA,"Atlantic, Northwest / 21.0.A",Atl NW / 21.0.A,Atl NW / 21.0.A,NA,NA,NA
+21.1.A,NA,"Atlantic, Northwest / 21.1.A",NA,"Atlantic, Northwest / 21.1.A",Atl NW / 21.1.A,Atl NW / 21.1.A,NA,NA,NA
+21.1.B,NA,"Atlantic, Northwest / 21.1.B",NA,"Atlantic, Northwest / 21.1.B",Atl NW / 21.1.B,Atl NW / 21.1.B,NA,NA,NA
+21.0.B,NA,"Atlantic, Northwest / 21.0.B",NA,"Atlantic, Northwest / 21.0.B",Atl NW / 21.0.B,Atl NW / 21.0.B,NA,NA,NA
+21.1.C,NA,"Atlantic, Northwest / 21.1.C",NA,"Atlantic, Northwest / 21.1.C",Atl NW / 21.1.C,Atl NW / 21.1.C,NA,NA,NA
+21.4.W,NA,"Atlantic, Northwest / 21.4.W",NA,"Atlantic, Northwest / 21.4.W",Atl NW / 21.4.W,Atl NW / 21.4.W,NA,NA,NA
+21.4.S,NA,"Atlantic, Northwest / 21.4.S",NA,"Atlantic, Northwest / 21.4.S",Atl NW / 21.4.S,Atl NW / 21.4.S,NA,NA,NA
+21.3.K,NA,"Atlantic, Northwest / 21.3.K",NA,"Atlantic, Northwest / 21.3.K",Atl NW / 21.3.K,Atl NW / 21.3.K,NA,NA,NA
+21.2.J,NA,"Atlantic, Northwest / 21.2.J",NA,"Atlantic, Northwest / 21.2.J",Atl NW / 21.2.J,Atl NW / 21.2.J,NA,NA,NA
+21.6.A,NA,"Atlantic, Northwest / 21.6.A",NA,"Atlantic, Northwest / 21.6.A",Atl NW / 21.6.A,Atl NW / 21.6.A,NA,NA,NA
+21.6.C,NA,"Atlantic, Northwest / 21.6.C",NA,"Atlantic, Northwest / 21.6.C",Atl NW / 21.6.C,Atl NW / 21.6.C,NA,NA,NA
+21.4.R,NA,"Atlantic, Northwest / 21.4.R",NA,"Atlantic, Northwest / 21.4.R",Atl NW / 21.4.R,Atl NW / 21.4.R,NA,NA,NA
+21.3.L,NA,"Atlantic, Northwest / 21.3.L",NA,"Atlantic, Northwest / 21.3.L",Atl NW / 21.3.L,Atl NW / 21.3.L,NA,NA,NA
+21.3.P,NA,"Atlantic, Northwest / 21.3.P",NA,"Atlantic, Northwest / 21.3.P",Atl NW / 21.3.P,Atl NW / 21.3.P,NA,NA,NA
+21.4.X,NA,"Atlantic, Northwest / 21.4.X",NA,"Atlantic, Northwest / 21.4.X",Atl NW / 21.4.X,Atl NW / 21.4.X,NA,NA,NA
+21.5.Y,NA,"Atlantic, Northwest / 21.5.Y",NA,"Atlantic, Northwest / 21.5.Y",Atl NW / 21.5.Y,Atl NW / 21.5.Y,NA,NA,NA
+21.4.T,NA,"Atlantic, Northwest / 21.4.T",NA,"Atlantic, Northwest / 21.4.T",Atl NW / 21.4.T,Atl NW / 21.4.T,NA,NA,NA
+47.D.1,NA,SEAFO division D.1,NA,SEAFO division D.1,Division SEAFO D.1,División SEAFO D.1,NA,NA,NA
+47.B.1,NA,SEAFO division B.1,NA,SEAFO division B.1,Division SEAFO B.1,División SEAFO B.1,NA,NA,NA
+47.C.1,NA,SEAFO division C.1,NA,SEAFO division C.1,Division SEAFO C.1,División SEAFO C.1,NA,NA,NA
+47.B.0,NA,SEAFO division B.0,NA,SEAFO division B.0,Division SEAFO B.0,División SEAFO B.0,NA,NA,NA
+27.8.a,NA,Bay of Biscay - North (Division 27.8.a),NA,Bay of Biscay - North (Division 27.8.a),Golfe de Gascogne - Nord (Division 27.8.a),Golfo de Vizcaya - norte (División 27.8.a),NA,NA,NA
+27.7.j,NA,Southwest of Ireland - East (Division 27.7.j),NA,Southwest of Ireland - East (Division 27.7.j),Sud-ouest de l'Irlande - Est (Division 27.7.j),Sudoeste de Irlanda - Este (División 27.7.j),NA,NA,NA
+27.7.h,NA,Celtic Sea South (Division 27.7.h),NA,Celtic Sea South (Division 27.7.h),Mer Celtique du sud (Division 27.7.h),Mar Céltico sur (División 27.7.h),NA,NA,NA
+27.7.f,NA,Bristol Channel (Division 27.7.f),NA,Bristol Channel (Division 27.7.f),Canal de Bristol (Division 27.7.f),Canal de Bristol (División 27.7.f),NA,NA,NA
+27.7.g,NA,Celtic Sea North (Division 27.7.g),NA,Celtic Sea North (Division 27.7.g),Mer Celtique du nord (Division 27.7.g),Mar Céltico norte (División 27.7.g),NA,NA,NA
+27.12.c,NA,Central Northeast Atlantic - South (Division 27.12.c),NA,Central Northeast Atlantic - South (Division 27.12.c),Nord des Açores (Division 27.12.c),Norte de las Azores (División 27.12.c),NA,NA,NA
+27.7.k,NA,Southwest of Ireland - West (Division 27.7.k),NA,Southwest of Ireland - West (Division 27.7.k),Sud-ouest de l'Irlande - Ouest (Division 27.7.k),Sudoeste de Irlanda - Oeste (División 27.7.k),NA,NA,NA
+27.4.c,NA,Southern North Sea (Division 27.4.c),NA,Southern North Sea (Division 27.4.c),Mer du Nord méridionale (Division 27.4.c),Mar del Norte meridional (División 27.4.c),NA,NA,NA
+27.7.c,NA,Porcupine Bank (Division 27.7.c),NA,Porcupine Bank (Division 27.7.c),Banc de Porcupine (Division 27.7.c),Porcupine Bank (División 27.7.c),NA,NA,NA
+27.3.d,NA,Baltic Sea (Division 27.3.d),NA,Baltic Sea (Division 27.3.d),Mer Baltique (Division 27.3.d),Mar Báltico (División 27.3.d),NA,NA,NA
+"27.3.b, c",NA,NA,NA,NA,NA,NA,NA,NA,NA
+27.4.b,NA,Central North Sea (Division 27.4.b),NA,Central North Sea (Division 27.4.b),Mer du Nord centrale (Division 27.4.b),Mar del Norte central (División 27.4.b),NA,NA,NA
+27.6.b,NA,Rockall (Division 27.6.b),NA,Rockall (Division 27.6.b),Rockall (Division 27.6.b),Rockall (División 27.6.b),NA,NA,NA
+27.5.b,NA,Faroes Grounds (Division 27.5.b),NA,Faroes Grounds (Division 27.5.b),Fonds des Féroé (Division 27.5.b),Fondos de las Feroe (División 27.5.b),NA,NA,NA
+27.12.a,NA,Southern mid-Atlantic Ridge (Division 27.12.a),NA,Southern mid-Atlantic Ridge (Division 27.12.a),Nord des Açores (Division 27.12.a),Norte de las Azores (División 27.12.a),NA,NA,NA
+27.5.a,NA,Iceland Grounds (Division 27.5.a),NA,Iceland Grounds (Division 27.5.a),Fonds de l'Islande (Division 27.5.a),Fondos de Islandia (División 27.5.a),NA,NA,NA
+27.14.b,NA,Southeast Greenland (Division 27.14.b),NA,Southeast Greenland (Division 27.14.b),Groenland sud-est (Division 27.14.b),Groenlandia sudoriental (División 27.14.b),NA,NA,NA
+27.2.a,NA,Norwegian Sea (Division 27.2.a),NA,Norwegian Sea (Division 27.2.a),Mer de Norvège (Division 27.2.a),Mar de Noruega (División 27.2.a),NA,NA,NA
+27.2.b,NA,Spitzbergen and Bear Island (Division 27.2.b),NA,Spitzbergen and Bear Island (Division 27.2.b),Spitzberg et île aux Ours (Division 27.2.b),Spitzbergen e Islas Osos (División 27.2.b),NA,NA,NA
+27.1.a,NA,Barents Sea - NEAFC Regulatory Area (Division 27.1.a),NA,Barents Sea - NEAFC Regulatory Area (Division 27.1.a),Mer de Barents - CPANE (Division 27.1.a),Mar de Barents - CPANE (División 27.1.a),NA,NA,NA
+27.14.a,NA,Northeast Greenland (Division 27.14.a),NA,Northeast Greenland (Division 27.14.a),Groenland nord-est (Division 27.14.a),Groenlandia nordoriental (División 27.14.a),NA,NA,NA
+27.7.e,NA,Western English Channel (Division 27.7.e),NA,Western English Channel (Division 27.7.e),Manche occidentale (Division 27.7.e),Canal de la Mancha occidental (División 27.7.e),NA,NA,NA
+27.7.d,NA,Eastern English Channel (Division 27.7.d),NA,Eastern English Channel (Division 27.7.d),Manche orientale (Division 27.7.d),Canal de la Mancha oriental (División 27.7.d),NA,NA,NA
+27.6.a,NA,Northwest Coast of Scotland and North Ireland or as the West of Scotland (Division 27.6.a),NA,Northwest Coast of Scotland and North Ireland or as the West of Scotland (Division 27.6.a),Côte Nord-Ouest de l'Ecosse et Irlande du Nord ou comme Ouest de l'Ecosse (Division 27.6.a),Costa nord-occidental de Escocia e Irlanda del Norte o el Oeste de Escocia (División 27.6.a),NA,NA,NA
+27.7.b,NA,West of Ireland (Division 27.7.b),NA,West of Ireland (Division 27.7.b),Ouest de l'Irlande (Division 27.7.b),Oeste de Irlanda (División 27.7.b),NA,NA,NA
+27.7.a,NA,Irish Sea (Division 27.7.a),NA,Irish Sea (Division 27.7.a),Mer d'Irlande (Division 27.7.a),Mar de Irlanda (División 27.7.a),NA,NA,NA
+27.4.a,NA,Northern North Sea (Division 27.4.a),NA,Northern North Sea (Division 27.4.a),Mer du Nord septentrionale (Division 27.4.a),Mar del Norte septentrional (División 27.4.a),NA,NA,NA
+27.1.b,NA,Barents Sea Non-NEAFC Regulatory Area (Division 27.1.b),NA,Barents Sea Non-NEAFC Regulatory Area (Division 27.1.b),Mer de Barents - non-CPANE (Division  27.1.b),Mar de Barents - Non-CPANE (División  27.1.b),NA,NA,NA
+27.3.a,NA,Skagerrak and Kattegat (Division 27.3.a),NA,Skagerrak and Kattegat (Division 27.3.a),Skagerrak et Cattégat (Division 27.3.a),"Skagerrak, Kattegat (División 27.3.a)",NA,NA,NA
+34.1.11,NA,"Atlantic, East central / 34.1.11",NA,"Atlantic, East central / 34.1.11",Atl EC / 34.1.1.1,Atl EC / 34.1.11,NA,NA,NA
+34.1.12,NA,"Atlantic, East central / 34.1.12",NA,"Atlantic, East central / 34.1.12",Atl EC / 34.1.1.2,Atl EC / 34.1.12,NA,NA,NA
+34.1.13,NA,"Atlantic, East central / 34.1.13",NA,"Atlantic, East central / 34.1.13",Atl EC / 34.1.1.3,Atl EC / 34.1.13,NA,NA,NA
+34.1.31,NA,"Atlantic, East central / 34.1.31",NA,"Atlantic, East central / 34.1.31",Atl EC / 34.1.3.1,Atl EC / 34.1.31,NA,NA,NA
+34.1.32,NA,"Atlantic, East central / 34.1.32",NA,"Atlantic, East central / 34.1.32",Atl EC / 34.1.3.2,Atl EC / 34.1.32,NA,NA,NA
+34.3.11,NA,"Atlantic, East central / 34.3.11",NA,"Atlantic, East central / 34.3.11",Atl EC / 34.3.1.1,Atl EC / 34.3.11,NA,NA,NA
+34.3.12,NA,"Atlantic, East central / 34.3.12",NA,"Atlantic, East central / 34.3.12",Atl EC / 34.3.1.2,Atl EC / 34.3.12,NA,NA,NA
+34.3.13,NA,"Atlantic, East central / 34.3.13",NA,"Atlantic, East central / 34.3.13",Atl EC / 34.3.1.3,Atl EC / 34.3.13,NA,NA,NA
+87.1.11,NA,"Pacific, Southeast / 87.1.11",NA,"Pacific, Southeast / 87.1.11","Pacific, Southeast / 87.1.11","Pacific, Southeast / 87.1.11",NA,NA,NA
+87.1.21,NA,"Pacific, Southeast / 87.1.21",NA,"Pacific, Southeast / 87.1.21","Pacific, Southeast / 87.1.21","Pacific, Southeast / 87.1.21",NA,NA,NA
+87.1.22,NA,"Pacific, Southeast / 87.1.22",NA,"Pacific, Southeast / 87.1.22","Pacific, Southeast / 87.1.22","Pacific, Southeast / 87.1.22",NA,NA,NA
+87.1.12,NA,"Pacific, Southeast / 87.1.12",NA,"Pacific, Southeast / 87.1.12","Pacific, Southeast / 87.1.12","Pacific, Southeast / 87.1.12",NA,NA,NA
+87.1.23,NA,"Pacific, Southeast / 87.1.23",NA,"Pacific, Southeast / 87.1.23","Pacific, Southeast / 87.1.23","Pacific, Southeast / 87.1.23",NA,NA,NA
+87.1.13,NA,"Pacific, Southeast / 87.1.13",NA,"Pacific, Southeast / 87.1.13","Pacific, Southeast / 87.1.13","Pacific, Southeast / 87.1.13",NA,NA,NA
+87.1.24,NA,"Pacific, Southeast / 87.1.24",NA,"Pacific, Southeast / 87.1.24","Pacific, Southeast / 87.1.24","Pacific, Southeast / 87.1.24",NA,NA,NA
+87.1.14,NA,"Pacific, Southeast / 87.1.14",NA,"Pacific, Southeast / 87.1.14","Pacific, Southeast / 87.1.14","Pacific, Southeast / 87.1.14",NA,NA,NA
+87.1.25,NA,"Pacific, Southeast / 87.1.25",NA,"Pacific, Southeast / 87.1.25","Pacific, Southeast / 87.1.25","Pacific, Southeast / 87.1.25",NA,NA,NA
+87.1.15,NA,"Pacific, Southeast / 87.1.15",NA,"Pacific, Southeast / 87.1.15","Pacific, Southeast / 87.1.15","Pacific, Southeast / 87.1.15",NA,NA,NA
+87.2.21,NA,87.2.21,NA,87.2.21,87.2.21,87.2.21,NA,NA,NA
+87.2.11,NA,87.2.11,NA,87.2.11,87.2.11,87.2.11,NA,NA,NA
+87.2.22,NA,87.2.22,NA,87.2.22,87.2.22,87.2.22,NA,NA,NA
+87.2.12,NA,87.2.12,NA,87.2.12,87.2.12,87.2.12,NA,NA,NA
+87.2.23,NA,87.2.23,NA,87.2.23,87.2.23,87.2.23,NA,NA,NA
+87.2.13,NA,87.2.13,NA,87.2.13,87.2.13,87.2.13,NA,NA,NA
+87.2.24,NA,87.2.24,NA,87.2.24,87.2.24,87.2.24,NA,NA,NA
+87.2.14,NA,87.2.14,NA,87.2.14,87.2.14,87.2.14,NA,NA,NA
+87.2.25,NA,87.2.25,NA,87.2.25,87.2.25,87.2.25,NA,NA,NA
+87.2.15,NA,87.2.15,NA,87.2.15,87.2.15,87.2.15,NA,NA,NA
+87.2.26,NA,87.2.26,NA,87.2.26,87.2.26,87.2.26,NA,NA,NA
+87.2.16,NA,87.2.16,NA,87.2.16,87.2.16,87.2.16,NA,NA,NA
+87.2.27,NA,87.2.27,NA,87.2.27,87.2.27,87.2.27,NA,NA,NA
+87.2.17,NA,87.2.17,NA,87.2.17,87.2.17,87.2.17,NA,NA,NA
+87.3.21,NA,87.3.21,NA,87.3.21,87.3.21,87.3.21,NA,NA,NA
+87.3.11,NA,87.3.11,NA,87.3.11,87.3.11,87.3.11,NA,NA,NA
+87.3.22,NA,87.3.22,NA,87.3.22,87.3.22,87.3.22,NA,NA,NA
+87.3.23,NA,87.3.23,NA,87.3.23,87.3.23,87.3.23,NA,NA,NA
+27.10.a.2,NA,Azores Grounds Non-NEAFC Regulatory Area (Subdivision 27.10.a.2),NA,Azores Grounds Non-NEAFC Regulatory Area (Subdivision 27.10.a.2),Fonds des Açores - Partie de non-CPANE (Sous-division 27.10.a.2),Fondos de las Azores - Non-CPANE (Subdivisión 27.10.a.2),NA,NA,NA
+27.10.a.1,NA,Azores Grounds - Parts of the NEAFC Regulatory Area (Subdivision 27.10.a.1),NA,Azores Grounds - Parts of the NEAFC Regulatory Area (Subdivision 27.10.a.1),Fonds des Açores - Partie de CPANE (Sous-division 27.10.a.1),Fondos de las Azores - Parte de CPANE (Subdivisión 27.10.a.1),NA,NA,NA
+27.9.b.1,NA,Portuguese Waters - West Parts in NEAFC Regulatory Area (Subdivision 27.9.b.1),NA,Portuguese Waters - West Parts in NEAFC Regulatory Area (Subdivision 27.9.b.1),Eaux portugaises - Ouest - Partie de CPANE (Sous-division 27.9.b.1),Aguas Portuguesas - oeste - Partes de CPANE (Subdivisión 27.9.b.1),NA,NA,NA
+27.9.b.2,NA,Portuguese Waters - West Non-NEAFC Regulatory Area (Subdivision 27.9.b.2),NA,Portuguese Waters - West Non-NEAFC Regulatory Area (Subdivision 27.9.b.2),Eaux portugaises - Ouest - Partie de non-CPANE (Sous-division 27.9.b.2),Aguas Portuguesas - oeste Non-CPANE (Subdivisión 27.9.b.2),NA,NA,NA
+58.4.4.a,NA,Indian Antarctic 58.4.4.a,NA,Indian Antarctic 58.4.4.a,Ind Antar 58.4.4.a,Ind Antar 58.4.4.a,NA,NA,NA
+58.4.4.b,NA,Indian Antarctic 58.4.4.b,NA,Indian Antarctic 58.4.4.b,Ind Antar 58.4.4.b,Ind Antar 58.4.4.b,NA,NA,NA
+87.3.12,NA,87.3.12,NA,87.3.12,87.3.12,87.3.12,NA,NA,NA
+87.3.13,NA,87.3.13,NA,87.3.13,87.3.13,87.3.13,NA,NA,NA
+58.4.3.b,NA,Indian Antarctic 58.4.3.b,NA,Indian Antarctic 58.4.3.b,Ind Antar 58.4.3.b,Ind Antar 58.4.3.b,NA,NA,NA
+58.4.3.a,NA,Indian Antarctic 58.4.3.a,NA,Indian Antarctic 58.4.3.a,Ind Antar 58.4.3.a,Ind Antar 58.4.3.a,NA,NA,NA
+27.8.e.1,NA,West of Bay of Biscay - Parts in NEAFC Regulatory Area (Subdivision 27.8.e.1),NA,West of Bay of Biscay - Parts in NEAFC Regulatory Area (Subdivision 27.8.e.1),Ouest du golfe de Gascogne - Partie de CPANE (Sous-division 27.8.e.1),Oeste del Golfo de Vizcaya - Partes de CPANE (Subdivisión 27.8.e.1),NA,NA,NA
+27.8.d.1,NA,Bay of Biscay - Offshore - Parts in NEAFC Regulatory Area (Subdivision 27.8.d.1),NA,Bay of Biscay - Offshore - Parts in NEAFC Regulatory Area (Subdivision 27.8.d.1),Golfe de Gascogne - Large - Partie de CPANE (Sous-division 27.8.d.1),Golfo de Vizcaya - alta mar - Partes de CPANE (Subdivisión 27.8.d.1),NA,NA,NA
+21.4.5.s,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21.5.Z.e,NA,"Atlantic, Northwest / 21.5.Z.e",NA,"Atlantic, Northwest / 21.5.Z.e",Atl NW / 21.5.Z.e,Atl NW / 21.5.Z.e,NA,NA,NA
+21.5.Z.w,NA,"Atlantic, Northwest / 21.5.Z.w",NA,"Atlantic, Northwest / 21.5.Z.w",Atl NW / 21.5.Z.w,Atl NW / 21.5.Z.w,NA,NA,NA
+21.4.5.n,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21.3.P.s,NA,"Atlantic, Northwest / 21.3.P.s",NA,"Atlantic, Northwest / 21.3.P.s",Atl NW / 21.3.P.s,Atl NW / 21.3.P.s,NA,NA,NA
+21.3.P.n,NA,"Atlantic, Northwest / 21.3.P.n",NA,"Atlantic, Northwest / 21.3.P.n",Atl NW / 21.3.P.n,Atl NW / 21.3.P.n,NA,NA,NA
+27.8.d.2,NA,Bay of Biscay - Offshore Non-NEAFC Regulatory Area (Subdivision 27.8.d.2),NA,Bay of Biscay - Offshore Non-NEAFC Regulatory Area (Subdivision 27.8.d.2),Golfe de Gascogne - Large - Partie de non-CPANE (Sous-division 27.8.d.2),Golfo de Vizcaya - alta mar Non-CPANE (Subdivisión 27.8.d.2),NA,NA,NA
+27.7.j.1,NA,Southwest of Ireland - East - Parts of the NEAFC Regulatory Area (Subdivision 27.7.j.1),NA,Southwest of Ireland - East - Parts of the NEAFC Regulatory Area (Subdivision 27.7.j.1),Sud-ouest de l'Irlande - Est - Partie de CPANE (Sous-division 27.7.j.1),Sudoeste de Irlanda - Este - Parte de CPANE (Subdivisión 27.7.j.1),NA,NA,NA
+27.7.k.1,NA,Southwest of Ireland - West - Part of the NEAFC Regulatory Area (Subdivision 27.7.k.1),NA,Southwest of Ireland - West - Part of the NEAFC Regulatory Area (Subdivision 27.7.k.1),Sud-ouest de l'Irlande - Ouest - Partie de CPANE (Sous-division 27.7.k.1),Sudoeste de Irlanda - Oeste - Parte de CPANE (Subdivisión 27.7.k.1),NA,NA,NA
+27.7.k.2,NA,Southwest of Ireland - West - Part of the Non-NEAFC Area I (Subdivision 27.7.k.2),NA,Southwest of Ireland - West - Part of the Non-NEAFC Area I (Subdivision 27.7.k.2),Sud-ouest de l'Irlande - Ouest - Partie de non-CPANE (Sous-division 27.7.k.2),Sudoeste de Irlanda - Oeste Non-CPANE (Subdivisión 27.7.k.2),NA,NA,NA
+27.7.j.2,NA,Southwest of Ireland - East Non-NEAFC Regulatory Area (Subdivision 27.7.j.2),NA,Southwest of Ireland - East Non-NEAFC Regulatory Area (Subdivision 27.7.j.2),Sud-ouest de l'Irlande - Est - Partie de non-CPANE (Sous-division 27.7.j.2),Sudoeste de Irlanda - Este Non-CPANE (Subdivisión 27.7.j.2),NA,NA,NA
+27.7.c.1,NA,Porcupine Bank - NEAFC Regulatory Area (Subdivision 27.7.c.1),NA,Porcupine Bank - NEAFC Regulatory Area (Subdivision 27.7.c.1),Banc de Porcupine - CPANE (Sous-division 27.7.c.1),Porcupine Bank - CPANE (Subdivisión 27.7.c.1),NA,NA,NA
+27.7.c.2,NA,Porcupine Bank Non-NEAFC Regulatory Area (Subdivision 27.7.c.2),NA,Porcupine Bank Non-NEAFC Regulatory Area (Subdivision 27.7.c.2),Banc de Porcupine - non-CPANE (Sous-division 27.7.c.2),Porcupine Bank Non-CPANE (Subdivisión 27.7.c.2),NA,NA,NA
+27.3.d.24,NA,Baltic West of Bornholm (Subdivision 27.3.d.24),NA,Baltic West of Bornholm (Subdivision 27.3.d.24),"Baltique, ouest de Bornholm (Sous-division 27.3.d.24)",Báltico al oeste de Bornholm (Subdivisión 27.3.d.24),NA,NA,NA
+27.3.b.23,NA,Sound (Subdivision 27.3.b.23),NA,Sound (Subdivision 27.3.b.23),Øresund (Sous-division 27.3.b.23),Sund (Subdivisión 27.3.b.23),NA,NA,NA
+27.3.d.26,NA,Southern Central Baltic - East (Subdivision 27.3.d.26),NA,Southern Central Baltic - East (Subdivision 27.3.d.26),Baltique centre-sud - Est (Sous-division 27.3.d.26),Báltico centro-meridional - Este (Subdivisión 27.3.d.26),NA,NA,NA
+27.6.b.1,NA,Rockall - Part of NEAFC area I (Subdivision 27.6.b.1),NA,Rockall - Part of NEAFC area I (Subdivision 27.6.b.1),Rockall - Partie de CPANE (Sous-division 27.6.b.1),Rockall - Parte de CPANE (Subdivisión 27.6.b.1),NA,NA,NA
+27.6.b.2,NA,Rockall Non-NEAFC area (Subdivision 27.6.b.2),NA,Rockall Non-NEAFC area (Subdivision 27.6.b.2),Rockall - Partie de non-CPANE (Sous-division 27.6.b.2),Rockall Non-CPANE (Subdivisión 27.6.b.2),NA,NA,NA
+27.5.b.1,NA,Faroe Plateau (Subdivision 27.5.b.1),NA,Faroe Plateau (Subdivision 27.5.b.1),Plateau des Féroé (Sous-division 27.5.b.1),Planicie de las Feroe (Subdivisión 27.5.b.1),NA,NA,NA
+27.12.a.1,NA,Subdivision 27.12.a.1 - NEAFC Regulatory Area,NA,Subdivision 27.12.a.1 - NEAFC Regulatory Area,Subdivision 27.12.a.1 - CPANE,Subdivisión 27.12.a.1 - CPANE,NA,NA,NA
+27.12.a.4,NA,Subdivision 27.12.a.4 Non-NEAFC Regulatory Area,NA,Subdivision 27.12.a.4 Non-NEAFC Regulatory Area,Subdivision 27.12.a.4  non-CPANE,Subdivisión 27.12.a.4 - Non-CPANE,NA,NA,NA
+27.5.a.1,NA,Northern Reykjanes Ridge (Subdivision 27.5.a.1),NA,Northern Reykjanes Ridge (Subdivision 27.5.a.1),Fonds de l'Islande (Sous-division 27.5.a.1),Fondos de Islandia (Subdivisión 27.5.a.1),NA,NA,NA
+27.14.b.1,NA,Southeast Greenland - Parts of NEAFC Regulatory Area (Subdivision 27.14.b.1),NA,Southeast Greenland - Parts of NEAFC Regulatory Area (Subdivision 27.14.b.1),Groenland sud-est - Partie de CPANE (Sous-division 27.14.b.1),Groenlandia sudoriental - Partes de CPANE (Subdivisión 27.14.b.1),NA,NA,NA
+27.5.a.2,NA,Icelandic Shelf (Subdivision 27.5.a.2),NA,Icelandic Shelf (Subdivision 27.5.a.2),Fonds de l'Islande (Sous-division 27.5.a.2),Fondos de Islandia (Subdivisión 27.5.a.2),NA,NA,NA
+27.14.b.2,NA,Southeast Greenland Non-NEAFC Regulatory Area (Subdivision 27.14.b.2),NA,Southeast Greenland Non-NEAFC Regulatory Area (Subdivision 27.14.b.2),Groenland sud-est - Partie de non-CPANE (Sous-division 27.14.b.2),Groenlandia sudoriental Non-CPANE (Subdivisión 27.14.b.2),NA,NA,NA
+27.2.a.1,NA,Norwegian Sea - NEAFC Regulatory Area (Division 27.2.a.1),NA,Norwegian Sea - NEAFC Regulatory Area (Division 27.2.a.1),Mer de Norvège - CPANE (Division 27.2.a.1),Mar de Noruega - CPANE (División 27.2.a.1),NA,NA,NA
+27.2.b.1,NA,Spitzbergen and Bear Island - NEAFC Regulatory Area (Division 27.2.b.1),NA,Spitzbergen and Bear Island - NEAFC Regulatory Area (Division 27.2.b.1),Spitzberg et île aux Ours - CPANE (Division 27.2.b.1),Spitzbergen e Islas Osos - CPANE (División 27.2.b.1),NA,NA,NA
+27.2.b.2,NA,Spitzbergen and Bear Island Non-NEAFC Regulatory Area (Division 27.2.b.2),NA,Spitzbergen and Bear Island Non-NEAFC Regulatory Area (Division 27.2.b.2),Spitzberg et île aux Ours - non-CPANE (Division 27.2.b.2),Spitzbergen e Islas Osos Non-CPANE (División 27.2.b.2),NA,NA,NA
+27.8.e.2,NA,West of Bay of Biscay Non-NEAFC Regulatory Area (Subdivision 27.8.e.2),NA,West of Bay of Biscay Non-NEAFC Regulatory Area (Subdivision 27.8.e.2),Ouest du golfe de Gascogne - Partie de non-CPANE (Sous-division 27.8.e.2),Oeste del Golfo de Vizcaya Non-CPANE (Subdivisión 27.8.e.2),NA,NA,NA
+27.5.b.2,NA,Faroe Bank (Subdivision 27.5.b.2),NA,Faroe Bank (Subdivision 27.5.b.2),Banc des Féroé (Sous-division 27.5.b.2),Banco de las Feroe (Subdivisión 27.5.b.2),NA,NA,NA
+27.12.a.3,NA,Subdivision 27.12.a.3 Non-NEAFC Regulatory Area,NA,Subdivision 27.12.a.3 Non-NEAFC Regulatory Area,Subdivision 27.12.a.3 non-CPANE,Subdivisión 27.12.a.3 - Non-CPANE,NA,NA,NA
+27.12.a.2,NA,Subdivision 27.12.a.2 - NEAFC Regulatory Area,NA,Subdivision 27.12.a.2 - NEAFC Regulatory Area,Subdivision 27.12.a.2 - CPANE,Subdivisión 27.12.a.2 - CPANE,NA,NA,NA
+27.2.a.2,NA,Norwegian Sea Non-NEAFC Regulatory Area (Division 27.2.a.2),NA,Norwegian Sea Non-NEAFC Regulatory Area (Division 27.2.a.2),Mer de Norvège - non-CPANE (Division 27.2.a.2),Mar de Noruega Non-CPANE (División 27.2.a.2),NA,NA,NA
+27.3.c.22,NA,Belt Sea (Subdivision 27.3.c.22),NA,Belt Sea (Subdivision 27.3.c.22),Mer des Belts (Sous-division 27.3.c.22),Mar de Belt (Subdivisión 27.3.c.22),NA,NA,NA
+27.3.d.27,NA,West of Gotland (Subdivision 27.3.d.27),NA,West of Gotland (Subdivision 27.3.d.27),Ouest de Gotland (Sous-division 27.3.d.27),Oeste de Gotland (Subdivisión 27.3.d.27),NA,NA,NA
+27.3.d.28,NA,East of Gotland or Gulf of Riga (Subdivision 27.3.d.28),NA,East of Gotland or Gulf of Riga (Subdivision 27.3.d.28),Est de Gotland ou Golfe de Riga (Sous-division 27.3.d.28),Este de Gotland o Golfo de Riga (Subdivisión 27.3.d.28),NA,NA,NA
+27.3.d.29,NA,Archipelago Sea (Subdivision 27.3.d.29),NA,Archipelago Sea (Subdivision 27.3.d.29),Mer de l'Archipel (Sous-division 27.3.d.29),Mar Archipiélago (Subdivisión 27.3.d.29),NA,NA,NA
+27.3.d.32,NA,Gulf of Finland (Subdivision 27.3.d.32),NA,Gulf of Finland (Subdivision 27.3.d.32),Golfe de Finlande (Sous-division 27.3.d.32),Golfo de Finlandia (Subdivisión 27.3.d.32),NA,NA,NA
+27.3.d.30,NA,Bothnian Sea (Subdivision 27.3.d.30),NA,Bothnian Sea (Subdivision 27.3.d.30),Baie de Botnie méridionale (Sous-division 27.3.d.30),Golfo de Botnia meridional (Subdivisión 27.3.d.30),NA,NA,NA
+27.3.d.31,NA,Bothnian Bay (Subdivision 27.3.d.31),NA,Bothnian Bay (Subdivision 27.3.d.31),Baie de Botnie septentrionale (Sous-division 27.3.d.31),Golfo de Botnia meridional (Subdivisión 27.3.d.31),NA,NA,NA
+27.3.d.25,NA,Southern Central Baltic - West (Subdivision 27.3.d.25),NA,Southern Central Baltic - West (Subdivision 27.3.d.25),Baltique centre-sud - Ouest (Sous-division 27.3.d.25),Báltico centro-meridional - Oeste (Subdivisión 27.3.d.25),NA,NA,NA
+27.3.a.21,NA,Kattegat (Subdivision 27.3.a.21),NA,Kattegat (Subdivision 27.3.a.21),Kattegat (Subdivision 27.3.a.21),Kattegat (Subdivisión 27.3.a.21),NA,NA,NA
+27.3.a.20,NA,Skagerrak (Subdivision 27.3.a.20),NA,Skagerrak (Subdivision 27.3.a.20),Skagerrak (Subdivision 27.3.a.20),Skagerrak (Subdivisión 27.3.a.20),NA,NA,NA
+21.5.Z.u,NA,"Atlantic, Northwest / 21.5.Z.u",NA,"Atlantic, Northwest / 21.5.Z.u",Atl NW / 21.5.Z.u,Atl NW / 21.5.Z.u,NA,NA,NA
+21.5.Z.c,NA,"Atlantic, Northwest / 21.5.Z.c",NA,"Atlantic, Northwest / 21.5.Z.c",Atl NW / 21.5.Z.c,Atl NW / 21.5.Z.c,NA,NA,NA
+27.5.b.1.a,NA,Faroe Plateau - Part of NEAFC Regulatory Area (Unit 27.5.b.1.a),NA,Faroe Plateau - Part of NEAFC Regulatory Area (Unit 27.5.b.1.a),Plateau des Féroé - Partie de CPANE (Unité 27.5.b.1.a),Planicie de las Feroe - Parte de CPANE (Unidad 27.5.b.1.a),NA,NA,NA
+27.5.b.1.b,NA,Faroe Plateau - Part of Non-NEAFC Regulatory Area (Unit 27.5.b.1.b),NA,Faroe Plateau - Part of Non-NEAFC Regulatory Area (Unit 27.5.b.1.b),Plateau des Féroé - Partie de non-CPANE (Unité 27.5.b.1.b),Planicie de las Feroe Non-CPANE (Unidad 27.5.b.1.b),NA,NA,NA
+27.3.d.28.2,NA,East of Gotland (Open Sea) (Unit 27.3.d.28.2),NA,East of Gotland (Open Sea) (Unit 27.3.d.28.2),Est de Gotland (Haute mer) (Unité 27.3.d.28.2),Este de Gotland (Mar abierto) (Unidad 27.3.d.28.2),NA,NA,NA
+27.3.d.28.1,NA,Gulf of Riga (Unit 27.3.d.28.1),NA,Gulf of Riga (Unit 27.3.d.28.1),Golfe de Riga (Unité 27.3.d.28.1),Golfo de Riga (Unidad 27.3.d.28.1),NA,NA,NA
