@@ -1,0 +1,8 @@
+code,uri,label,definition,maturity_male_description,maturity_female_description
+0,NA,Undetermined,NA,Sex not distinguished with the naked eye,Sex not distinguished with the naked eye
+1,NA,Immature,NA,"Rounded translucent up to 2 mm broad; less than a quarter of length of body cavity; no oocytes are visible with the naked eye. Sex may be difficult to determine","Flattened, 1-2 mm broad, translucent; less than a quarter of length of body cavity"
+2,NA,Resting,NA,"Rounded translucent, yellow to orange; about a third of length of body cavity; oocytes are visible with the use of microscope","Flattened, pink; about a third of length of body cavity"
+3,NA,Developing,NA,"Rounded yellow to orange; about a half of length of body cavity; oocytes are visible with naked eye","Becoming fatter; off white; about a half of length of body cavity"
+4,NA,Maturing,NA,"Firm and yellow; half to whole of length of body cavity; hydrated oocytes may be visible as grey spots, which may run on big pressure","Firm becoming whiter; half to whole of length of body cavity"
+5,NA,Mature,NA,"Fill the whole of length of body cavity; hydrated grey oocytes are visible as grey spots on the ovary surface, which run from vent on slight pressure","Becoming soft; fill the whole of length of body cavity; milt runs from vent on slight pressure"
+6,NA,Spent,NA,"Flaccid dark red; less than half of length of body cavity; a few large residual oocytes may be visible","Flaccid off yellow; less than half of length of body cavity"
