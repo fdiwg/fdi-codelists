@@ -1,0 +1,45 @@
+code,uri,label,definition,recofi_species_group,ISSCAAP_name,ISSCAAP_code,FAO_species_name,scientific_name,Comment
+TIP,,Green Tiger Prawn,,Shrimps,"« Shrimps,  prawns »",45,Green Tiger Prawn,Penaeus semisulcatus,already in MDR
+SCD,,Blue swimming crab,,Swimming crabs,"« Crabs, sea-spiders »",42,Blue swimming crabs,Portunus pelagicus,already in MDR
+IAH,,Cuttlefish,,Cuttlefishes,"« Squids,  cuttlefishes,  octopuses »",57,Pharaoh cuttlefish,Sepia pharaonis,already in MDR
+STO,,Anchovies,,Other finfishes,"« Herrings, sardines,  anchovies »",35,Stolephorus anchovies,Stolephorus spp.,already in MDR
+IOS,,Indian oil sardine,,Other finfishes,"« Herrings, sardines,  anchovies »",35,Indian oil sardine,Sardinella longiceps,already in MDR
+NGY,,Jacks,,Other finfishes,Miscellaneous pelagic fishes ,37,Bludger,Carangoide gymnostethus,already in MDR
+GLT,,Golden trevally,,Other finfishes,Miscellaneous pelagic fishes ,37,Golden trevally,Gnathanodon speciosus,already in MDR
+RAG,,Indian mackerel,,Mackrels,Miscellaneous pelagic fishes ,37,Indian mackerel,Rastrelliger Kanagurta,already in MDR
+LBW,,Orange finned emperor,,Emperors,Miscellaneous coastal fishes ,33,Snubnose emperor,Lethrinus borbonicus,already in MDR
+LTS,,Redspot emperor,,Emperors,Miscellaneous coastal fishes ,33,Pink ear emperor,Lethrinus lentjan,already in MDR
+LHN,,Spangled emperor,,Emperors,Miscellaneous coastal fishes ,33,Spangled emperor,Lethrinus nebulosus,already in MDR
+CFI,,Coral grouper/Bluespotted grouper,,Groupers,Miscellaneous coastal fishes ,33,Coral hind,Cephalopholis miniata,already in MDR
+ENI,,Orange-spotted grouper,,Groupers,Miscellaneous coastal fishes ,33,Orange-spotted grouper,Epinephelus coioides,already in MDR
+SCN,,Rabbitfish,,Other finfishes,Miscellaneous coastal fishes ,33,White-spotted spinefoot,Siganus canaliculatus,already in MDR
+COM,,Narrow-barred Spanish mackerel/King mackerel,,Narrow-barred Spanisk mackerel,"« Tunas, bonitos,  billfishes »",36,Narrow-barred Spanish mackerel,Scomberomorus commerson,already in MDR
+LOT,,Longtail tuna,,Other finfishes,"« Tunas, bonitos,  billfishes »",36,Longtail tuna,Thunnus tonggol,already in MDR
+KAW,,Kawakawa,,Other finfishes,"« Tunas, bonitos,  billfishes »",36,Kawakawa,Euthynnus affinis,already in MDR
+SIP,,Silver pomfret,,Other finfishes,Miscellaneous pelagic fishes ,37,Silver pomfret,Pampus argenteus,already in MDR
+HIL,,Indian shad,,Other finfishes,Shads,24,Hilsa shad,Tenualosa ilisha,already in MDR
+KBR,,King soldier bream,,Other finfishes,Miscellaneous coastal fishes ,33,King soldier bream,Argyrops spinifer,already in MDR
+DGP,,Painted sweetlips,,Other finfishes,Miscellaneous coastal fishes ,33,Painted sweetlips,Diagramma pictum,already in MDR
+LEN,,Smalltooth emperor,,Emperors,Miscellaneous coastal fishes ,33,Smalltooth emperor,Lethrinus microdon,already in MDR
+PNI,,Indian white prawn,,Shrimps,"« Shrimps,  prawns »",45,Indian white prawn,Penaeus indicus,already in MDR
+LOK,,Tropical spiny lobster,,Crustacea,"« Lobsters,  spiny-rock lobsters »",43,Tropical spiny Lobster,Panulirus homarus,New addition - proposed by Oman
+ABX,,Abalone,,Gasteropoda,"« Abalones,  winkles,  conchs »",52,Abalone nei,Haliotis maria,New addition - proposed by Oman
+RXS,,Haffara seabream,,Other finfishes,Miscellaneous coastal fishes ,33,Haffara seabream,Rhabdosargus haffara,New addition - proposed by Qatar and UAE
+GTV,,Strongspine silver-biddy,,Other finfishes,Miscellaneous coastal fishes ,33,Strongspine silver-biddy,Gerres longirostris,New addition - proposed by Qatar
+VMH,,Bluespot mullet,,Other finfishes,Miscellaneous coastal fishes ,33,Bluespot mullet,Valamugil seheli,New addition - proposed by Qatar and UAE
+LXR,,Orbicular batfish,,Other finfishes,Miscellaneous coastal fishes ,33,Orbicular batfish,Platax orbicularis,New addition - proposed by Qatar
+USY,,Blue-barred parrotfish,,Other finfishes,Miscellaneous coastal fishes ,33,Blue-barred parrotfish,Sacarus ghobban,New addition - proposed by Qatar – ASFIS not updated for the scientific name
+BTS,,Hound needlefish,,Other finfishes,Miscellaneous pelagic fishes ,37,Hound needlefish,Tylosorus crocodilus,New addition - proposed by Qatar
+TUM,,Yellowtail scad,,Other finfishes,Miscellaneous pelagic fishes ,37,Yellowtail scad,Atule mata,New addition - proposed by Qatar
+PJP,,Pinjalo,,Other finfishes,Miscellaneous coastal fishes ,33,Pinjalo,Pinjalo pinjalo,New addition - proposed by Qatar
+NGH,,Longnose trevally,,Other finfishes,Miscellaneous pelagic fishes ,37,Longnose trevally,Carangoides chrysophris,New addition - proposed by Qatar
+CBA,,Cobia,,Other finfishes,Miscellaneous pelagic fishes ,37,Cobia,Rachycentron canadum,New addition - proposed by Qatar and UAE
+NGS,,Malabar trevally,,Other finfishes,Miscellaneous pelagic fishes ,37,Malabar trevally,Carangoides malabaricus,New addition - proposed by Qatar
+BAQ,,Yellowtail barracuda,,Other finfishes,Miscellaneous pelagic fishes ,37,Yellowtail barracuda,Sphraena flavicauda,New addition - proposed by Qatar
+GQD,,Scordid rubberlip,,Other finfishes,Miscellaneous coastal fishes ,33,Scordid rubberlip,Plectorhinchus sorbidus,New addition - proposed by Qatar
+NGJ,,Orange spotted trevally,,Other finfishes,Miscellaneous pelagic fishes ,37,Orange spotted trevally,Carangoides bajad,New addition - proposed by UAE
+SAG,,Goldstripe sardinella,,Other finfishes,"« Herrings, sardines,  anchovies »",35,Goldstripe sardinella,Sardinelle giggosa,New addition - proposed by Saudi Arabia
+POB,,Black pomfret,,Other finfishes,Miscellaneous pelagic fishes ,37,Black pomfret,Parastromateus niger,New addition - proposed by Saudi Arabia
+LZK,,Klunzuinger's mullet,,Other finfishes,Miscellaneous coastal fishes ,33,Klunzuinger's mullet,LIiza klunzingeri,New addition - proposed by Kuwait
+RSK,,Sharks,,Sharks,"« Sharks, rays,  chimaeras »",38,Requiem sharks nei,Carcharhinidae,For By-catch
+SRX,,Rays,,Rays,"« Sharks, rays,  chimaeras »",38,"« Rays,  stingrays,  mantas nei »",Rajiformes,For By-catch

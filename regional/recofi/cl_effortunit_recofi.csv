@@ -1,16 +1,17 @@
-code,uri,label,definition,,,
-L.LINE,NA,Length of line set,NA,,,
-L.NET,NA,Length of net set,NA,,,
-N.DAY,NA,Number of days fished,NA,,,
-N.FISHER,NA,Number of fishers,NA,,,
-N.HOOK,NA,Number of hooks set,NA,,,
-D.HOUR,NA,Number of hours dived,NA,,,
-T.REEL,NA,Number of hours reels/machines operated,NA,,,
-N.LINE,NA,Number of lines set,NA,,,
-N.NET,NA,Number of nets set,NA,,,
-N.REEL,NA,Number of reels/machines,NA,,,
-N.SETS,NA,Number of sets,NA,,,
-N.TOW,NA,Number of tows,NA,,,
-N.TRAP,NA,Number of traps set,NA,,,
-H.SOAK,NA,Soak time,NA,,,
-H.TOW,NA,Tow duration,NA,,,
+code,uri,label,definition
+L.LINE,NA,Length of line set,NA
+L.NET,NA,Length of net set,NA
+N.DBOAT,NA,Day-boat,Number of day-boat
+N.DAY,NA,Number of days fished,NA
+N.FISHER,NA,Number of fishers,NA
+N.HOOK,NA,Number of hooks set,NA
+D.HOUR,NA,Number of hours dived,NA
+T.REEL,NA,Number of hours reels/machines operated,NA
+N.LINE,NA,Number of lines set,NA
+N.NET,NA,Number of nets set,NA
+N.REEL,NA,Number of reels/machines,NA
+N.SETS,NA,Number of sets,NA
+N.TOW,NA,Number of tows,NA
+N.TRAP,NA,Number of traps set,NA
+H.SOAK,NA,Soak time,NA
+H.TOW,NA,Tow duration,NA

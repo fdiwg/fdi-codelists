@@ -1,5 +1,5 @@
 code,uri,label,definition,ISSCFV_code,ISSCFV_alpha_code
-1,NA,Skiff,fiberglass, outboard,10.9,MOX
-2,NA,Dhow,wooden, inboard,10.9,MOX
-3,NA,Other vessels,larger vessel, steel, inboard,19.9,FXX
-4,NA,No vessel ,Fishing from shore,,NOV
+1,NA,Skiff,"« fiberglass, outboard »",10.9,MOX
+2,NA,Dhow,"« wooden, inboard »",10.9,MOX
+3,NA,Other vessels,"« Larger vessel, steel, inboard »",19.9,FXX
+4,NA,No vessel,Fishing from shore,,NOV
