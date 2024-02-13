@@ -2,6 +2,7 @@ code,uri,label,definition,ISSCFG,comment
 SB,NA,Beach seine,NA,02.1,Not in MDR (but found in submission)
 TX,NA,Trawls,NA,03.9,In MDR
 FCN,NA,Cast nets,NA,06.1,Not in MDR (but found in submission)
+GND,NA,Drift gillnets,NA,07.2,Not in MDR (but found in submission)
 GEN,NA,Gillnets and entangling nets,NA,07.9,In MDR
 FIX,NA,Traps,NA,08.9,In MDR
 LX,NA,Hooks-and-lines,NA,09.9,In MDR
