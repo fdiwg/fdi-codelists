@@ -1,5 +1,9 @@
 setwd("D:/Documents/DEV/fdiwg/fdi-codelists/global/unece")
 
+require(readr)
+require(sf)
+sf::sf_use_s2(FALSE)
+
 tmp = tempfile(fileext = ".zip")
 download.file("https://service.unece.org/trade/locode/loc232csv.zip", destfile = tmp)
 zip::unzip(tmp)
@@ -23,14 +27,36 @@ cl$LOCODE_part1 = NULL
 cl$LOCODE_part2 = NULL
 
 #TODO spatial part
+process_geom <- function(coords){
+  if(is.na(coords)) return(NA)
+  coords = unlist(strsplit(coords, " "))
+  #lat
+  lat.deg = as.numeric(substr(coords[1],1,2))
+  lat.min = as.numeric(substr(coords[1],3,4))/60
+  lat.dir = substr(coords[1], 5,5)
+  lat.pt = lat.deg + lat.min
+  if(lat.dir == "S") lat.pt = -lat.pt
+  #lon
+  lon.deg = as.numeric(substr(coords[2],1,3))
+  lon.min = as.numeric(substr(coords[2],4,5))/60
+  lon.dir = substr(coords[2], 6,6)
+  lon.pt = lon.deg + lon.min
+  if(lon.dir == "W") lon.pt = -lon.pt
+  sf::st_point(c(lon.pt, lat.pt))
+}
 
-cl = data.frame(
-	code = cl$LOCODE,
-	uri = NA,
-	label = cl$Name,
-	definition = NA
+cl = sf::st_sf(
+  data.frame(
+  	code = cl$LOCODE,
+  	uri = NA,
+  	label = cl$Name,
+  	definition = NA
+  ),
+  geom = do.call(sf::st_sfc, lapply(cl$Coordinates, process_geom))
 )
+sf::st_crs(cl) = 4326
 
-readr::write_csv(cl, "cl_unlocode.csv")
+sf::st_write(cl, "cl_unlocode.csv")
+sf::st_write(cl, "cl_unlocode.gpkg")
 
 
