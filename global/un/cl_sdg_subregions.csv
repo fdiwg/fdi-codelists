@@ -1,0 +1,15 @@
+code,uri,label,definition,label_es,label_fr
+SDG_SUB_SSA,NA,Sub-Saharan Africa,NA,África Subsahariana,Afrique Subsaharienne
+SDG_SUB_NAF,NA,Northern Africa,NA,África septentrional,Afrique septentrionale
+SDG_SUB_WAS,NA,Western Asia,NA,Asia occidental,Asie occidentale
+SDG_SUB_CAS,NA,Central Asia,NA,Asia central,Asie centrale
+SDG_SUB_SAS,NA,Southern Asia,NA,Asia meridional,Asie méridionale
+SDG_SUB_EAS,NA,Eastern Asia,NA,Asia oriental,Asie orientale
+SDG_SUB_SEAS,NA,South-Easterrn Asia,NA,Asia sudoriental,Asie sud-orientale
+SDG_SUB_CAR,NA,Caribbean,NA,Caribe,Caraïbes
+SDG_SUB_CAM,NA,Central America,NA,América central,Amérique centrale
+SDG_SUB_SAM,NA,South America,NA,América meridional,Amérique méridionale
+SDG_SUB_ANZ,NA,Australia and New Zealand,NA,Australia y Nueva Zelandia,Australie et Nouvelle-Zélande
+SDG_SUB_OCE,NA,Oceania (excl. AUS & NZl),NA,Oceanía (excl. AUS y NZL),Océanie (à l'excl. de AUS et NZL)
+SDG_SUB_NAM,NA,Northern America,NA,América del Norte,Amérique du Nord
+SDG_SUB_EUR,NA,Europe,NA,Europa,Europe
