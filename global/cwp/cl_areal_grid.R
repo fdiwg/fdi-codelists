@@ -27,6 +27,10 @@ cl_areal_grid = as.data.frame(cl_areal_grid)
 cl_areal_grid$the_geom = NULL
 sf::st_write(cl_areal_grid, "cl_areal_grid.csv")
 
+cl_area_grid_nogeom = readr::read_csv("cl_areal_grid.csv")
+cl_area_grid_nogeom = cl_area_grid_nogeom[,1:4]
+readr::write_csv(cl_area_grid_nogeom, "cl_areal_grid_nogeom.csv")
+
 #erased grids
 grids_erased = grid_layers[endsWith(grid_layers$name, "erased"),]$name
 cl_areal_grid_erased = do.call("rbind", lapply(grids_erased, function(x){FAO_WFS$getFeatures(x)}))
@@ -44,3 +48,7 @@ cl_areal_grid_erased$geom_wkt = sf::st_as_text(cl_areal_grid_erased$the_geom)
 cl_areal_grid_erased = as.data.frame(cl_areal_grid_erased)
 cl_areal_grid_erased$the_geom = NULL
 sf::st_write(cl_areal_grid_erased, "cl_areal_grid_erased.csv")
+
+cl_area_grid_erased_nogeom = readr::read_csv("cl_areal_grid_erased.csv")
+cl_area_grid_erased_nogeom = cl_area_grid_erased_nogeom[,1:4]
+readr::write_csv(cl_area_grid_erased_nogeom, "cl_areal_grid_erased_nogeom.csv")
