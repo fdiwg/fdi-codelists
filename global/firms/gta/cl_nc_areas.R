@@ -66,6 +66,10 @@ WCPO = data.frame(
 )
 
 
+rfb_comp_areas[rfb_comp_areas$code == "IATTC",]$code = "EPO"
+rfb_comp_areas[rfb_comp_areas$code == "EPO",]$label = "Eastern Pacific Ocean"
+rfb_comp_areas[rfb_comp_areas$code == "EPO",]$definition = "Eastern Pacific Ocean"
+
 #export cl_nc_areas.csv
 cl_nc_areas = rbind(
 	cl_nc_iccat_areas,
