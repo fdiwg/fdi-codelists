@@ -31,7 +31,7 @@ cl_nc_iccat_areas$geom_wkt = as(sf::st_as_text(cl_nc_iccat_areas$geom_wkt), "cha
 cl_nc_iotc_areas = readr::read_csv("global/firms/gta/cl_nc_iotc_areas.csv") %>% as.data.frame()
 
 #for IATTC, CCSBT, WCPFC, IOTC, we grab the competence areas
-rfb_comp_areas = WFS_FAO$getFeatures("fifao:RFB_COMP_CLIP", cql_filter = URLencode("RFB IN('IATTC','WCPFC','IOTC')"))
+rfb_comp_areas = WFS_FAO$getFeatures("fifao:RFB_COMP_CLIP", cql_filter = URLencode("RFB IN('WCPFC','IOTC')"))
 rfb_comp_areas = do.call("rbind", lapply(unique(rfb_comp_areas$RFB), function(rfb){
 	rfbarea = cbind(RFB = rfb, sf::st_sf(geom = sf::st_union(rfb_comp_areas[rfb_comp_areas$RFB == rfb,])))
 	return(rfbarea)
@@ -64,17 +64,23 @@ WCPO = data.frame(
 	definition = "Western and Central Pacific Ocean",
 	geom_wkt = as(sf::st_as_text(sf::st_union(wcpo_erased)), "character")
 )
-
-
-rfb_comp_areas[rfb_comp_areas$code == "IATTC",]$code = "EPO"
-rfb_comp_areas[rfb_comp_areas$code == "EPO",]$label = "Eastern Pacific Ocean"
-rfb_comp_areas[rfb_comp_areas$code == "EPO",]$definition = "Eastern Pacific Ocean"
+#Areas in support of IATTC
+epo = WFS_FAO$getFeatures("fifao:PAC_TUNA_REP", cql_filter = URLencode("REP_AREA ='EPO'"))
+epo_erased = sf::st_difference(epo, continent)
+EPO = data.frame(
+	code = "EPO",
+	uri = NA,
+	label = "Eastern Pacific Ocean",
+	definition = "Eastern Pacific Ocean",
+	geom_wkt = as(sf::st_as_text(sf::st_union(epo_erased)), "character")
+)
 
 #export cl_nc_areas.csv
 cl_nc_areas = rbind(
 	cl_nc_iccat_areas,
 	cl_nc_iotc_areas,
 	rfb_comp_areas,
-	WCPO
+	WCPO,
+	EPO
 )
 readr::write_csv(cl_nc_areas, "global/firms/gta/cl_nc_areas.csv")
