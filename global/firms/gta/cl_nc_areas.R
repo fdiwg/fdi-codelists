@@ -55,13 +55,16 @@ rfb_comp_areas = rfb_comp_areas[,c("code", "uri", "label", "definition", "geom_w
 
 #Areas in support of CCSBT NC
 wcpo = WFS_FAO$getFeatures("fifao:PAC_TUNA_REP", cql_filter = URLencode("REP_AREA = 'WCPO'"))
+continent = WFS_FAO$getFeatures("fifao:UN_CONTINENT2")
+wcpo_erased = sf::st_difference(wcpo, continent)
 WCPO = data.frame(
 	code = "WCPO",
 	uri = NA,
 	label = "Western and Central Pacific Ocean",
 	definition = "Western and Central Pacific Ocean",
-	geom_wkt = as(sf::st_as_text(sf::st_union(wcpo)), "character")
+	geom_wkt = as(sf::st_as_text(sf::st_union(wcpo_erased)), "character")
 )
+
 
 #export cl_nc_areas.csv
 cl_nc_areas = rbind(
