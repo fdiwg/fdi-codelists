@@ -9,7 +9,7 @@ produce_cl_asfis_species<-function(dest=getwd()){
   
   folder_file<-list.files(unziped,full.names = T)
   
-  match<-folder_file[grepl('*.txt', folder_file)]
+  match<-folder_file[grepl('*.csv', folder_file)]
   
   data<-readr::read_csv(match)
   
