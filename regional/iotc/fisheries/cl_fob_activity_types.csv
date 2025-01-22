@@ -1,0 +1,9 @@
+"code","uri","label_en","label_fr","is_dfob","is_afob"
+"CO",NA,"Consolidation","Consolidation",TRUE,FALSE
+"DE",NA,"Deployment","Mise à l'eau",TRUE,TRUE
+"EU",NA,"End of use","Fin d'utilisation",TRUE,FALSE
+"LO",NA,"Loss","Perte",TRUE,FALSE
+"RE",NA,"Retrieval","Retrait",TRUE,TRUE
+"ST",NA,"Stranding","Échouage",TRUE,FALSE
+"VF",NA,"Visit with fishing","Visite avec pêche",TRUE,TRUE
+"VI",NA,"Visit without fishing","Visite sans pêche",TRUE,TRUE
