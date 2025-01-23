@@ -1,3 +1,4 @@
-"code","uri","label","definition"
-"nominal",,"Nominal effort",
-"fishing_duration",,"Fishing duration",
+code,uri,label,definition
+nominal,,Nominal effort,
+fishing_duration,,Fishing duration,
+fishing_reference_period,,Fishing reference period,
