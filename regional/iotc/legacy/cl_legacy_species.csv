@@ -1,0 +1,313 @@
+"code","uri","label_en","label_fr","scientific_name","species_group_code","is_iotc","is_aggregate"
+"RHN",NA,"Whale shark","Requin baleine","Rhincodon typus","SKH",FALSE,FALSE
+"RMA",NA,"Reef manta rays","r","Manta alfredi","SRX",FALSE,FALSE
+"RMB",NA,"Giant Mantas","Manta géant","Manta birostris","SRX",FALSE,FALSE
+"RME",NA,"Longhorned mobula","L","Mobula eregoodootenkee","SRX",FALSE,FALSE
+"RMJ",NA,"Spinetail mobula","Mante aiguillat","Mobula japanica","SRX",FALSE,FALSE
+"RMM",NA,"Devil Ray","D","Mobula mobular","SRX",FALSE,FALSE
+"RMO",NA,"Smoothtail mobula","Mante à queue lisse","Mobula thurstoni","SRX",FALSE,FALSE
+"RMT",NA,"Chilean devil ray","R","Mobula tarapacana","SRX",FALSE,FALSE
+"RMV",NA,"Mobula nei","M","Mobula spp","SRX",FALSE,FALSE
+"RRH",NA,"Red-eye round herring","Shadine ronde","Etrumeus teres","NTAD",FALSE,FALSE
+"RRU",NA,"Rainbow runner","Comète saumon","Elagatis bipinnulata","NTAD",FALSE,FALSE
+"RSK",NA,"Requiem sharks nei","Requins nca","Carcharhinidae","RSK",FALSE,TRUE
+"RUS",NA,"Indian scad","Comète indienne","Decapterus russelli","NTAD",FALSE,FALSE
+"RUV",NA,"Patchwork stingaree","R","Urolophus flavomosaicus","NTAD",FALSE,FALSE
+"RZV",NA,"Slender sunfish","S","Ranzania laevis","NTAD",FALSE,FALSE
+"SAG",NA,"Goldstripe sardinella","Sardinelle dorée","Sardinella gibbosa","NTAD",FALSE,FALSE
+"SAI",NA,"Atlantic sailfish","Voilier Atlantique","Istiophorus albicans","BILL",TRUE,TRUE
+"SAP",NA,"Pacific saury","Saurie","Cololabis saira","NTAD",FALSE,FALSE
+"SASP",NA,"Indo-Pacific sailfish and shortbill spearfish","Voilier indo-pacifique et makaire à rostre court","Istiophorus platypterus; Tetrapturus angustirostris","BILL",TRUE,TRUE
+"SBF",NA,"Southern bluefin tuna","Thon rouge du Sud","Thunnus maccoyii","SBF",TRUE,FALSE
+"SBL",NA,"Bluntnose sixgill shark","Requin griset","Hexanchus griseus","SKH",FALSE,FALSE
+"SCK",NA,"Kitefin shark","Squale liche","Dalatias licha","SKH",FALSE,FALSE
+"SEER",NA,"Wahoo and seerfishes nei","Thazards nca","Scomberomorini","KGX",TRUE,TRUE
+"SFA",NA,"Indo-Pacific sailfish","Voilier indo-pacifique","Istiophorus platypterus","SFA",TRUE,FALSE
+"SHBC",NA,"Banded Cat Shark","Holbiche des plages","Halaelurus lineatus","SKH",FALSE,FALSE
+"SHCW",NA,"Cow Shark","Requins griset","Hexanchidae spp","SKH",FALSE,FALSE
+"SHM",NA,"Mackerel Sharks","Requins taupe nca","Lamnidae","MSK",FALSE,TRUE
+"SHRK",NA,"Sharks various nei","Requins divers nca","Selachimorpha (Pleurotremata)","SKH",FALSE,TRUE
+"SHXX",NA,"Sharks nei other than oceanic whitetip shark and blue shark","Requins nca hors requin océanique et peau bleue","Selachimorpha (Pleurotremata)","SKH",FALSE,TRUE
+"SKH",NA,"Sharks various nei","Requins divers nca","Selachimorpha (Pleurotremata)","SKH",FALSE,TRUE
+"SKHS",NA,"Sharks finned","Requins sans nageoires","Selachimorpha (Pleurotremata)","SKH",FALSE,FALSE
+"SKJ",NA,"Skipjack tuna","Listao","Katsuwonus pelamis","SKJ",TRUE,FALSE
+"SKJL",NA,"Large skipjack tuna","Listao grand","Katsuwonus pelamis","SKJ",TRUE,FALSE
+"SKJM",NA,"Medium skipjack tuna","Listao moyenne","Katsuwonus pelamis","SKJ",TRUE,FALSE
+"SKJS",NA,"Small skipjack tuna","Petit listao","Katsuwonus pelamis","SKJ",TRUE,FALSE
+"SKKA",NA,"Skipjack tuna and Kawakawa","Listao et Thonine orientale","Katsuwonus pelamis, Euthynnus affinis","TUN",TRUE,TRUE
+"SKPN",NA,"Spinner Shark","Requin tisserand","Carcharhinus brevipinna","RSK",FALSE,FALSE
+"SKX",NA,"Sharks, rays, skates, etc. nei","Requins, raies, etc. nca","Elasmobranchii","SKH",FALSE,FALSE
+"SLT",NA,"Slender Tuna","Thon élégant","Allothunnus fallai","NTAD",FALSE,FALSE
+"SMA",NA,"Shortfin mako","Taupe bleue","Isurus oxyrinchus","SMA",FALSE,FALSE
+"SMD",NA,"Smooth-hound","Emissole lisse","Mustelus mustelus","SKH",FALSE,FALSE
+"SNK",NA,"Snoek","Escolier","Thyrsites atun","NTAD",FALSE,FALSE
+"SNX",NA,"Snappers and jobfishes nei","Lutianidés nca",NA,"NTAD",FALSE,FALSE
+"SPF",NA,"Longbill spearfish","Makaire à rostre","Tetrapturus pfluegeri","BILL",FALSE,FALSE
+"SPK",NA,"Great hammerhead shark","Grand requin marteau","Sphyrna mokarran","RSK",FALSE,FALSE
+"SPL",NA,"Scalloped hammerhead","Requin marteau halicorne","Sphyrna lewini","SPL",FALSE,FALSE
+"SPN",NA,"Hammerhead sharks nei","Requins marteau nca","Sphyrna spp.","SPY",FALSE,TRUE
+"SPY",NA,"Bonnethead and hammerhead sharks","Requins marteau","Sphyrnidae","SPY",FALSE,FALSE
+"SPZ",NA,"Smooth hammerhead","Requin marteau commun","Sphyrna zygaena","SPZ",FALSE,FALSE
+"SRX",NA,"Rays and stingrays and mantas nei","Raies et pastenagues et mantes nca","Rajiformes","SRX",FALSE,TRUE
+"SSP",NA,"Shortbill spearfish","Makaire à rostre court","Tetrapturus angustirostris","SSP",FALSE,FALSE
+"SSQ",NA,"Velvet dogfish","Requins divers nca","Scymnodon squamulosus","SKH",FALSE,FALSE
+"STS",NA,"Streaked seerfish","Thazard cirrus","Scomberomorus lineolatus","STS",FALSE,FALSE
+"STT",NA,"Stingrays, butterfly rays nei","Pastenagues, etc. nca","Dasyatidae","SRX",FALSE,FALSE
+"SUU",NA,"Australian angelshark","Ange de mer australien","Squatina australis","SKH",FALSE,FALSE
+"SWA",NA,"White seabream","Sar commun","Diplodus sargus","NTAD",FALSE,FALSE
+"SWO",NA,"Swordfish","Espadon","Xiphias gladius","SWO",TRUE,FALSE
+"TAL",NA,"Big-scale pomfret","T","Taractichthys longipinnis","NTAD",FALSE,FALSE
+"TCR",NA,"Dagger pomfret","D","Taractes rubescens","NTAD",FALSE,FALSE
+"TCW",NA,"Hairtails nei","Poissons-sabres nca","Trichiurus spp","NTAD",FALSE,FALSE
+"TFM",NA,"Whiskery shark","Émissole moustachue","Furgaleus macki","RSK",FALSE,FALSE
+"THH",NA,"Blacktipe tope","Requin-hâ élégant","Hypogaleus hyugaensis","NTAD",FALSE,FALSE
+"THR",NA,"Thresher sharks nei","Renards de mer nca","Alopias spp.","THR",FALSE,TRUE
+"TIG",NA,"Tiger shark","Requin tigre commun","Galeocerdo cuvier","SKH",FALSE,FALSE
+"TOA",NA,"Antarctic toothfish","Légine antarctique","Dissostichus mawsoni","NTAD",FALSE,FALSE
+"TRB",NA,"Whitetip reef shark","Requin corail","Triaenodon obesus","SKH",FALSE,FALSE
+"TRE",NA,"Jacks, crevalles nei","Chinchards, carangues nca","Caranx spp","NTAD",FALSE,TRUE
+"TRF",NA,"False trevally","Péliau chanos","Lactarius lactarius","NTAD",FALSE,FALSE
+"TRI",NA,"Triggerfishes, durgons nei","Balistes nca","Balistidae","NTAD",FALSE,FALSE
+"TRK",NA,"Houndsharks,smoothhounds nei","Émissoles,requins-hâ nca","Cazones,tollos nep","RSK",FALSE,FALSE
+"TRU",NA,"Trumpeters nei","T","Latridae","NTAD",FALSE,FALSE
+"TST",NA,"Sickle pomfret","S","Taractichthys steindachneri","NTAD",FALSE,FALSE
+"TTH",NA,"Hawksbill turtle","Tortue caret","Eretmochelys imbricata","NTAD",FALSE,FALSE
+"TTL",NA,"Loggerhead turtle","Caouane","Caretta caretta","NTAD",FALSE,FALSE
+"TTX",NA,"Marine turtles nei","Tortues de mer nca","Testudinata","NTAD",FALSE,FALSE
+"TUG",NA,"Green turtle","Tortue verte","Chelonia mydas","NTAD",FALSE,FALSE
+"TUM",NA,"Yellowtail scad","Sélar queue jaune","Atule mate","NTAD",FALSE,FALSE
+"TUN",NA,"Tunas nei","Thonidés nca","Thunnini","TUN",TRUE,TRUE
+"TUNA",NA,"Tunas nei","Thonidés nca","Thunnini","TUN",TRUE,TRUE
+"TUS",NA,"True tunas nei","Thons Thunnus nca","Thunnus spp.","TUN",TRUE,TRUE
+"TUX",NA,"Tuna-like fishes nei","Poissons type thon nca","Scombroidei","TUX",TRUE,TRUE
+"UBP",NA,"Cape fathead","C","Cubiceps capensis","NTAD",FALSE,FALSE
+"UDD",NA,"Whitetongue jack","U","Uraspis helvola","NTAD",FALSE,FALSE
+"UKK",NA,"Whitemouth jack","U","Uraspis uraspis","NTAD",FALSE,FALSE
+"UNCL",NA,"Unknown","Inconnu","n/a","NTAD",FALSE,TRUE
+"URU",NA,"Whitemouth jack","Carangue paia","Uraspis uraspis","NTAD",FALSE,FALSE
+"USE",NA,"Cottonmouth jack","Carangue coton","Uraspis secunda","NTAD",FALSE,FALSE
+"WAH",NA,"Wahoo","Thazard-bâtard","Acanthocybium solandri","WAH",FALSE,FALSE
+"WEC",NA,"Round scad","Comète quiaquia","Decapterus punctatus","NTAD",FALSE,FALSE
+"WHM",NA,"Atlantic white marlin","Makaire blanc Atlantique","Tetrapturus albidus","BILL",FALSE,FALSE
+"WSH",NA,"Great White shark","Grand requin blanc","Carcharodon carcharias","RSK",FALSE,FALSE
+"YFT",NA,"Yellowfin tuna","Albacore","Thunnus albacares","YFT",TRUE,FALSE
+"YFTL",NA,"Large Yellowfin tuna","Albacore grand","Thunnus albacares","YFT",TRUE,FALSE
+"YFTM",NA,"Medium Yellowfin tuna","Albacore moyen","Thunnus albacares","YFT",TRUE,FALSE
+"YFTS",NA,"Small Yellowfin tuna","Albacore petit","Thunnus albacares","YFT",TRUE,FALSE
+"YMU",NA,"Luminous flying squid","Encornet lumineux","Symplectoteuthis luminosa","NTAD",FALSE,FALSE
+"YOUN",NA,"Juvenile true tunas nei","Thons Thunnus juvéniles nca","Thunnus spp.","TUN",TRUE,TRUE
+"YRS",NA,"European Baracuda","Bécune europénne","Sphyraena sphyraena","NTAD",FALSE,TRUE
+"YTC",NA,"Yellowtail amberjack","Sériole chicard","Seriola lalandi","NTAD",FALSE,FALSE
+"YTL",NA,"Longfin yellowtail","Sériole limon","Seriola rivoliana","NTAD",FALSE,FALSE
+"BUK",NA,"Butterfly kingfish","Thon papillon","Gasterochisma melampus","NTAD",FALSE,FALSE
+"BUM",NA,"Blue Marlin","Makaire bleu","Makaira nigricans","BUM",TRUE,FALSE
+"BVV",NA,"Yellowmouth barracuda","Bécune bouche jaune","Sphyraena viridensis","NTAD",FALSE,FALSE
+"BXD",NA,"Alfonsino","Béryx","Beryx decadactylus","NTAD",FALSE,FALSE
+"BXQ",NA,"Marlins nei","Makaires nca","Makaira spp","BILL",FALSE,FALSE
+"CAT",NA,"Catfishes","Loups nca","Anarhichas spp","NTAD",FALSE,TRUE
+"CCA",NA,"Bignose shark","Requin babosse","Carcharhinus altimus","RSK",FALSE,FALSE
+"CCB",NA,"Spinner Shark","Requin tisserand","Carcharhinus brevipinna","RSK",FALSE,FALSE
+"CCC",NA,"Nervous shark","Requin nerveux","Carcharhinus cautus","RSK",FALSE,FALSE
+"CCD",NA,"Whitecheek shark","Requin joues blanches","Carcharhinus dussumieri","RSK",FALSE,FALSE
+"CCE",NA,"Bull shark","Requin bouledogue","Carcharhinus leucas","RSK",FALSE,FALSE
+"CCG",NA,"Galapagos shark","Requin des Galapagos","Carcharhinus galapagensis","RSK",FALSE,FALSE
+"CCI",NA,"Blackspot shark","Requin à tache noir","Carcharhinus sealei","RSK",FALSE,FALSE
+"CCL",NA,"Blacktip shark","Requin bordé","Carcharhinus limbatus","RSK",FALSE,FALSE
+"CCM",NA,"Hardnose shark","Requin à nez rude","Tiburón trompudo","RSK",FALSE,FALSE
+"CCO",NA,"Finetooth shark","Requin à petits dents","Carcharhinus isodon","RSK",FALSE,FALSE
+"CCP",NA,"Sandbar shark","Requin gris","Carcharhinus plumbeus","RSK",FALSE,FALSE
+"CCQ",NA,"Spot-tail shark","Requin queue tachet","Carcharhinus sorrah","RSK",FALSE,FALSE
+"CCW",NA,"Blacktail reef shark","Requin à queue noire","Carcharhinus wheeleri","RSK",FALSE,FALSE
+"CCY",NA,"Graceful shark","Requin gracile","Carcharhinus amblyrhynchoides","RSK",FALSE,FALSE
+"CEP",NA,"Cephalopods nei","Céphalopodes nca","Cephalopoda","NTAD",FALSE,FALSE
+"CFW",NA,"Pompano dolphinfish","Dorade","Coryphaena equiselis","NTAD",FALSE,FALSE
+"CGD",NA,"Burmese river gizzard shad","G","Gonialosa modesta","NTAD",FALSE,FALSE
+"CGX",NA,"Carangidae","Carangids nei","Carangidés nca","NTAD",FALSE,TRUE
+"CLD",NA,"Sliteye shark","Requin sagrin","Loxodon macrorhinus","RSK",FALSE,FALSE
+"CNT",NA,"Ocean triggerfish","C","Canthidermis maculata","NTAD",FALSE,FALSE
+"COM",NA,"Narrow-barred Spanish mackerel","Thazard rayé indo-pacifique","Scomberomorus commerson","COM",TRUE,FALSE
+"CPT",NA,"Australian swellshark","Holbiche gressouillette","Cephaloscyllium laticeps","NTAD",FALSE,FALSE
+"CTU",NA,"Gummy shark","Émissole gommée","Mustelus antarcticus","RSK",FALSE,FALSE
+"KAFR",NA,"Kawakawa and Frigate and bullet tunas","Thonine orientale et Auxide et bonitou","Euthynnus affinis; Auxis spp.","TUN",TRUE,TRUE
+"KAK",NA,"Kanadi kingfish","Thazard kanadi","Scomberomorus plurilineatus","KGX",FALSE,FALSE
+"KAW",NA,"Kawakawa","Thonine orientale","Euthynnus affinis","KAW",TRUE,FALSE
+"KGX",NA,"Seerfishes nei","Thazards nca","Scomberomorus spp.","KGX",TRUE,TRUE
+"KOS",NA,"Korean seerfish","Thazard coreen","Scomberomorus koreanus","KGX",FALSE,FALSE
+"KYC",NA,"Blue sea chub","Calicagère bleue","Kyphosus cinerascens","NTAD",FALSE,FALSE
+"KYP",NA,"Kyphosus sea chubs nei","Kyphosus calicagères nca","Kyphosus spp","NTAD",FALSE,FALSE
+"KYV",NA,"Brassy chub","Saupe grise à lignes jaunes","Kyphosus vaigiensis","NTAD",FALSE,FALSE
+"LAG",NA,"Opah","Opah","Lampris guttatus","NTAD",FALSE,FALSE
+"LAI",NA,"Southern opah","S","Lampris immaculatus","NTAD",FALSE,FALSE
+"LEB",NA,"Leaping bonito","Bonite","Cybiosarda elegans","NTAD",FALSE,FALSE
+"LEC",NA,"Escolar","Escolier noir","Lepidocybium flavobrunneum","NTAD",FALSE,FALSE
+"LEK",NA,"Unicorn crestfish","Unicorn crestfish","Eumecichthys fiski","NTAD",FALSE,FALSE
+"LGE",NA,"Common ponyfish","Sapsaps","Leiognathus equulus","NTAD",FALSE,FALSE
+"LGH",NA,"Oceanic puffer","Compère océanique","Lagocephalus lagocephalus","NTAD",FALSE,FALSE
+"LHT",NA,"Largehead hairtail","Poisson-sabre commun","Trichiurus lepturus","NTAD",FALSE,FALSE
+"LIB",NA,"Brushtooth lizardfish","Anoli à grandes écailles","Saurida undosquamis","NTAD",FALSE,FALSE
+"LKV",NA,"Olive ridley turtle","Tortue olivatre","Lepidochelys olivacea","NTAD",FALSE,FALSE
+"LLL",NA,"Crested oarfish","Oarfish aigrettes","Lophotus lacepede","NTAD",FALSE,FALSE
+"LMA",NA,"Longfin mako","Petite taupe","Isurus paucus","LMA",FALSE,FALSE
+"LOB",NA,"Tripletail","Croupia roche","Lobotes surinamensis","NTAD",FALSE,FALSE
+"LOKA",NA,"Longtail tuna and kawakawa","Thon mignon et Thonine orientale","Thunnus tonggol & Euthynnus affinis","TUN",TRUE,TRUE
+"LOT",NA,"Longtail tuna","Thon mignon","Thunnus tonggol","LOT",TRUE,FALSE
+"LTA",NA,"Little tunny(=Atl.black skipj)","Thonine commune","Euthynnus alletteratus","TUN",FALSE,FALSE
+"LXR",NA,"Orbicular batfish","Platax orbiculaire","Platax orbicularis","NTAD",FALSE,FALSE
+"MAA",NA,"Blue mackerel","Maquereau tacheté","Scomber australasicus","NTAD",FALSE,FALSE
+"MAK",NA,"Mako sharks","Taupes","Isurus spp","MAK",FALSE,TRUE
+"MAN",NA,"Mantas, devil rays nei","Mantes, diables de mer nca","Mobulidae","SRX",FALSE,FALSE
+"MARL",NA,"Marlins nei","Marlin rayé et makaires nca","Tetrapturus audax; Makaira spp.","BILL",TRUE,TRUE
+"MAS",NA,"Chub mackerel","Maquereau espagnol","Scomber japonicus","NTAD",FALSE,FALSE
+"MAX",NA,"Mackerels nei","Maquereaux nca","Scombridae","NTAD",FALSE,FALSE
+"MLBS",NA,"Black Marlin and Striped Marlin","Makaire Bleu et Marlin raye","Makaira nigricans & Tetrapturus audax","BILL",TRUE,TRUE
+"MLS",NA,"Striped marlin","Marlin rayé","Tetrapturus audax","MLS",TRUE,FALSE
+"MLW",NA,"Atlantic white marlin","Makaire blanc Atlantique","Tetrapturus albidus","BILL",FALSE,FALSE
+"MOO",NA,"MoonFish","Luneur","Mene maculata","NTAD",FALSE,FALSE
+"MOP",NA,"Sunfish","S","Mola spp","NTAD",FALSE,FALSE
+"MOX",NA,"Ocean sunfish","Poisson lune","Mola mola","NTAD",FALSE,FALSE
+"MRW",NA,"Sharptail mola","Sharptail mola","Masturus lanceolatus","NTAD",FALSE,FALSE
+"MSD",NA,"Mackerel scad","Comète maquereau","Decapterus macarellus","NTAD",FALSE,FALSE
+"MSK",NA,"Sharks mackerel and porbeagles nei","Requins taupe nca","Lamnidae","MSK",FALSE,TRUE
+"MZZ",NA,"Marine fishes nei","Poissons marins nca","Osteichthyes","NTAD",FALSE,TRUE
+"NAU",NA,"Pilotfish","Poisson pilote","Naucrates ductor","NTAD",FALSE,FALSE
+"NEN",NA,"Black gemfish","Escolier long nez","Nesiarchus nasutus","NTAD",FALSE,FALSE
+"NGT",NA,"Island trevally","Carangue des îles","Carangoides orthogrammus","NTAD",FALSE,FALSE
+"NHR",NA,"Largescale triggerfish","N","Canthidermis macrolepis","NTAD",FALSE,FALSE
+"NTAD",NA,"Non targeted, associated and dependent species","Espèces non ciblées, associées et dépendantes","n/a","NTAD",FALSE,TRUE
+"NTC",NA,"Broadnose sevengill shark","Platnez","Notorhynchus cepedianus","SKH",FALSE,FALSE
+"OBIL",NA,"Billfish nei","Poissons epée nca","Xiphioidei","BILL",TRUE,TRUE
+"OCS",NA,"Oceanic whitetip shark","Requin océanique","Carcharhinus longimanus","OCS",FALSE,FALSE
+"OCX",NA,"Carpet sharks","C","Orectolobiformes","NTAD",FALSE,FALSE
+"OIL",NA,"Oilfish","Ruvet","Ruvettus pretiosus","NTAD",FALSE,FALSE
+"OSF",NA,"Zebra shark","Requin zèbre","Stegostoma fasciatum","RSK",FALSE,FALSE
+"OTHR",NA,"Other non tuna-like fishes nei","Poissons non du type thon nca","Fishes non Scombroidei","NTAD",FALSE,TRUE
+"OXY",NA,"Angular rough shark","Centrine communes","Oxynotus centrina","SKH",FALSE,FALSE
+"PHT",NA,"Tardoore","Poisson-papier tarture","Opisthopterus tardoore","NTAD",FALSE,FALSE
+"PLS",NA,"Pelagic stingray","Pastenague violette","Dasyatis violacea","SRX",FALSE,FALSE
+"POA",NA,"Atlantic pomfret","Grande castagnole","Brama brama","NTAD",FALSE,FALSE
+"POL",NA,"Pollack","Lieu jaune","Pollachius pollachius","NTAD",FALSE,FALSE
+"POR",NA,"Porbeagle","Requin-taupe commun","Lamma nasus","POR",FALSE,FALSE
+"POY",NA,"Ponyfishes(=Slipmouths)","Sapsap","Leiognathus spp","NTAD",FALSE,FALSE
+"PRP",NA,"Roudi escolar","Escolier clair","Promethichthys prometheus","NTAD",FALSE,FALSE
+"PRU",NA,"Raconda","R","Raconda russeliana","NTAD",FALSE,FALSE
+"PSK",NA,"Crocodile shark","Requin crocodile","Pseudocarcharias kamoharai","PSK",FALSE,FALSE
+"PTH",NA,"Pelagic thresher shark","Renard pelagique","Alopias pelagicus","PTH",FALSE,FALSE
+"QUM",NA,"Queensland school mackerel","Thazard du Queensland","Scomberomorus queenslandicus","NTAD",FALSE,FALSE
+"RAG",NA,"Indian mackerel","Maquereau des Indes","Rastrelliger kanagurta","NTAD",FALSE,FALSE
+"RAJ",NA,"Rays and skates nei","Rajidés nca","Rajidae","SRX",FALSE,FALSE
+"RAX",NA,"Mackerels Indian nei","Maquereaux Indo-pacifique nca","Rastrelliger spp.","NTAD",FALSE,TRUE
+"REO",NA,"Shark sucker","Rémora des requins","Remora remora","NTAD",FALSE,FALSE
+"REY",NA,"Spearfish remora","R","Remora brachyptera","RSK",FALSE,FALSE
+"RHA",NA,"Milk shark","Requin à museau pointu","Rhizoprionodon acutus","RSK",FALSE,FALSE
+"ABL",NA,"Attentive carplet","A","Amblypharyngodon melettinus","NTAD",FALSE,FALSE
+"AG01",NA,"Black marlin and striped marlin","Makaire noir et Marlin rayé","Makaira nigricans; Tetrapturus audax","BILL",TRUE,TRUE
+"AG02",NA,"Indo-Pacific sailfish and shortbill spearfish","Voilier indo-pacifique et makaire à rostre court","Istiophorus platypterus; Tetrapturus angustirostris","BILL",TRUE,TRUE
+"AG03",NA,"Marlins nei","Marlin rayé et makaires nca","Tetrapturus audax; Makaira spp.","BILL",TRUE,TRUE
+"AG04",NA,"Marlins, sailfish, spearfish nei","Makaires et marlins et voiliers nca","Istiophoridae","BILL",TRUE,TRUE
+"AG05",NA,"Frigate tuna and bullet tuna","Auxide et bonitou","Auxis spp.","TUN",TRUE,TRUE
+"AG06",NA,"Kawakawa, frigate and bullet tunas","Thonine orientale, auxide et bonitou","Euthynnus affinis; Auxis spp.","TUN",TRUE,TRUE
+"AG07",NA,"Longtail tuna and kawakawa","Thon mignon et thonine orientale","Thunnus tonggol; Euthynnus affinis","TUN",TRUE,TRUE
+"AG13",NA,"Tuna nei","Thonidés nca","Thunnini","TUN",FALSE,TRUE
+"AG14",NA,"Billfish nei","Poissons epée nca","Xiphioidei","BILL",TRUE,TRUE
+"AG17",NA,"Mako sharks","Taupes","Isurus spp","MAK",FALSE,TRUE
+"AG20",NA,"Sharks mackerel, porbeagles nei","Requins taupe nca","Lamnidae","SKH",FALSE,TRUE
+"AG22",NA,"Sharks various nei","Requins divers nca","Selachimorpha (Pleurotremata)","SKH",FALSE,TRUE
+"AG27",NA,"OTHER SPECIES","AUTRES ESPECES","A","NTAD",FALSE,TRUE
+"AG29",NA,"Snappers, jobfishes nei","Lutianidés nca","Lutjanidae","NTAD",FALSE,TRUE
+"AG34",NA,"Yellowfin tuna and bigeye tuna","Albacore et patudo","Thunnus albacares; Thunnus obesus","TUN",TRUE,TRUE
+"AG35",NA,"Yellowfin tuna and skipjack tuna","Albacore et Listao","Thunnus albacares; Katsuwonus pelamis","TUN",TRUE,TRUE
+"AG38",NA,"Blue shark, shortfin mako, oceanic whitetip shark","Peau bleue, Taupe bleue et Requin océanique","Prionace glauca; Isurus oxyrinchus; Carcharhinus longimanus","RSK",FALSE,TRUE
+"AG41",NA,"Blue marlin and black marlin","Makaire noir et Makaire bleu","Makaira spp.","BILL",TRUE,TRUE
+"AG45",NA,"Albacore, yellowfin tuna and bigeye tuna","AG45-Germon; Albacore; Patudo; Thon obèse","Thunnus alalunga; Thunnus albacares; Thunnus obesus","TUN",TRUE,TRUE
+"AG46",NA,"Rainbow runner and mackerels","Comète saumon et maquereau","Elagatis bipinnulata, Scombridae","NTAD",FALSE,TRUE
+"AG47",NA,"Common dolphinfish and rainbow runner","Coryphène commune et Comète saumon","Elagatis bipinnulata, Coryphaena hippurus","NTAD",FALSE,TRUE
+"AG48",NA,"Mackerels nei","Maquereaux nca","Scombridae","NTAD",FALSE,FALSE
+"AG60",NA,"Other bony fish nei","Poissons non du type thon nca","O","NTAD",FALSE,TRUE
+"AGN",NA,"Angel shark","r","R","RSK",FALSE,FALSE
+"ALB",NA,"Albacore","Germon","Thunnus alalunga","ALB",TRUE,FALSE
+"ALI",NA,"Lancetfishes nei","Lanciers","Alepisaurus spp","NTAD",FALSE,FALSE
+"ALM",NA,"Unicorn leatherjacket filefish","U","Aluterus monoceros","NTAD",FALSE,FALSE
+"ALN",NA,"Scribbled leatherjacket filefi","Bourse écriture","Aluterus scriptus","NTAD",FALSE,FALSE
+"ALO",NA,"Short snouted lancetfish","Short snouted lancetfish","Alepisaurus brevirostris","NTAD",FALSE,FALSE
+"ALS",NA,"Silvertip shark","Requin pointe blanche","Carcharhinus albimarginatus","RSK",FALSE,FALSE
+"ALT",NA,"Leatherjacket filefishes","A","Aluterus spp","NTAD",FALSE,FALSE
+"ALV",NA,"Thresher Shark","Renard","Alopias vulpinus","ALV",FALSE,FALSE
+"ALX",NA,"Long snouted lancetfish","Long snouted lancetfish","Alepisaurus ferox","NTAD",FALSE,FALSE
+"AMB",NA,"Greater amberjack","Sériole couronnée","Seriola dumerili","NTAD",FALSE,FALSE
+"AML",NA,"Grey Reef Shark","Requin dagsit","Carcharhinus amblyrhynchos","RSK",FALSE,FALSE
+"AMX",NA,"Amberjacks nei","Sérioles nca","Seriola spp","NTAD",FALSE,TRUE
+"ANX",NA,"Anchovies, etc. nei","Anchois, etc. nca","Engraulidae","NTAD",FALSE,FALSE
+"ASM",NA,"Australia Spotted Mackerel","Thazard Australien","Scomberomorus munroi","NTAD",FALSE,FALSE
+"ASZ",NA,"Razorback scabbardfish","Poisson-sabre rasoir","Assurger anzac","NTAD",FALSE,FALSE
+"AVR",NA,"Green jobfish","Vivaneau job","Aprion virescens","NTAD",FALSE,FALSE
+"AYBT",NA,"Albacore, yellowfin and bigeye tunas","Germon ;Albacore; Thon obèse","thunnus spp","TUN",TRUE,TRUE
+"BAB",NA,"Blackfin barracuda","B","Sphyraena qenie","NTAD",FALSE,FALSE
+"BAF",NA,"Flat needlefish","Orphie plate","Ablennes hians","NTAD",FALSE,FALSE
+"BAO",NA,"Longfin batfish","B","Platax teira","NTAD",FALSE,FALSE
+"BAR",NA,"Barracudas","Brochets de mer","Sphyraena spp","NTAD",FALSE,FALSE
+"BAT",NA,"Batfishes","Poules d'eau","Platax spp","NTAD",FALSE,FALSE
+"BAU",NA,"Australian bonito","Bonite bagnard","Sarda australis","NTAD",FALSE,FALSE
+"BBM",NA,"Broad-barred King Mackerel","Thazard sp","Scomberomorus semifasciatus","NTAD",FALSE,FALSE
+"BDL",NA,"Elongate frostfish","Poisson-sabre long","Benthodesmus elongatus","NTAD",FALSE,FALSE
+"BEN",NA,"Needlefishes, etc. nei","Aiguilles, orphies nca","Belonidae","NTAD",FALSE,FALSE
+"BET",NA,"Bigeye tuna","Patudo; Thon obèse","Thunnus obesus","BET",TRUE,FALSE
+"BFT",NA,"Northern bluefin tuna","Thon rouge du Nord","Thunnus thynnus","SBF",FALSE,FALSE
+"BIL",NA,"Marlins and sailfish and spearfish nei","Makaires et marlins et voiliers nca","Istiophoridae","BILL",TRUE,TRUE
+"BILL",NA,"Billfish nei","Poissons epée nca","Xiphioidei","BILL",TRUE,TRUE
+"BIP",NA,"Striped bonito","Bonite oriental","Sarda orientalis","NTAD",FALSE,FALSE
+"CUT",NA,"Hairtails, scabbardfishes nei","Poissons-sabres, sabres nca","Trichiuridae","NTAD",FALSE,TRUE
+"CVX",NA,"Ground sharks","Carcharhiniformes","Carcharhiniformes","RSK",FALSE,FALSE
+"CWZ",NA,"Carcharhinus sharks nei","Requins Carcharhinus nca","Carcharhinus spp","RSK",FALSE,FALSE
+"CXS",NA,"Bigeye trevally","Carangue vorace","Caranx sexfasciatus","NTAD",FALSE,FALSE
+"DBM",NA,"Double-lined mackerel","Thazard-kusara","Grammatorcynus bilineatus","NTAD",FALSE,FALSE
+"DDD",NA,"Indo-Pacific sergeant","S","Abudefduf vaigiensis","NTAD",FALSE,FALSE
+"DGZ",NA,"Dogfishes nei","Aiguillats nca","Squalus spp.","SKH",FALSE,TRUE
+"DHO",NA,"Long-spine purcupinefish","D","Diodon holocanthus","NTAD",FALSE,FALSE
+"DIO",NA,"Globefish, porcupine fish","Porcs-epics","Diodontidae","NTAD",FALSE,FALSE
+"DIY",NA,"Spot-fin porcupinefish","Porc-épic boubou","Diodon hystrix","NTAD",FALSE,FALSE
+"DKK",NA,"Leatherback turtle","Tortue luth","Dermochelys coriacea","NTAD",FALSE,FALSE
+"DLP",NA,"Dolphins nei","Dauphins nca","Delphinidae","NTAD",FALSE,TRUE
+"DOB ",NA,"Wolf- herring","Chirocentre dorab","Chirocentrus dorab","NTAD",FALSE,FALSE
+"DOL",NA,"Common dolphinfish","Coryphène commune","Coryphaena hippurus","NTAD",FALSE,FALSE
+"DOP",NA,"Shortnose spurdog","Aiguillat nez court","Squalus megalops","SKH",FALSE,FALSE
+"DOT",NA,"Dogtooth tuna","Bonite à gros yeux","Gymnosarda unicolor","NTAD",FALSE,FALSE
+"DOX",NA,"Dolphinfishes nei","Coryphènes nca","Coryphaenidae","NTAD",FALSE,FALSE
+"DUS",NA,"Dusky shark","Requin de sable","Carcharhinus obscurus","DUS",FALSE,FALSE
+"EAG",NA,"Eagle Rays","Aigles de mer nca","Myliobatidae","SRX",FALSE,TRUE
+"ECN",NA,"Suckerfishes, remoras nei","Rémoras nca","Echeneidae","NTAD",FALSE,FALSE
+"EEN",NA,"Giant grouper","Mérou lancéolé","Epinephelus lanceolatus","NTAD",FALSE,FALSE
+"EHN",NA,"Live sharksucker","Rémora commun","Echeneis naucrates","NTAD",FALSE,FALSE
+"EJA",NA,"Needle cuttle fish","Seiche aiguille","Sepia aculeata","NTAD",FALSE,FALSE
+"ESCL",NA,"Black escolar","Escolier noir","Lepidocybium flavobrunneum","NTAD",FALSE,FALSE
+"FAL",NA,"Silky shark","Requin soyeux","Carcharhinus falciformis","FAL",FALSE,FALSE
+"FLE",NA,"European Flounder","Flet Européen","Platichthys flesus","NTAD",FALSE,TRUE
+"FLY",NA,"Flyingfishes nei","Exocets nca","Exocoetidae","NTAD",FALSE,FALSE
+"FRI",NA,"Frigate tuna","Auxide","Auxis thazard","FRI",TRUE,FALSE
+"FRZ",NA,"Frigate and bullet tunas","Auxide et bonitou","Auxis spp.","FRZ",TRUE,TRUE
+"GAG",NA,"Tope shark","Requin-hâ","Galeorhinus galeus","SKH",FALSE,FALSE
+"GAM",NA,"Mouse catshark","Chien islandias","Galeus murinus","SKH",FALSE,FALSE
+"GBA",NA,"Great barracuda","	Barracuda","Sphyraena barracuda","NTAD",FALSE,FALSE
+"GEP",NA,"Snake mackerels and escolars nei","Escoliers et rouvets nca","Gempylidae","NTAD",FALSE,FALSE
+"GES",NA,"Snake mackerel","Escolier serpent","Gempylus serpens","NTAD",FALSE,FALSE
+"GLT",NA,"Golden trevally","Carangue royale","Gnathanodon speciosus","NTAD",FALSE,FALSE
+"GRO",NA,"Groundfishes","Poisson de fond nca","Osteichthyes","NTAD",FALSE,TRUE
+"GSE",NA,"Goldenstriped soapfish","G","Grammistes sexlineatus","NTAD",FALSE,FALSE
+"GTF",NA,"Guitarfishes, etc. nei","Guitares, etc. nca","Rhinobatidae","NTAD",FALSE,FALSE
+"GUT",NA,"Indo-Pacific king mackerel","Thazard ponctué indo-pacifique","Scomberomorus guttatus","GUT",TRUE,FALSE
+"GZX",NA,"Toothponies nei","G","Gazza spp","NTAD",FALSE,FALSE
+"HCM",NA,"Hooktooth shark","Milandre harpon","Comadreja ganchuda","RSK",FALSE,FALSE
+"HEE",NA,"Snaggletooth shark","T","Hemipristis elongata","RSK",FALSE,FALSE
+"IAX",NA,"Needle Cuttle fish","Seiches nca","Sepia aculeata","NTAD",FALSE,FALSE
+"ISB",NA,"Cookie cutter shark","Squalelet féroce","Isistius brasiliensis","NTAD",FALSE,FALSE
+"BIS",NA,"Bigeye scad","Sélar coulisou","Selar crumenophthalmus","NTAD",FALSE,FALSE
+"BLM",NA,"Black Marlin","Makaire noir","Istiompax indica","BLM",TRUE,FALSE
+"BLR",NA,"Blacktip reef shark","Requin pointes noires","Carcharhinus melanopterus","RSK",FALSE,FALSE
+"BLT",NA,"Bullet tuna","Bonitou","Auxis rochei","BLT",TRUE,FALSE
+"BON",NA,"Atlantic Bonito","Bonite","Sarda sarda","NTAD",FALSE,FALSE
+"BRA",NA,"Brama","Brama","Brama spp","NTAD",FALSE,FALSE
+"BRO",NA,"Copper shark","Requin cuivre","Carcharhinus brachyurus","RSK",FALSE,FALSE
+"BRZ",NA,"Pomfrets, ocean breams nei","Castagnoles nca","Bramidae","NTAD",FALSE,FALSE
+"BSH",NA,"Blue shark","Peau bleue","Prionace glauca","BSH",FALSE,FALSE
+"BSX",NA,"Groupers, seabasses nei","Serranidés nca","Serranidae","NTAD",FALSE,TRUE
+"BTH",NA,"Bigeye thresher","Renard a gros yeux","Alopias Sperciliosus","BTH",FALSE,FALSE
+"BTS",NA,"Hound needlefish","Aiguille crocodile","Tylosurus crocodilus","NTAD",FALSE,FALSE

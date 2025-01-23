@@ -1,0 +1,10 @@
+"code","uri","label_en","label_fr"
+"CE",NA,"Geo-referenced catches and efforts dataset","Jeu de données de prises et d'effort spatialisés"
+"DI",NA,"Amount of discards dataset","Jeu de données de quantités de rejets"
+"FA",NA,"FAD-related activities and efforts dataset","Jeu de données d'efforts et d'activités liés aux DCPs"
+"FC",NA,"Fishing craft statistics dataset","Jeu de données sur les statistiques des bateaux de pêche"
+"PR",NA,"Fish prices dataset","Jeu de données de prix du poisson"
+"RC",NA,"Amount of fish caught and retained
+ dataset","Jeu de données de quantités de poissons capturés et conservés à bord"
+"SF",NA,"Geo-referenced size-frequencies dataset","Jeu de données de fréquences de tailles spatialisées"
+"SU",NA,"Support vessels effort dataset","Jeu de données d'efforts des navires auxiliaires"

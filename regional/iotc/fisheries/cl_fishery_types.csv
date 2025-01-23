@@ -1,0 +1,8 @@
+"code","uri","purpose_code","area_of_operation_code","loa_class_code","label_en","label_fr"
+"EX",NA,"SCI","NJA_ABNJ","L24+            ","Exploratory","Exploratoire"
+"IN",NA,"COM","NJA_ABNJ","L24+            ","Large-scale","À grande échelle"
+"IS",NA,"COM","NJA_ABNJ","L0_24           ","Medium-scale (ABNJ)","À moyenne échelle (ZHJN)"
+"RC",NA,"REC","NJA","L0_24           ","Recreational","Récréative"
+"SI",NA,"COM","NJA","L15_24          ","Medium-scale (NJA)","À moyenne échelle (ZSJN)"
+"SS",NA,"COM","NJA","L0_15           ","Small-scale","À petite échelle"
+"SU",NA,"SUB","NJA","L0_15           ","Subsistence","De subsistance"

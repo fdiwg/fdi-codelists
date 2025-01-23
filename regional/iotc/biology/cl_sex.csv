@@ -1,0 +1,5 @@
+"code","uri","label_en","label_fr","is_determined"
+"F",NA,"Female","Femelle",TRUE
+"M",NA,"Male","Mâle",TRUE
+"N",NA,"Undetermined","Indeterminé",FALSE
+"U",NA,"Unknown","Inconnu",FALSE

@@ -1,0 +1,16 @@
+"code","uri","label_en","label_fr","is_aggregate"
+"BB",NA,"Baitboat","Canne",FALSE
+"BB",NA,"Baitboat","Canne",TRUE
+"GILL",NA,"Gillnet","Filet maillant",TRUE
+"GILL",NA,"Gillnet","Filet maillant",FALSE
+"HAND",NA,"Line","Lignes",FALSE
+"LINE",NA,"Line","Lignes",FALSE
+"LINE",NA,"Line","Lignes",TRUE
+"LL",NA,"Longline","Palangre",FALSE
+"LL",NA,"Longline","Palangre",TRUE
+"OTHER",NA,"Other","Autres",FALSE
+"OTHER",NA,"Other","Autres",TRUE
+"PS",NA,"Purse Seine","Senne tournante",FALSE
+"PSS",NA,"Purse Seine","Senne tournante",FALSE
+"SUPP",NA,"Purse Seine","Senne tournante",FALSE
+"TROL",NA,"Line","Lignes",FALSE
