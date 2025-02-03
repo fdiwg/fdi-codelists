@@ -2,3 +2,5 @@
 "nominal",,"Nominal catch",
 "retained",,"Retained catch",
 "discarded",,"Discarded catch",
+"spatial_accuracy",,"Spatial accuracy",
+"temporal_accuracy",,"Temporal accuracy",
