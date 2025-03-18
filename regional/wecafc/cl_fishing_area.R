@@ -12,4 +12,4 @@ wecafc_fishing_areas = data.frame(
 	stringsAsFactors = FALSE
 )
 wecafc_fishing_areas = wecafc_fishing_areas[order(wecafc_fishing_areas$code),]
-readr::write_csv(wecafc_fishing_areas, "cl_fishing_areas.csv")
+readr::write_csv(wecafc_fishing_areas, "cl_fishing_area.csv")
