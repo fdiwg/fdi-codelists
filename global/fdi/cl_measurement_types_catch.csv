@@ -1,6 +1,8 @@
 "code","uri","label","definition"
 "coefficient_variation",,"Coefficient of variation",
 "cpue",,"CPUE",
+"cpue_spatial_accuracy",,"CPUE spatial accuracy",
+"cpue_temporal_accuracy",,"CPUE temporal accuracy",
 "discarded",,"Discarded catch",
 "fish_average_weight",,"Fish average weight",
 "nominal",,"Nominal catch",
@@ -11,4 +13,6 @@
 "sample_size",,"Sample size",
 "spatial_accuracy",,"Spatial accuracy",
 "species_ratio",,"Species ratio",
+"sui",,"Catch sufficient uniformity index",
 "temporal_accuracy",,"Temporal accuracy",
+
