@@ -1,9 +1,10 @@
 urn,id,version,title,term
-urn:fdi:codelist:wecafc:effort_unit:0.8,cl_effort_unit,"0.8","WECAFC Reference List of Effort units",
-urn:fdi:codelist:wecafc:engagement_type:0.8,cl_engagement_type,"0.8","WECAFC Reference List of Engagement types",
-urn:fdi:codelist:wecafc:fishing_mode:0.8,cl_fishing_mode,"0.8","WECAFC Reference List of Fishing modes",urn:fdi:term:fishing_mode
-urn:fdi:codelist:wecafc:flagstate:0.8,cl_flagstate,"0.8","WECAFC Reference List of Flagstates",urn:fdi:term:flagstate
-urn:fdi:codelist:wecafc:fleet_segment:0.8,cl_fleet_segment,"0.8","WECAFC Reference List of Fleet segments",urn:fdi:term:fleet_segment
-urn:fdi:codelist:wecafc:gear_type:0.8,cl_gear_type,"0.8","WECAFC Reference List of Gear types",urn:fdi:term:gear_type
-urn:fdi:codelist:wecafc:period:0.8,cl_period,"0.8","WECAFC Reference List of time periods",urn:fdi:term:period
-urn:fdi:codelist:wecafc:species:0.8,cl_species,"0.8","WECAFC Reference List of Aquatic Species",urn:fdi:term:species
+urn:fdi:codelist:wecafc:effort_unit:1.0,cl_effort_unit,"1.0","WECAFC Reference List of Effort units",
+urn:fdi:codelist:wecafc:engagement_type:1.0,cl_engagement_type,"1.0","WECAFC Reference List of Engagement types",
+urn:fdi:codelist:wecafc:fishing_mode:1.0,cl_fishing_mode,"1.0","WECAFC Reference List of Fishing modes",urn:fdi:term:fishing_mode
+urn:fdi:codelist:wecafc:flagstate:1.0,cl_flagstate,"1.0","WECAFC Reference List of Flagstates",urn:fdi:term:flagstate
+urn:fdi:codelist:wecafc:fleet_segment:1.0,cl_fleet_segment,"1.0","WECAFC Reference List of Fleet segments",urn:fdi:term:fleet_segment
+urn:fdi:codelist:wecafc:gear_type:1.0,cl_gear_type,"1.0","WECAFC Reference List of Gear types",urn:fdi:term:gear_type
+urn:fdi:codelist:wecafc:period:1.0,cl_period,"1.0","WECAFC Reference List of time periods",urn:fdi:term:period
+urn:fdi:codelist:wecafc:species:1.0,cl_species,"1.0","WECAFC Reference List of Aquatic Species",urn:fdi:term:species
+urn:fdi:codelist:wecafc:fishing_area:1.0,cl_fishing_area,"1.0","WECAFC Reference List of Fishing Areas",urn:fdi:term:fishing_area
