@@ -7,4 +7,6 @@ urn:fdi:codelist:wecafc:fleet_segment:1.0,cl_fleet_segment,"1.0","WECAFC Referen
 urn:fdi:codelist:wecafc:gear_type:1.0,cl_gear_type,"1.0","WECAFC Reference List of Gear types",urn:fdi:term:gear_type
 urn:fdi:codelist:wecafc:period:1.0,cl_period,"1.0","WECAFC Reference List of time periods",urn:fdi:term:period
 urn:fdi:codelist:wecafc:species:1.0,cl_species,"1.0","WECAFC Reference List of Aquatic Species",urn:fdi:term:species
+urn:fdi:codelist:wecafc:species_group:1.0,cl_species_group,"1.0", "WECAFC Reference List of species groups",urn:fdi:term:species_group
+urn:fdi:codelist:wecafc:species_subgroup:1.0,cl_species_subgroup,"1.0", "WECAFC Reference List of species sub-groups",urn:fdi:term:species_subgroup
 urn:fdi:codelist:wecafc:fishing_area:1.0,cl_fishing_area,"1.0","WECAFC Reference List of Fishing Areas",urn:fdi:term:fishing_area
