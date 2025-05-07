@@ -13,7 +13,7 @@ produce_cl_asfis_species<-function(dest=getwd()){
   
   data<-readr::read_csv(match)
   
-  reformat<-data.frame(code=data$`3A_CODE`,
+  reformat<-data.frame(code=data$Alpha3_Code,
              uri=rep("",nrow(data)),
              label=data$English_name,
              definition=data$Scientific_Name,
@@ -23,12 +23,12 @@ produce_cl_asfis_species<-function(dest=getwd()){
              name_ar=data$Arabic_name,
              name_cn=data$Chinese_name,
              name_ru=data$Russian_name,
-             isscaap_group_code=data$ISSCAAP,
+             isscaap_group_code=data$ISSCAAP_Group,
              taxon_scientific_name=data$Scientific_Name,
-             taxon_code=data$TAXOCODE,
+             taxon_code=data$Taxonomic_Code,
              taxon_author=data$Author,
              taxon_family=data$Family,
-             taxon_order=data$Order)
+             taxon_order=data$`Order or higher taxa`)
   
   reformat[is.na(reformat)] <- ""
   
