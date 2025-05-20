@@ -1,154 +1,145 @@
-"code","uri","label","definition","name_sci","name_en","name_fr","name_es"
-"SLC",,"Caribbean spiny lobster","Panulirus argus","Panulirus argus","Caribbean spiny lobster","Langouste blanche","Langosta común"
-"FFV",,"Flying Fish","Hirundichthys affinis","Hirundichthys affinis","Flying Fish","Exocet hirondell","Volador golondrin"
-"COO",,"Queen conch","Lobatus gigas","Lobatus gigas","Queen conch","Strombe rose","Cobo rosado"
-"YNA",,"Acoupa weakfish","Cynoscion acoupa","Cynoscion acoupa","Acoupa weakfish","Acoupa toeroe","Corvineta amarilla"
-"SNC",,"Southern red snapper","Lutjanus purpureus","Lutjanus purpureus","Southern red snapper","Vivaneau rouge","Pargo colorado"
-"SNL",,"Lane snapper","Lutjanus synagris","Lutjanus synagris","Lane snapper","Vivaneau gazon","Pargo biajaiba"
-"WKK",,"King weakfish","Macrodon ancylodon","Macrodon ancylodon","King weakfish",,
-"YNV",,"Green weakfish","Cynoscion virescens","Cynoscion virescens","Green weakfish",,
-"PNU",,"Southern brown shrimp","Farfantepenaeus  subtilis","Farfantepenaeus  subtilis","Southern brown shrimp","Crevette café","Camarón café sureño"
-"SUD",,"Atlantic Angel Shark","Squatina dumeril","Squatina dumeril","Atlantic Angel Shark",,
-"CIO",,"Daggernose Shark","Isogomphodon oxyrhynchus","Isogomphodon oxyrhynchus","Daggernose Shark","Requin bécune","Cazón picudo sudamericano"
-"OCS",,"Oceanic whitetip shark","Carcharhinus longimanus","Carcharhinus longimanus","Oceanic whitetip shark",,
-"RHN",,"Whale Shark","Rhincodon typus","Rhincodon typus","Whale Shark",,
-"FAL",,"Silky Shark","Carcharhinus falciformis","Carcharhinus falciformis","Silky Shark",,
-"BTH",,"Bigeye thresher shark","Alopias superciliosus","Alopias superciliosus","Bigeye thresher shark",,
-"SMA",,"Shortfin mako","Isurus oxyrinchus","Isurus oxyrinchus","Shortfin mako",,
-"POR",,"Porbeagle shark","Lamna nasus","Lamna nasus","Porbeagle shark",,
-"BSH",,"Blue shark","Prionace glauca","Prionace glauca","Blue shark",,
-"SPL",,"Scalloped hammerhead shark","Sphyrna lewini","Sphyrna lewini","Scalloped hammerhead shark",,
-"SPK",,"Great hammerhead","Sphyrna mokarran","Sphyrna mokarran","Great hammerhead",,
-"SPZ",,"Smooth hammerhead","Sphyrna zygaena","Sphyrna zygaena","Smooth hammerhead",,
-"SPQ",,"Smalleye hammerhead","Sphyrna tudes","Sphyrna tudes","Smalleye hammerhead",,
-"RHR",,"Caribbean sharpnose shark","Rhizoprionodon porosus","Rhizoprionodon porosus","Caribbean sharpnose shark",,
-"RHL",,"Brazilian sharpnose shark","Rhizoprionodon lalandii","Rhizoprionodon lalandii","Brazilian sharpnose shark",,
-"CCR",,"Smalltail shark","Carcharhinus porosus","Carcharhinus porosus","Smalltail shark",,
-"CTI",,"Dusky smooth-hound","Mustelus canis","Mustelus canis","Dusky smooth-hound",,
-"MTR",,"Florida smoothhound","Mustelus norrisi","Mustelus norrisi","Florida smoothhound",,
-"CCL",,"Blacktip shark","Carcharhinus limbatus","Carcharhinus limbatus","Blacktip shark",,
-"CCN",,"Blacknose shark","Carcharhinus acronotus","Carcharhinus acronotus","Blacknose shark",,
-"CTJ",,"smalleye smoothhound","Mustelus higmani","Mustelus higmani","smalleye smoothhound",,
-"TIG",,"Tiger shark","Galeocerdo cuvier","Galeocerdo cuvier","Tiger shark",,
-"CCP",,"Sandbar Shark","Carcharhinus plumbeus","Carcharhinus plumbeus","Sandbar Shark",,
-"CCE",,"Bull Shark","Carcharhinus leucas","Carcharhinus leucas","Bull Shark",,
-"CTI",,"Smooth dogfish","Mustelus canis","Mustelus canis","Smooth dogfish",,
-"N/A",,"Gulf smoothhound","Mustelus sinusmexicanus","Mustelus sinusmexicanus","Gulf smoothhound",,
-"RPP",,"Smalltooth sawfish","Pristis pectinata","Pristis pectinata","Smalltooth sawfish",,
-"RPM",,"Largetooth sawfish","Pristis microdon","Pristis microdon","Largetooth sawfish",,
-"MAE",,"Spotted eagle ray (chucho)","Aetobatus narinari","Aetobatus narinari","Spotted eagle ray (chucho)",,
-"RMB",,"Giant Oceanic Manta Ray","Mobula birostris","Mobula birostris","Giant Oceanic Manta Ray",,
-"RDA",,"Sting ray","Dasyatis americana","Dasyatis americana","Sting ray",,
-"TZB",,"Caribbean Electric Ray","Narcine bancroftii","Narcine bancroftii","Caribbean Electric Ray",,
-"BXD",,"Alfonsino","Beryx decadactylus","Beryx decadactylus","Alfonsino",,
-"BSF",,"black scabbard fish","Aphanopus carbo","Aphanopus carbo","black scabbard fish",,
-"EPI",,"black cardinal fish","Epigonus telescopus","Epigonus telescopus","black cardinal fish",,
-"WRF",,"wreckfish","Polyprion americanus","Polyprion americanus","wreckfish",,
-"ARS",,"giant red shrimp","Aristaeomorpha foliacea","Aristaeomorpha foliacea","giant red shrimp",,
-"RRS",,"royal red shrimp","Pleoticus robustus","Pleoticus robustus","royal red shrimp",,
-"NIS",,"pink speckled deep sea shrimp","Penaeopsis serrata","Penaeopsis serrata","pink speckled deep sea shrimp",,
-"MFI",,"deep sea lobster","Metanephrops binghami","Metanephrops binghami","deep sea lobster",,
-"GPX",,"Groupers nei","Epinephelus spp","Epinephelus spp","Groupers nei",,
-"SNA",,"Snappers nei","Lutjanus spp","Lutjanus spp","Snappers nei",,
-"RPU",,"Vermilion snapper","Rhomboplites aurorubens","Rhomboplites aurorubens","Vermilion snapper",,
-"HOF",,"Offshore silver hake","Merluccius albidus","Merluccius albidus","Offshore silver hake",,
-"MVJ",,"Blackfin goosefish","Lophius gastrophysus","Lophius gastrophysus","Blackfin goosefish",,
-"JOS",,"Silvery John dory","Zenopsis conchifer","Zenopsis conchifer","Silvery John dory",,
-"NTK",,"Atlantic deep-sea lobster","Acanthacaris caeca ","Acanthacaris caeca ","Atlantic deep-sea lobster",,
-"NFI",,"Two-toned lobsterette","Nephropsis rosea","Nephropsis rosea","Two-toned lobsterette",,
-"NFU",,"Florida lobsterette","Nephropsis aculeata","Nephropsis aculeata","Florida lobsterette",,
-"NFN",,"Ruby lobsterette","Nephropsis neglecta","Nephropsis neglecta","Ruby lobsterette",,
-"ARS",,"Giant red shrimp","Aristaeomorpha foliacea","Aristaeomorpha foliacea","Giant red shrimp",,
-"AVD",,"Stout red shrimp","Aristeus virilis","Aristeus virilis","Stout red shrimp",,
-"ANJ",,"Purplehead gamba prawn","Aristeus antillensis","Aristeus antillensis","Purplehead gamba prawn",,
-"SSH",,"Scarlet shrimp","Plesiopenaeus edwardsianus","Plesiopenaeus edwardsianus","Scarlet shrimp",,
-"CRR",,"Red crab","Chaceon quinquedens","Chaceon quinquedens","Red crab",,
-"ELQ",,"El Dorado shrimp","Chaceon eldorado","Chaceon eldorado","El Dorado shrimp",,
-"AVA",,"Atlantic anchoveta","Cetengraulis edentulus","Cetengraulis edentulus","Atlantic anchoveta","Anchois queuejaune","Anchoveta rabo amarillo"
-"SAA",,"Round sardinella (Spanish sardine)","Sardinella aurita","Sardinella aurita","Round sardinella (Spanish sardine)","Allache","Sardinela atlantica"
-"BSR",,"Brazilian sardinella (TT-Jashua)","Sardinella brasiliensis","Sardinella brasiliensis","Brazilian sardinella (TT-Jashua)",,
-"POM",,"Florida pompano","Trachinotus carolinus","Trachinotus carolinus","Florida pompano","Pompaneau sole","Pámpano amarillo"
-"LHT",,"Largehead hairtail","Trichiurus lepturus","Trichiurus lepturus","Largehead hairtail","Poisson sabre (de l’Atlantique)","Sable"
-"LOB",,"Atlantic tripletail","Lobotes surinamensis","Lobotes surinamensis","Atlantic tripletail",,
-"GPR",,"Red grouper","Epinephelus morio","Epinephelus morio","Red grouper","Mérou rouge","Mero americano"
-"GPN",,"Nassau grouper","Epinephelus striatus","Epinephelus striatus","Nassau grouper","Mérou raye","Cherna criolla"
-"MAB",,"Black grouper","Mycteroperca bonaci","Mycteroperca bonaci","Black grouper",,
-"EEU",,"Red hind","Epinephelus guttatus","Epinephelus guttatus","Red hind",,
-"EET",,"Goliath grouper","Epinephelus itajara","Epinephelus itajara","Goliath grouper",,
-"CFJ",,"Coney","Cephalopholis fulva","Cephalopholis fulva","Coney",,
-"CFL",,"Graysby","Cephalopholis cruentata","Cephalopholis cruentata","Graysby",,
-"EFD",,"Rock hind","Epinephelus adscensionis","Epinephelus adscensionis","Rock hind",,
-"MKT",,"Tiger grouper","Mycteroperca tigris","Mycteroperca tigris","Tiger grouper",,
-"MKV",,"Yellowfin grouper","Mycteroperca venenosa","Mycteroperca venenosa","Yellowfin grouper",,
-"EEY",,"Misty grouper","Epinephelus mystacinus","Epinephelus mystacinus","Misty grouper",,
-"EEL",,"Yellowedge grouper","Epinephelus flavolimbatus","Epinephelus flavolimbatus","Yellowedge grouper",,
-"MKN",,"Yellowmouth grouper","Mycteroperca interstitialis","Mycteroperca interstitialis","Yellowmouth grouper",,
-"HLI",,"White grunt","Haemulon plumierii","Haemulon plumierii","White grunt",,
-"HLU",,"White Margate","Haemulon album","Haemulon album","White Margate",,
-"HHI",,"Bluestriped grunt","Haemulon sciurus","Haemulon sciurus","Bluestriped grunt",,
-"CBD",,"Jolthead porgy","Calamus bajonado","Calamus bajonado","Jolthead porgy",,
-"CFE",,"Sheepshead porgy","Calamus penna","Calamus penna","Sheepshead porgy",,
-"JKQ",,"Pluma porgy","Calamus pennatula","Calamus pennatula","Pluma porgy",,
-"JIU",,"Squirrelfishes","Holocentrus rufus","Holocentrus rufus","Squirrelfishes",,
-"RUB",,"Blue runner","Caranx crysos","Caranx crysos","Blue runner",,
-"CVJ",,"Crevalle","Caranx hippos","Caranx hippos","Crevalle",,
-"LIJ",,"African Pompano","Alectis ciliaris","Alectis ciliaris","African Pompano",,
-"RRU",,"Rainbow runner","Elagatis bipinnulata","Elagatis bipinnulata","Rainbow runner",,
-"LJN",,"Mutton snapper","Lutjanus analis","Lutjanus analis","Mutton snapper","Vivaneau sorbe","Pargo criollo"
-"LJP",,"Schoolmaster snapper","Lutjanus apodus","Lutjanus apodus","Schoolmaster snapper","Vivaneau dentchien","Pargo amarillo"
-"LJU",,"Blackfin snapper","Lutjanus buccanella","Lutjanus buccanella","Blackfin snapper","Vivaneau oreille noire","Pargo sesí"
-"SNR",,"Northern red snapper","Lutjanus campechanus","Lutjanus campechanus","Northern red snapper","Vivaneau campèche","Pargo del Golfo"
-"LJY",,"Cubera snapper","Lutjanus cyanopterus","Lutjanus cyanopterus","Cubera snapper",,
-"LJI",,"Gray snapper","Lutjanus griseus","Lutjanus griseus","Gray snapper",,
-"LJJ",,"Dogteeth snapper","Lutjanus jocu","Lutjanus jocu","Dogteeth snapper",,
-"SNC",,"Southern red snapper","Lutjanus purpureus","Lutjanus purpureus","Southern red snapper","Vivaneau rouge","Pargo colorado"
-"LTJ",,"Silk snapper","Lutjanus vivanus","Lutjanus vivanus","Silk snapper","Vivaneau soi","Pargo de lo alto"
-"PQI",,"Wenchman snapper","Pristipomoides aquilonaris","Pristipomoides aquilonaris","Wenchman snapper",,
-"UPZ",,"Cardinal snapper","Pristipomoides macrophthalmus","Pristipomoides macrophthalmus","Cardinal snapper",,
-"RPU",,"Vermillion snapper","Rhomboplites aurorubens","Rhomboplites aurorubens","Vermillion snapper",,
-"SNY",,"Yellowtail snapper","Ocyurus chrysurus","Ocyurus chrysurus","Yellowtail snapper","Vivaneau queue jaune","Rabirubia"
-"ASX",,"Black snapper","Apsilus dentatus","Apsilus dentatus","Black snapper",,
-"EEO",,"Queen snapper","Etelis oculatus","Etelis oculatus","Queen snapper",,
-"SNC",,"Red snapper","Lutjanus purpureus","Lutjanus purpureus","Red snapper",,
-"USU",,"Blue parrotfish","Scarus coeruleus","Scarus coeruleus","Blue parrotfish",,
-"MWD",,"Midnight parrotfish","Scarus coelestinus","Scarus coelestinus","Midnight parrotfish",,
-"USN",,"Princess parrotfish","Scarus taeniopterus","Scarus taeniopterus","Princess parrotfish",,
-"UVT",,"Queen parrotfish","Scarus vetula","Scarus vetula","Queen parrotfish",,
-"QUF",,"Rainbow parrotfish","Scarus guacamaia","Scarus guacamaia","Rainbow parrotfish",,
-"QZV",,"Redfin parrotfish","Sparisoma rubripinne","Sparisoma rubripinne","Redfin parrotfish",,
-"RSY",,"Redtail parrotfish","Sparisoma chrysopterum","Sparisoma chrysopterum","Redtail parrotfish",,
-"QRV",,"Stoplight parrotfish","Sparisoma viride","Sparisoma viride","Stoplight parrotfish",,
-"RMF",,"Redband parrotfish","Sparisoma aurofrenatum","Sparisoma aurofrenatum","Redband parrotfish",,
-"USS",,"Striped parrotfish","Scarus iserti","Scarus iserti","Striped parrotfish",,
-"AQO",,"Blue tang surgeonfish","Acanthurus coeruleus","Acanthurus coeruleus","Blue tang surgeonfish",,
-"AQB",,"Ocean surgeonfish","Acanthurus bahianus","Acanthurus bahianus","Ocean surgeonfish",,
-"AQH",,"Doctorfish","Acanthurus chirurgus","Acanthurus chirurgus","Doctorfish",,
-"CZT",,"Ocean triggerfish","Canthidermis sufflamen","Canthidermis sufflamen","Ocean triggerfish",,
-"BLV",,"Queen triggerfish","Balistes vetula","Balistes vetula","Queen triggerfish",,
-"TRG",,"Gray triggerfish","Balistes capriscus","Balistes capriscus","Gray triggerfish",,
-"LCX",,"Hogfish","Lachnolaimus maximus","Lachnolaimus maximus","Hogfish",,
-"JJB",,"Puddingwife","Halichoeres radiatus","Halichoeres radiatus","Puddingwife",,
-"BDR",,"Spanish hogfish","Bodianus rufus","Bodianus rufus","Spanish hogfish",,
-"KGR",,"Queen angelfish","Holacanthus ciliaris","Holacanthus ciliaris","Queen angelfish",,
-"KHH",,"Gray angelfish","Pomacanthus arcuatus","Pomacanthus arcuatus","Gray angelfish",,
-"QPG",,"French angelfish","Pomacanthus paru","Pomacanthus paru","French angelfish",,
-"ABS",,"Northern brown shrimp","Penaeus aztecus","Penaeus aztecus","Northern brown shrimp","Crevette royale grise","Camarón café norteño"
-"APS",,"Northern pink shrimp","Penaeus duorarum","Penaeus duorarum","Northern pink shrimp","Crevette rodché du nord","Camarón rosado norteño"
-"SOP",,"Southern pink shrimp","Farfantepenaeus notialis","Farfantepenaeus notialis","Southern pink shrimp","Crevette rodché du sud","Camarón rosado sureño"
-"PNT",,"Southern white shrimp","Litopenaeus  schmitti","Litopenaeus  schmitti","Southern white shrimp","Crevette ligubam du sud","Camarón blanco sureño"
-"PST",,"Northern white shrimp","Penaeus setiferus","Penaeus setiferus","Northern white shrimp","Crevette ligubam du nord","Camarón blanco norteño"
-"PNU",,"Southern brown shrimp","Farfantepenaeus  subtilis","Farfantepenaeus  subtilis","Southern brown shrimp","Crevette café","Camarón café sureño"
-"n/a",,"Pink spotted shrimp","Farfantepenaeus  brasiliensis ","Farfantepenaeus  brasiliensis ","Pink spotted shrimp",,
-"RRS",,"Royal red shrimp","Pleoticus robustus","Pleoticus robustus","Royal red shrimp","Crevette salicoque","Camarón rojo real"
-"SSH",,"Imperial red shrimp","Plesiopenaeus edwardsianus","Plesiopenaeus edwardsianus","Imperial red shrimp",,"Gamba carabinero"
-"PNB",,"Redspotted shrimp","Penaeus brasiliensis","Penaeus brasiliensis","Redspotted shrimp","Crevette royale rose","Camarón rosado con manchos"
-"BOB",,"Atlantic seabob","Xiphopenaeus kroyeri","Xiphopenaeus kroyeri","Atlantic seabob","Cevette seabob","Camarón siete barbas"
-"RSH",,"Rock shrimp","Sicyonia brevirostris","Sicyonia brevirostris","Rock shrimp","Crevette ovetgernade","Camarón  de piedra"
-"SLV",,"Tropical spiny lobsters nei","Panulirus spp","Panulirus spp","Tropical spiny lobsters nei","Langoustes tropicales nca","Langostas tropicales nep"
-"PEN",,"Penaeus shrimps nei","Penaeus spp","Penaeus spp","Penaeus shrimps nei","Crevettes Penaeus nca","Langostinos Penaeus nep"
-"PEZ",,"Penaeid shrimps nei","Penaeidae","Penaeidae","Penaeid shrimps nei","Crevettes pénéidés nca","Camarones peneídos nep"
-"WKX",,"Weakfishes nei","Cynoscion spp","Cynoscion spp","Weakfishes nei","Acoupas nca","Corvinatas nep"
-"SKH",,"Various sharks nei","Selachimorpha (Pleurotremata)","Selachimorpha (Pleurotremata)","Various sharks nei","Requins divers nca","Escualos diversos nep"
-"IPV",,"Grunts nei","Haemulopsis spp","Haemulopsis spp","Grunts nei",,
-"PWT",,"Parrotfishes nei","Scaridae","Scaridae","Parrotfishes nei","Perroquets nca","Loros nep"
-"FLY",,"Flyingfishes nei","Exocoetidae","Exocoetidae","Flyingfishes nei","Exocets nca","Voladores nep"
+code,uri,label,definition,name_sci,name_en,name_fr,name_es
+SLC,,Caribbean spiny lobster,Panulirus argus,Panulirus argus,Caribbean spiny lobster,Langouste blanche,Langosta común
+FFV,,Flying Fish,Hirundichthys affinis,Hirundichthys affinis,Flying Fish,Exocet hirondell,Volador golondrin
+COO,,Queen conch,Lobatus gigas,Lobatus gigas,Queen conch,Strombe rose,Cobo rosado
+YNA,,Acoupa weakfish,Cynoscion acoupa,Cynoscion acoupa,Acoupa weakfish,Acoupa toeroe,Corvineta amarilla
+SNC,,Southern red snapper,Lutjanus purpureus,Lutjanus purpureus,Southern red snapper,Vivaneau rouge,Pargo colorado
+SNL,,Lane snapper,Lutjanus synagris,Lutjanus synagris,Lane snapper,Vivaneau gazon,Pargo biajaiba
+WKK,,King weakfish,Macrodon ancylodon,Macrodon ancylodon,King weakfish,,
+YNV,,Green weakfish,Cynoscion virescens,Cynoscion virescens,Green weakfish,,
+SUD,,Atlantic Angel Shark,Squatina dumeril,Squatina dumeril,Atlantic Angel Shark,,
+CIO,,Daggernose Shark,Isogomphodon oxyrhynchus,Isogomphodon oxyrhynchus,Daggernose Shark,Requin bécune,Cazón picudo sudamericano
+OCS,,Oceanic whitetip shark,Carcharhinus longimanus,Carcharhinus longimanus,Oceanic whitetip shark,,
+RHN,,Whale Shark,Rhincodon typus,Rhincodon typus,Whale Shark,,
+FAL,,Silky Shark,Carcharhinus falciformis,Carcharhinus falciformis,Silky Shark,,
+BTH,,Bigeye thresher shark,Alopias superciliosus,Alopias superciliosus,Bigeye thresher shark,,
+SMA,,Shortfin mako,Isurus oxyrinchus,Isurus oxyrinchus,Shortfin mako,,
+POR,,Porbeagle shark,Lamna nasus,Lamna nasus,Porbeagle shark,,
+BSH,,Blue shark,Prionace glauca,Prionace glauca,Blue shark,,
+SPL,,Scalloped hammerhead shark,Sphyrna lewini,Sphyrna lewini,Scalloped hammerhead shark,,
+SPK,,Great hammerhead,Sphyrna mokarran,Sphyrna mokarran,Great hammerhead,,
+SPZ,,Smooth hammerhead,Sphyrna zygaena,Sphyrna zygaena,Smooth hammerhead,,
+SPQ,,Smalleye hammerhead,Sphyrna tudes,Sphyrna tudes,Smalleye hammerhead,,
+RHR,,Caribbean sharpnose shark,Rhizoprionodon porosus,Rhizoprionodon porosus,Caribbean sharpnose shark,,
+RHL,,Brazilian sharpnose shark,Rhizoprionodon lalandii,Rhizoprionodon lalandii,Brazilian sharpnose shark,,
+CCR,,Smalltail shark,Carcharhinus porosus,Carcharhinus porosus,Smalltail shark,,
+CTI,,Dusky smooth-hound,Mustelus canis,Mustelus canis,Dusky smooth-hound,,
+MTR,,Florida smoothhound,Mustelus norrisi,Mustelus norrisi,Florida smoothhound,,
+CCL,,Blacktip shark,Carcharhinus limbatus,Carcharhinus limbatus,Blacktip shark,,
+CCN,,Blacknose shark,Carcharhinus acronotus,Carcharhinus acronotus,Blacknose shark,,
+CTJ,,smalleye smoothhound,Mustelus higmani,Mustelus higmani,smalleye smoothhound,,
+TIG,,Tiger shark,Galeocerdo cuvier,Galeocerdo cuvier,Tiger shark,,
+CCP,,Sandbar Shark,Carcharhinus plumbeus,Carcharhinus plumbeus,Sandbar Shark,,
+CCE,,Bull Shark,Carcharhinus leucas,Carcharhinus leucas,Bull Shark,,
+N/A,,Gulf smoothhound,Mustelus sinusmexicanus,Mustelus sinusmexicanus,Gulf smoothhound,,
+RPP,,Smalltooth sawfish,Pristis pectinata,Pristis pectinata,Smalltooth sawfish,,
+RPM,,Largetooth sawfish,Pristis microdon,Pristis microdon,Largetooth sawfish,,
+MAE,,Spotted eagle ray (chucho),Aetobatus narinari,Aetobatus narinari,Spotted eagle ray (chucho),,
+RMB,,Giant Oceanic Manta Ray,Mobula birostris,Mobula birostris,Giant Oceanic Manta Ray,,
+RDA,,Sting ray,Dasyatis americana,Dasyatis americana,Sting ray,,
+TZB,,Caribbean Electric Ray,Narcine bancroftii,Narcine bancroftii,Caribbean Electric Ray,,
+BXD,,Alfonsino,Beryx decadactylus,Beryx decadactylus,Alfonsino,,
+BSF,,black scabbard fish,Aphanopus carbo,Aphanopus carbo,black scabbard fish,,
+EPI,,black cardinal fish,Epigonus telescopus,Epigonus telescopus,black cardinal fish,,
+WRF,,wreckfish,Polyprion americanus,Polyprion americanus,wreckfish,,
+NIS,,pink speckled deep sea shrimp,Penaeopsis serrata,Penaeopsis serrata,pink speckled deep sea shrimp,,
+MFI,,deep sea lobster,Metanephrops binghami,Metanephrops binghami,deep sea lobster,,
+GPX,,Groupers nei,Epinephelus spp,Epinephelus spp,Groupers nei,,
+SNA,,Snappers nei,Lutjanus spp,Lutjanus spp,Snappers nei,,
+RPU,,Vermilion snapper,Rhomboplites aurorubens,Rhomboplites aurorubens,Vermilion snapper,,
+HOF,,Offshore silver hake,Merluccius albidus,Merluccius albidus,Offshore silver hake,,
+MVJ,,Blackfin goosefish,Lophius gastrophysus,Lophius gastrophysus,Blackfin goosefish,,
+JOS,,Silvery John dory,Zenopsis conchifer,Zenopsis conchifer,Silvery John dory,,
+NTK,,Atlantic deep-sea lobster,Acanthacaris caeca ,Acanthacaris caeca ,Atlantic deep-sea lobster,,
+NFI,,Two-toned lobsterette,Nephropsis rosea,Nephropsis rosea,Two-toned lobsterette,,
+NFU,,Florida lobsterette,Nephropsis aculeata,Nephropsis aculeata,Florida lobsterette,,
+NFN,,Ruby lobsterette,Nephropsis neglecta,Nephropsis neglecta,Ruby lobsterette,,
+ARS,,Giant red shrimp,Aristaeomorpha foliacea,Aristaeomorpha foliacea,Giant red shrimp,,
+AVD,,Stout red shrimp,Aristeus virilis,Aristeus virilis,Stout red shrimp,,
+ANJ,,Purplehead gamba prawn,Aristeus antillensis,Aristeus antillensis,Purplehead gamba prawn,,
+SSH,,Scarlet shrimp,Plesiopenaeus edwardsianus,Plesiopenaeus edwardsianus,Scarlet shrimp,,
+CRR,,Red crab,Chaceon quinquedens,Chaceon quinquedens,Red crab,,
+ELQ,,El Dorado shrimp,Chaceon eldorado,Chaceon eldorado,El Dorado shrimp,,
+AVA,,Atlantic anchoveta,Cetengraulis edentulus,Cetengraulis edentulus,Atlantic anchoveta,Anchois queuejaune,Anchoveta rabo amarillo
+SAA,,Round sardinella (Spanish sardine),Sardinella aurita,Sardinella aurita,Round sardinella (Spanish sardine),Allache,Sardinela atlantica
+BSR,,Brazilian sardinella (TT-Jashua),Sardinella brasiliensis,Sardinella brasiliensis,Brazilian sardinella (TT-Jashua),,
+POM,,Florida pompano,Trachinotus carolinus,Trachinotus carolinus,Florida pompano,Pompaneau sole,Pámpano amarillo
+LHT,,Largehead hairtail,Trichiurus lepturus,Trichiurus lepturus,Largehead hairtail,Poisson sabre (de l’Atlantique),Sable
+LOB,,Atlantic tripletail,Lobotes surinamensis,Lobotes surinamensis,Atlantic tripletail,,
+GPR,,Red grouper,Epinephelus morio,Epinephelus morio,Red grouper,Mérou rouge,Mero americano
+GPN,,Nassau grouper,Epinephelus striatus,Epinephelus striatus,Nassau grouper,Mérou raye,Cherna criolla
+MAB,,Black grouper,Mycteroperca bonaci,Mycteroperca bonaci,Black grouper,,
+EEU,,Red hind,Epinephelus guttatus,Epinephelus guttatus,Red hind,,
+EET,,Goliath grouper,Epinephelus itajara,Epinephelus itajara,Goliath grouper,,
+CFJ,,Coney,Cephalopholis fulva,Cephalopholis fulva,Coney,,
+CFL,,Graysby,Cephalopholis cruentata,Cephalopholis cruentata,Graysby,,
+EFD,,Rock hind,Epinephelus adscensionis,Epinephelus adscensionis,Rock hind,,
+MKT,,Tiger grouper,Mycteroperca tigris,Mycteroperca tigris,Tiger grouper,,
+MKV,,Yellowfin grouper,Mycteroperca venenosa,Mycteroperca venenosa,Yellowfin grouper,,
+EEY,,Misty grouper,Epinephelus mystacinus,Epinephelus mystacinus,Misty grouper,,
+EEL,,Yellowedge grouper,Epinephelus flavolimbatus,Epinephelus flavolimbatus,Yellowedge grouper,,
+MKN,,Yellowmouth grouper,Mycteroperca interstitialis,Mycteroperca interstitialis,Yellowmouth grouper,,
+HLI,,White grunt,Haemulon plumierii,Haemulon plumierii,White grunt,,
+HLU,,White Margate,Haemulon album,Haemulon album,White Margate,,
+HHI,,Bluestriped grunt,Haemulon sciurus,Haemulon sciurus,Bluestriped grunt,,
+CBD,,Jolthead porgy,Calamus bajonado,Calamus bajonado,Jolthead porgy,,
+CFE,,Sheepshead porgy,Calamus penna,Calamus penna,Sheepshead porgy,,
+JKQ,,Pluma porgy,Calamus pennatula,Calamus pennatula,Pluma porgy,,
+JIU,,Squirrelfishes,Holocentrus rufus,Holocentrus rufus,Squirrelfishes,,
+RUB,,Blue runner,Caranx crysos,Caranx crysos,Blue runner,,
+CVJ,,Crevalle,Caranx hippos,Caranx hippos,Crevalle,,
+LIJ,,African Pompano,Alectis ciliaris,Alectis ciliaris,African Pompano,,
+RRU,,Rainbow runner,Elagatis bipinnulata,Elagatis bipinnulata,Rainbow runner,,
+LJN,,Mutton snapper,Lutjanus analis,Lutjanus analis,Mutton snapper,Vivaneau sorbe,Pargo criollo
+LJP,,Schoolmaster snapper,Lutjanus apodus,Lutjanus apodus,Schoolmaster snapper,Vivaneau dentchien,Pargo amarillo
+LJU,,Blackfin snapper,Lutjanus buccanella,Lutjanus buccanella,Blackfin snapper,Vivaneau oreille noire,Pargo sesí
+SNR,,Northern red snapper,Lutjanus campechanus,Lutjanus campechanus,Northern red snapper,Vivaneau campèche,Pargo del Golfo
+LJY,,Cubera snapper,Lutjanus cyanopterus,Lutjanus cyanopterus,Cubera snapper,,
+LJI,,Gray snapper,Lutjanus griseus,Lutjanus griseus,Gray snapper,,
+LJJ,,Dogteeth snapper,Lutjanus jocu,Lutjanus jocu,Dogteeth snapper,,
+LTJ,,Silk snapper,Lutjanus vivanus,Lutjanus vivanus,Silk snapper,Vivaneau soi,Pargo de lo alto
+PQI,,Wenchman snapper,Pristipomoides aquilonaris,Pristipomoides aquilonaris,Wenchman snapper,,
+UPZ,,Cardinal snapper,Pristipomoides macrophthalmus,Pristipomoides macrophthalmus,Cardinal snapper,,
+SNY,,Yellowtail snapper,Ocyurus chrysurus,Ocyurus chrysurus,Yellowtail snapper,Vivaneau queue jaune,Rabirubia
+ASX,,Black snapper,Apsilus dentatus,Apsilus dentatus,Black snapper,,
+EEO,,Queen snapper,Etelis oculatus,Etelis oculatus,Queen snapper,,
+USU,,Blue parrotfish,Scarus coeruleus,Scarus coeruleus,Blue parrotfish,,
+MWD,,Midnight parrotfish,Scarus coelestinus,Scarus coelestinus,Midnight parrotfish,,
+USN,,Princess parrotfish,Scarus taeniopterus,Scarus taeniopterus,Princess parrotfish,,
+UVT,,Queen parrotfish,Scarus vetula,Scarus vetula,Queen parrotfish,,
+QUF,,Rainbow parrotfish,Scarus guacamaia,Scarus guacamaia,Rainbow parrotfish,,
+QZV,,Redfin parrotfish,Sparisoma rubripinne,Sparisoma rubripinne,Redfin parrotfish,,
+RSY,,Redtail parrotfish,Sparisoma chrysopterum,Sparisoma chrysopterum,Redtail parrotfish,,
+QRV,,Stoplight parrotfish,Sparisoma viride,Sparisoma viride,Stoplight parrotfish,,
+RMF,,Redband parrotfish,Sparisoma aurofrenatum,Sparisoma aurofrenatum,Redband parrotfish,,
+USS,,Striped parrotfish,Scarus iserti,Scarus iserti,Striped parrotfish,,
+AQO,,Blue tang surgeonfish,Acanthurus coeruleus,Acanthurus coeruleus,Blue tang surgeonfish,,
+AQB,,Ocean surgeonfish,Acanthurus bahianus,Acanthurus bahianus,Ocean surgeonfish,,
+AQH,,Doctorfish,Acanthurus chirurgus,Acanthurus chirurgus,Doctorfish,,
+CZT,,Ocean triggerfish,Canthidermis sufflamen,Canthidermis sufflamen,Ocean triggerfish,,
+BLV,,Queen triggerfish,Balistes vetula,Balistes vetula,Queen triggerfish,,
+TRG,,Gray triggerfish,Balistes capriscus,Balistes capriscus,Gray triggerfish,,
+LCX,,Hogfish,Lachnolaimus maximus,Lachnolaimus maximus,Hogfish,,
+JJB,,Puddingwife,Halichoeres radiatus,Halichoeres radiatus,Puddingwife,,
+BDR,,Spanish hogfish,Bodianus rufus,Bodianus rufus,Spanish hogfish,,
+KGR,,Queen angelfish,Holacanthus ciliaris,Holacanthus ciliaris,Queen angelfish,,
+KHH,,Gray angelfish,Pomacanthus arcuatus,Pomacanthus arcuatus,Gray angelfish,,
+QPG,,French angelfish,Pomacanthus paru,Pomacanthus paru,French angelfish,,
+ABS,,Northern brown shrimp,Penaeus aztecus,Penaeus aztecus,Northern brown shrimp,Crevette royale grise,Camarón café norteño
+APS,,Northern pink shrimp,Penaeus duorarum,Penaeus duorarum,Northern pink shrimp,Crevette rodché du nord,Camarón rosado norteño
+SOP,,Southern pink shrimp,Farfantepenaeus notialis,Farfantepenaeus notialis,Southern pink shrimp,Crevette rodché du sud,Camarón rosado sureño
+PNT,,Southern white shrimp,Litopenaeus schmitti,Litopenaeus schmitti,Southern white shrimp,Crevette ligubam du sud,Camarón blanco sureño
+PST,,Northern white shrimp,Penaeus setiferus,Penaeus setiferus,Northern white shrimp,Crevette ligubam du nord,Camarón blanco norteño
+PNU,,Southern brown shrimp,Farfantepenaeus subtilis,Farfantepenaeus subtilis,Southern brown shrimp,Crevette café,Camarón café sureño
+RRS,,Royal red shrimp,Pleoticus robustus,Pleoticus robustus,Royal red shrimp,Crevette salicoque,Camarón rojo real
+PNB,,Redspotted shrimp,Penaeus brasiliensis,Penaeus brasiliensis,Redspotted shrimp,Crevette royale rose,Camarón rosado con manchos
+BOB,,Atlantic seabob,Xiphopenaeus kroyeri,Xiphopenaeus kroyeri,Atlantic seabob,Cevette seabob,Camarón siete barbas
+RSH,,Rock shrimp,Sicyonia brevirostris,Sicyonia brevirostris,Rock shrimp,Crevette ovetgernade,Camarón de piedra
+SLV,,Tropical spiny lobsters nei,Panulirus spp,Panulirus spp,Tropical spiny lobsters nei,Langoustes tropicales nca,Langostas tropicales nep
+PEN,,Penaeus shrimps nei,Penaeus spp,Penaeus spp,Penaeus shrimps nei,Crevettes Penaeus nca,Langostinos Penaeus nep
+PEZ,,Penaeid shrimps nei,Penaeidae,Penaeidae,Penaeid shrimps nei,Crevettes pénéidés nca,Camarones peneídos nep
+WKX,,Weakfishes nei,Cynoscion spp,Cynoscion spp,Weakfishes nei,Acoupas nca,Corvinatas nep
+SKH,,Various sharks nei,Selachimorpha (Pleurotremata),Selachimorpha (Pleurotremata),Various sharks nei,Requins divers nca,Escualos diversos nep
+IPV,,Grunts nei,Haemulopsis spp,Haemulopsis spp,Grunts nei,,
+PWT,,Parrotfishes nei,Scaridae,Scaridae,Parrotfishes nei,Perroquets nca,Loros nep
+FLY,,Flyingfishes nei,Exocoetidae,Exocoetidae,Flyingfishes nei,Exocets nca,Voladores nep

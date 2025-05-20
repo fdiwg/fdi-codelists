@@ -1,15 +1,15 @@
 <atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <atom:updated>2025-04-25T09:35:07</atom:updated>
-  <dcterms:title>WECAFC Reference List of Aquatic Species</dcterms:title>
+  <atom:updated>2025-04-25T09:35:08</atom:updated>
+  <dcterms:title>WECAFC Reference List of species sub-groups</dcterms:title>
   <dcterms:source>WECAFC Interim Data Collection Reference Framework (version 0.8): https://www.fao.org/3/cc0657en/cc0657en.pdf</dcterms:source>
-  <dcterms:identifier>urn:fdi:codelist:wecafc:species:1.0</dcterms:identifier>
-  <dcterms:identifier>cl_species</dcterms:identifier>
+  <dcterms:identifier>urn:fdi:codelist:wecafc:species_subgroup:1.0</dcterms:identifier>
+  <dcterms:identifier>cl_species_subgroup</dcterms:identifier>
   <dcterms:license>NONE</dcterms:license>
   <dcterms:hasVersion>1</dcterms:hasVersion>
   <dcterms:type>Dataset</dcterms:type>
   <dcterms:creator>WECAFC Working Group for fisheries data and statistics (FDS-WG)</dcterms:creator>
   <dcterms:publisher>Fisheries Data Interoperability adhoc working group</dcterms:publisher>
-  <dcterms:relation>urn:fdi:term:species</dcterms:relation>
+  <dcterms:relation>urn:fdi:term:species_subgroup</dcterms:relation>
   <dcterms:subject>WECAFC</dcterms:subject>
   <dcterms:subject>WECAFIS</dcterms:subject>
   <dcterms:subject>DCRF</dcterms:subject>
