@@ -29,13 +29,11 @@
 "EUR.REU",NA,"EU (France, Réunion)","UE (France, Réunion)","EUR","REU"
 "FJI",NA,"Fiji","Fidji",NA,"FJI"
 "FRAT",NA,"France (OT)
-","France (Territoires)
-","FRAT","ATF"
+","France (Territoires)","FRAT","ATF"
 "FRO",NA,"Faroe Islands","Îles Féroé",NA,"FRO"
 "GBR",NA,"United Kingdom of Great Britain and Northern Ireland","Royaume-Uni de Grande-Bretagne et d'Irlande du Nord","GBR","GBR"
 "GBRT",NA,"United Kingdom of Great Britain and Northern Ireland (BIOT)
-","Royaume-Uni de Grande-Bretagne et d’Irlande (Territoires)
-",NA,"IOT"
+","Royaume-Uni de Grande-Bretagne et d’Irlande (Territoires)",NA,"IOT"
 "GEO",NA,"Georgia","Géorgie",NA,"GEO"
 "GHA",NA,"Ghana","Ghana",NA,"GHA"
 "GIN",NA,"Guinea","Guinée",NA,"GIN"
@@ -64,21 +62,11 @@
 "MUS",NA,"Mauritius","Maurice","MUS","MUS"
 "MYS",NA,"Malaysia","Malaisie","MYS","MYS"
 "NAM",NA,"Namibia","Namibie",NA,"NAM"
-"NEI.IDN",NA,"NEI (Indonesia EEZ)
-","NCA (Indonésie ZEE)
-",NA,NA
-"NEI.LF",NA,"NEI (fresh tuna longliners)
-","NCA (palangriere frais)
-",NA,NA
-"NEI.LL",NA,"NEI (deep-freezing longliners)
-","NCA (palangriere congelé)
-",NA,NA
-"NEI.PS",NA,"NEI (purse seiners)
-","NCA (senneurs)
-",NA,NA
-"NEI.SUN",NA,"NEI (ex-Soviet Union)
-","NCA (ex-Union soviétique)
-",NA,NA
+"NEI.IDN",NA,"NEI (Indonesia EEZ)","NCA (Indonésie ZEE)",NA,NA
+"NEI.LF",NA,"NEI (fresh tuna longliners)","NCA (palangriere frais)",NA,NA
+"NEI.LL",NA,"NEI (deep-freezing longliners)","NCA (palangriere congelé)",NA,NA
+"NEI.PS",NA,"NEI (purse seiners)","NCA (senneurs)",NA,NA
+"NEI.SUN",NA,"NEI (ex-Soviet Union)","NCA (ex-Union soviétique)",NA,NA
 "NOR",NA,"Norway","Norvège",NA,"NOR"
 "OMN",NA,"Oman","Oman","OMN","OMN"
 "PAK",NA,"Pakistan","Pakistan","PAK","PAK"
