@@ -3,7 +3,7 @@
 "LG",NA,"CE","Catch and effort data derived from logbooks completed onboard by the captain/fishing master of the ship (detailed data)","Prises et efforts saisis à bord sur les fiches de pêche par le capitaine ou le patron de pêche (données détaillées)"
 "OB",NA,"CE","Catch and effort data collected by scientific observers","Prises et efforts recueillis par des observateurs scientifiques"
 "RS",NA,"CE","Catch and effort data collected at the landing place by staff from research institutions (sampling survey or total enumeration)","Prises et efforts recueillis sur les sites de débarquement par du personnel d’institutions de recherche (échantillonnages ou dénombrement total)"
-"TR",NA,"CE","Catch and effort data obtained through interviews with the skipper or other crew members, conducted at the end of the fishing trip","Prises et efforts obtenues par le biais d'entretiens avec le capitaine ou d'autres membres de l'équipage, menés à la fin de la sortie de pêche"
+"TR",NA,"CE","Catch and effort data obtained through interviews with the skipper or other crew members, conducted at the end of the fishing trip","Prises et efforts obtenues par le biais d'entretiens avec le capitaine ou d'autres membres de l'équipage, menés à la fin de la marée"
 "UN",NA,"CE","Amounts unknown; fully estimated","Inconnu; Entièrement estimé"
 "EL",NA,"DI","Discard levels monitored through electronic means (e.g., video system, etc.)","Niveaux de rejets estimés par des moyens électroniques (systèmes vidéo, etc.)"
 "LG",NA,"DI","Discard levels monitored by the vessel skipper / fishing master (logbook)","Niveaux de rejets estimés par le capitaine du navire ou le patron de pêche (livres de bord)"
