@@ -290,6 +290,7 @@
 "RAX",NA,"Indian mackerels nei","Maquereaux indo-pacifique nca","Rastrelliger spp","OTHERS","OTHERS","Scombridae","Scombroidei",FALSE,TRUE,FALSE,TRUE,TRUE
 "REO",NA,"Shark sucker","Rémora des requins","Remora remora","OTHERS","OTHERS","Echeneidae","Percoidei",FALSE,FALSE,FALSE,FALSE,TRUE
 "REY",NA,"Spearfish remora","Rémora des espadons","Remora brachyptera","OTHERS","OTHERS","Echeneidae","Percoidei",FALSE,NA,FALSE,FALSE,TRUE
+"REZ",NA,"Marlin sucker","Rémora des marlins","Remora osteochir","OTHERS","OTHERS","Echeneidae","Percoidei",FALSE,FALSE,FALSE,FALSE,TRUE
 "RHA",NA,"Milk shark","Requin à museau pointu","Rhizoprionodon acutus","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
 "RHN",NA,"Whale shark","Requin baleine","Rhincodon typus","SHARKS","SHARKS","Rhincodontidae","Orectolobiformes",FALSE,TRUE,TRUE,FALSE,TRUE
 "RMA",NA,NA,NA,"Mobula alfredi","SHARKS","RAYS","Mobulidae","Myliobatiformes",FALSE,TRUE,TRUE,FALSE,TRUE
