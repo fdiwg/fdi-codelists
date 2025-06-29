@@ -1,0 +1,5 @@
+code,uri,label,definition
+sample_weight,,Sample weight,
+sample_size,,Sample size,Number of individuals in the sample
+length,,Length,
+weight,,Weight,
