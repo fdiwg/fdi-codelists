@@ -28,12 +28,10 @@
 "EUR.PRT",NA,"EU (Portugal)","UE (Portugal)","EUR","PRT"
 "EUR.REU",NA,"EU (France, Réunion)","UE (France, Réunion)","EUR","REU"
 "FJI",NA,"Fiji","Fidji",NA,"FJI"
-"FRAT",NA,"France (OT)
-","France (Territoires)","FRAT","ATF"
+"FRAT",NA,"France (OT)","France (Territoires)","FRAT","ATF"
 "FRO",NA,"Faroe Islands","Îles Féroé",NA,"FRO"
 "GBR",NA,"United Kingdom of Great Britain and Northern Ireland","Royaume-Uni de Grande-Bretagne et d'Irlande du Nord","GBR","GBR"
-"GBRT",NA,"United Kingdom of Great Britain and Northern Ireland (BIOT)
-","Royaume-Uni de Grande-Bretagne et d’Irlande (Territoires)",NA,"IOT"
+"GBRT",NA,"United Kingdom of Great Britain and Northern Ireland (BIOT)","Royaume-Uni de Grande-Bretagne et d’Irlande (Territoires)",NA,"IOT"
 "GEO",NA,"Georgia","Géorgie",NA,"GEO"
 "GHA",NA,"Ghana","Ghana",NA,"GHA"
 "GIN",NA,"Guinea","Guinée",NA,"GIN"

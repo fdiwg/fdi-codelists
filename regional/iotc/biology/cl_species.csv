@@ -135,7 +135,7 @@
 "DKK",NA,"Leatherback turtle","Tortue luth","Dermochelys coriacea","OTHERS","TURTLES","Dermochelyidae","Testudines",FALSE,FALSE,TRUE,FALSE,TRUE
 "DKS",NA,"Salvin's albatross","Albatros de Salvin","Thalassarche salvini","OTHERS","SEABIRDS","Diomedeidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
 "DLP",NA,"Dolphins nei","Dauphins nca","Delphinidae","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,TRUE,TRUE
-"DOB ",NA,"Dorab wolf-herring","Chirocentre dorab","Chirocentrus dorab","OTHERS","OTHERS","Chirocentridae","Clupeiformes",FALSE,FALSE,FALSE,FALSE,TRUE
+"DOB",NA,"Dorab wolf-herring","Chirocentre dorab","Chirocentrus dorab","OTHERS","OTHERS","Chirocentridae","Clupeiformes",FALSE,FALSE,FALSE,FALSE,TRUE
 "DOL",NA,"Common dolphinfish","Coryphène commune","Coryphaena hippurus","OTHERS","OTHERS","Coryphaenidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
 "DOP",NA,"Shortnose spurdog","Aiguillat nez court","Squalus megalops","SHARKS","SHARKS","Squalidae","Squaliformes",FALSE,TRUE,FALSE,FALSE,TRUE
 "DOT",NA,"Dogtooth tuna","Bonite à gros yeux","Gymnosarda unicolor","OTHERS","OTHERS","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
