@@ -1,8 +1,8 @@
 "code","uri","label_en","label_fr","is_mechanized"
-"MI",NA,"Mechanized inboard boat ","Bateau à moteur intra-bord",TRUE
-"MO",NA,"Mechanized outboard boat","Bateau à moteur hors-bord",TRUE
-"MU",NA,"Mechanized boat (unspecific)","Bateau mécanisé (non-spécifié)",TRUE
-"NM",NA,"Non-mechanized boat","Bateau non-mécanisé",FALSE
-"NS",NA,"Non-mechanized sailing boat","Bateau voilier non-mécanisé",FALSE
-"SO",NA,"Shore operated gears (manned)","La pêche côtière (sans bateau)",FALSE
-"UN",NA,"Unknown","<TBD>",FALSE
+"MI",NA,"Mechanized inboard boat ","Bateau à moteur intra-bord",1
+"MO",NA,"Mechanized outboard boat","Bateau à moteur hors-bord",1
+"MU",NA,"Mechanized boat (unspecific)","Bateau mécanisé (non-spécifié)",1
+"NM",NA,"Non-mechanized boat","Bateau non-mécanisé",0
+"NS",NA,"Non-mechanized sailing boat","Bateau voilier non-mécanisé",0
+"SO",NA,"Shore operated gears (manned)","La pêche côtière (sans bateau)",0
+"UN",NA,"Unknown","Inconnu",0

@@ -1,7 +1,7 @@
 "code","uri","label_en","label_fr","is_dfob"
-"AFAD",NA,"Anchored FAD","DCP ancré",FALSE
-"ANLOG",NA,"Natural object of animal origin","Objet naturel d'origine animale",TRUE
-"DFAD",NA,"Drifting FAD","DCP dérivant",TRUE
-"FALOG",NA,"Artificial object resulting from human activity (and related to fishing activities)","Objet artificiel provenant d'activités anthropiques (liées à des activités de pêche)",TRUE
-"HALOG",NA,"Artificial object resulting from human activity (not related to fishing activities)","Objet artificiel provenant d'activités anthropiques (non liées à des activités de pêche)",TRUE
-"VNLOG",NA,"Natural object of plant origin","Objet naturel d'origine végétale",TRUE
+"AFAD",NA,"Anchored FAD","DCP ancré",0
+"ANLOG",NA,"Natural object of animal origin","Objet naturel d'origine animale",1
+"DFAD",NA,"Drifting FAD","DCP dérivant",1
+"FALOG",NA,"Artificial object resulting from human activity (and related to fishing activities)","Objet artificiel provenant d'activités anthropiques (liées à des activités de pêche)",1
+"HALOG",NA,"Artificial object resulting from human activity (not related to fishing activities)","Objet artificiel provenant d'activités anthropiques (non liées à des activités de pêche)",1
+"VNLOG",NA,"Natural object of plant origin","Objet naturel d'origine végétale",1

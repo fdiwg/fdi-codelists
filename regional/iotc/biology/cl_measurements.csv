@@ -23,12 +23,7 @@
 "HD",NA,"Headed-and-gutted weight","Poids étêté et éviscéré","Weight of the fish after removal of the head and guts","Poids du poisson après ablation de la tête et des viscères"
 "HG",NA,"Headed, gutted and tailed weight","Poids étêté, éviscéré et sans nageoire caudale","Weight of the fish after removal of the head, guts, and tail","Poids du poisson après ablation de la tête, des viscères et de la nageoire caudale"
 "HT",NA,"Headed and tailed weight","Poids étêté et sans nageoire caudale","Weight of the fish after removal of the head and tail","Poids du poisson après ablation de la tête et de la nageoire caudale"
-"PD",NA,"Headed and caudal peduncle-off weight","Poids étêté et sans pécondule caudal
-","Weight of the fish after removal of the head and caudal peduncle
-","Poids du poisson après ablation de la tête et du pédoncule caudal"
+"PD",NA,"Headed and caudal peduncle-off weight","Poids étêté et sans pécondule caudal","Weight of the fish after removal of the head and caudal peduncle","Poids du poisson après ablation de la tête et du pédoncule caudal"
 "PR",NA,"Processed weight","Poids transformé","Weight of the fish processed without information on the type of processing and/or parts removed","Poids du poisson transformé sans information sur le type de transformation et/ou les parties retirées"
 "RD",NA,"Round weight","Poids brut","Weight of the whole fish before processing or removal of any part","Poids du poisson entier avant transformation ou ablation de toute partie"
-"UN",NA,"Unknown weight measurement
-","Mesure de poids inconnue
-","Unknown weight measurement
-","Mesure de poids inconnue"
+"UN",NA,"Unknown weight measurement","Mesure de poids inconnue","Unknown weight measurement","Mesure de poids inconnue"

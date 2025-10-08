@@ -1,9 +1,9 @@
 "code","uri","label_en","label_fr","is_alive"
-"A0",NA,"Alive - excellent condition","Vivant - condition excellente",TRUE
-"A1",NA,"Alive - active, healthy","Vivant - actif, en bonne santé",TRUE
-"A2",NA,"Alive - injured, distressed","Vivant - blessé, en détresse",TRUE
-"A3",NA,"Alive - very weak, dying","Vivant - très faible, mourant",TRUE
-"AU",NA,"Alive - unknown condition","Vivan - condition inconnue",TRUE
-"DE",NA,"Dead","Mort",FALSE
-"ST",NA,"Stunned - condition unknown","Étourdi - état inconnu",FALSE
-"UN",NA,"Condition unknown","Etat inconnu",FALSE
+"A0",NA,"Alive - excellent condition","Vivant - condition excellente",1
+"A1",NA,"Alive - active, healthy","Vivant - actif, en bonne santé",1
+"A2",NA,"Alive - injured, distressed","Vivant - blessé, en détresse",1
+"A3",NA,"Alive - very weak, dying","Vivant - très faible, mourant",1
+"AU",NA,"Alive - unknown condition","Vivant - condition inconnue",1
+"DE",NA,"Dead","Mort",0
+"ST",NA,"Stunned - condition unknown","Assommé - état inconnu",0
+"UN",NA,"Condition unknown","Etat inconnu",0
