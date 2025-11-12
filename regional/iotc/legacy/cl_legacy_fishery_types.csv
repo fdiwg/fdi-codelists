@@ -1,4 +1,4 @@
 "code","uri","label_en","label_fr"
-"AR",NA,"Artisanal","Pêcheries artisanales"
-"IN",NA,"Industrial","Pêcheries industrielles"
+"IND",NA,"Industrial fisheries","Pêcheries industrielles"
+"ART",NA,"Artisanal fisheries","Pêcheries artisanales"
 "SI",NA,"Semi-industrial","Pêcheries semi-industrielles"

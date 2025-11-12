@@ -1,404 +1,431 @@
 "code","uri","label_en","label_fr","scientific_name","species_group_code","species_category_code","taxa_family","taxa_order","is_iotc","is_target","is_ssi","is_aggregate","is_asfis"
-"ABL",NA,"Attentive carplet",NA,"Amblypharyngodon melettinus","OTHERS","OTHERS","Cyprinidae","Cypriniformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"AG_CETACEANS",NA,"Cetaceans nei","Cétacés nca",NA,"OTHERS","CETACEANS",NA,NA,FALSE,FALSE,TRUE,TRUE,FALSE
-"AG01",NA,"Black marlin and striped marlin","Marlin noir et marlin rayé","Makaira nigricans; Tetrapturus audax","BILLFISH","BILLFISH",NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE
-"AG02",NA,"Indo-Pacific sailfish and shortbill spearfish","Voilier indo-pacifique et makaire à rostre court","Istiophorus platypterus; Tetrapturus angustirostris","BILLFISH","BILLFISH",NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE
-"AG06",NA,"Kawakawa, frigate and bullet tunas","Thonine orientale, auxide et bonitou ","Euthynnus affinis; Auxis spp","TUNAS","NERITIC",NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE
-"AG07",NA,"Longtail tuna and kawakawa","Thon mignon et thonine orientale","Thunnus tonggol; Euthynnus affinis","TUNAS","NERITIC",NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE
-"AG10",NA,"Skipjack tuna and kawakawa","Listao et thonine orientale","Katsuwonus pelamis; Euthynnus affinis","TUNAS","TUNAS_NEI",NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE
-"AG21",NA,"Sharks nei other than oceanic whitetip shark and blue shark","Espèces de requins autres que le requin océanique et le requin peau bleue","Selachimorpha (Pleurotremata); needs update","SHARKS","SHARKS",NA,NA,FALSE,TRUE,FALSE,TRUE,FALSE
-"AG35",NA,"Yellowfin tuna and skipjack tuna","Albacore et listao","Thunnus albacares; Katsuwonus pelamis","TUNAS","TROPICAL",NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE
-"AG38",NA,"Blue shark, shortfin mako, oceanic whitetip shark","Requin peau bleue, requin-taupe bleu et requin océanique","Prionace glauca; Isurus oxyrinchus; Carcharhinus longimanus","SHARKS","SHARKS",NA,NA,FALSE,TRUE,FALSE,TRUE,FALSE
-"AG47",NA,"Common dolphinfish and rainbow runner","Coryphène commune et comète saumon","Elagatis bipinnulata, Coryphaena hippurus","OTHERS","OTHERS",NA,NA,FALSE,TRUE,FALSE,TRUE,FALSE
-"AG51",NA,"Seabirds nei","Oiseaux de mer nca",NA,"OTHERS","SEABIRDS",NA,NA,FALSE,FALSE,TRUE,TRUE,FALSE
-"AGN",NA,"Angelshark","Ange de mer commun","Squatina squatina","SHARKS","SHARKS","Squatinidae","Squatiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"ALB",NA,"Albacore","Germon","Thunnus alalunga","TUNAS","TEMPERATE","Scombridae","Scombroidei",TRUE,TRUE,FALSE,FALSE,TRUE
-"ALI",NA,"Lancetfishes nei",NA,"Alepisaurus spp","OTHERS","OTHERS","Alepisauridae","Aulopiformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"ALM",NA,"Unicorn leatherjacket filefish","Bourse loulou","Aluterus monoceros","OTHERS","OTHERS","Monacanthidae","Tetraodontiformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"ALN",NA,"Scribbled leatherjac. filefish","Bourse écriture","Aluterus scriptus","OTHERS","OTHERS","Monacanthidae","Tetraodontiformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"ALO",NA,"Short snouted lancetfish","Lancier à nez court","Alepisaurus brevirostris","OTHERS","OTHERS","Alepisauridae","Aulopiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"ALS",NA,"Silvertip shark","Requin pointe blanche","Carcharhinus albimarginatus","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"ALT",NA,"Leatherjacket filefishes",NA,"Aluterus spp","OTHERS","OTHERS","Monacanthidae","Tetraodontiformes",FALSE,FALSE,FALSE,TRUE,TRUE
-"ALV",NA,"Thresher","Renard","Alopias vulpinus","SHARKS","SHARKS","Alopiidae","Lamniformes",FALSE,TRUE,TRUE,FALSE,TRUE
-"ALX",NA,"Long snouted lancetfish","Lancier longnez","Alepisaurus ferox","OTHERS","OTHERS","Alepisauridae","Aulopiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"ALZ",NA,"Albatrosses nei","Albatros nca","Diomedeidae","OTHERS","SEABIRDS","Diomedeidae","Procellariiformes",FALSE,FALSE,TRUE,TRUE,TRUE
-"AMB",NA,"Greater amberjack","Sériole couronnée","Seriola dumerili","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"AML",NA,"Grey reef shark","Requin dagsit","Carcharhinus amblyrhynchos","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"AMX",NA,"Amberjacks nei","Sérioles nca","Seriola spp","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,TRUE,FALSE,TRUE,TRUE
-"ANX",NA,"Anchovies, etc. nei","Anchois, etc. nca","Engraulidae","OTHERS","OTHERS","Engraulidae","Clupeiformes",FALSE,FALSE,FALSE,TRUE,TRUE
-"APO",NA,"Cardinalfishes, etc. nei","Apogonidés nca","Apogonidae","OTHERS","OTHERS","Apogonidae","Percoidei",FALSE,TRUE,FALSE,TRUE,TRUE
-"ASM",NA,"Australian spotted mackerel","Thazard australien","Scomberomorus munroi","OTHERS","OTHERS","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"ASZ",NA,"Razorback scabbardfish","Poisson-sabre rasoir","Assurger anzac","OTHERS","OTHERS","Trichiuridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"AVR",NA,"Green jobfish","Vivaneau job","Aprion virescens","OTHERS","OTHERS","Lutjanidae","Percoidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"BAB",NA,"Blackfin barracuda",NA,"Sphyraena qenie","OTHERS","OTHERS","Sphyraenidae","Other perciformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"BAF",NA,"Flat needlefish","Orphie plate","Ablennes hians","OTHERS","OTHERS","Belonidae","Beloniformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"BAO",NA,"Longfin batfish","Platax à longues nageoires","Platax teira","OTHERS","OTHERS","Ephippidae","Acanthuroidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"BAR",NA,"Barracudas nei","Bécunes nca","Sphyraena spp","OTHERS","OTHERS","Sphyraenidae","Other perciformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"BAT",NA,"Batfishes","Poules d'eau","Platax spp","OTHERS","OTHERS","Ephippidae","Acanthuroidei",FALSE,FALSE,FALSE,TRUE,TRUE
-"BAU",NA,"Australian bonito","Bonite bagnard","Sarda australis","OTHERS","OTHERS","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"BAW",NA,"Arnoux's beaked whale","Béradien d'Arnoux","Berardius arnuxii","OTHERS","CETACEANS","Ziphiidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"BBM",NA,"Broad-barred king mackerel","Thazard tigré","Scomberomorus semifasciatus","OTHERS","OTHERS","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"BBW",NA,"Blainville's beaked whale","Baleine à bec de Blainville","Mesoplodon densirostris","OTHERS","CETACEANS","Ziphiidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"BCW",NA,"Cuvier's beaked whale","Ziphius","Ziphius cavirostris","OTHERS","CETACEANS","Ziphiidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"BDL",NA,"Elongate frostfish","Poisson-sabre long","Benthodesmus elongatus","OTHERS","OTHERS","Trichiuridae","Scombroidei",FALSE,NA,FALSE,FALSE,TRUE
-"BDW",NA,"Andrews' beaked whale","Baleine à bec de Bowdoin","Mesoplodon bowdoini","OTHERS","CETACEANS","Ziphiidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"BEN",NA,"Needlefishes, etc. nei","Aiguilles, orphies nca","Belonidae","OTHERS","OTHERS","Belonidae","Beloniformes",FALSE,FALSE,FALSE,TRUE,TRUE
-"BET",NA,"Bigeye tuna","Thon obèse(=Patudo)","Thunnus obesus","TUNAS","TROPICAL","Scombridae","Scombroidei",TRUE,TRUE,FALSE,FALSE,TRUE
-"BFT",NA,"Atlantic bluefin tuna","Thon rouge de l'Atlantique","Thunnus thynnus","TUNAS","TEMPERATE","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"BHW",NA,"Hector's beaked whale","Baleine à bec d'Hector","Mesoplodon hectori","OTHERS","CETACEANS","Ziphiidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"BIL",NA,"Marlins,sailfishes,etc. nei","Makaires,marlins,voiliers nca","Istiophoridae","BILLFISH","BILLFISH","Istiophoridae","Scombroidei",TRUE,TRUE,FALSE,TRUE,TRUE
-"BIP",NA,"Striped bonito","Bonite oriental","Sarda orientalis","OTHERS","OTHERS","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"BIS",NA,"Bigeye scad","Sélar coulisou","Selar crumenophthalmus","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"BLM",NA,"Black marlin","Makaire noir","Istiompax indica","BILLFISH","BILLFISH","Istiophoridae","Scombroidei",TRUE,TRUE,TRUE,FALSE,TRUE
-"BLR",NA,"Blacktip reef shark","Requin pointes noires","Carcharhinus melanopterus","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"BLT",NA,"Bullet tuna","Bonitou","Auxis rochei","TUNAS","NERITIC","Scombridae","Scombroidei",TRUE,TRUE,FALSE,FALSE,TRUE
-"BLW",NA,"Blue whale","Rorqual bleu","Balaenoptera musculus","OTHERS","CETACEANS","Balaenopteridae","Mysticeti",FALSE,FALSE,TRUE,FALSE,TRUE
-"BNW",NA,"Longman's beaked whale","Baleine à bec de Longman","Indopacetus pacificus","OTHERS","CETACEANS","Ziphiidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"BOC",NA,"Boarfish","Sanglier","Capros aper","OTHERS","OTHERS","Caproidae","Zeiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"BOG",NA,"Bogue","Bogue","Boops boops","OTHERS","OTHERS","Sparidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"BON",NA,"Atlantic bonito","Bonite à dos rayé","Sarda sarda","OTHERS","OTHERS","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"BRA",NA,NA,NA,"Brama spp","OTHERS","OTHERS","Bramidae","Percoidei",FALSE,TRUE,FALSE,TRUE,TRUE
-"BRO",NA,"Copper shark","Requin cuivre","Carcharhinus brachyurus","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"BRW",NA,"Bryde's whale","Rorqual de Bryde","Balaenoptera edeni","OTHERS","CETACEANS","Balaenopteridae","Mysticeti",FALSE,FALSE,TRUE,FALSE,TRUE
-"BRZ",NA,"Pomfrets, ocean breams nei","Castagnoles nca","Bramidae","OTHERS","OTHERS","Bramidae","Percoidei",FALSE,TRUE,FALSE,TRUE,TRUE
-"BSH",NA,"Blue shark","Peau bleue","Prionace glauca","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"BSK",NA,"Basking shark","Pèlerin","Cetorhinus maximus","SHARKS","SHARKS","Cetorhinidae","Lamniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"BSR",NA,"Brazilian sardinella","Sardinelle de Brésil","Sardinella brasiliensis","OTHERS","OTHERS","Clupeidae","Clupeiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"BSW",NA,"Sherpherd's beaked whale","Tasmacète","Tasmacetus shepherdi","OTHERS","CETACEANS","Ziphiidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"BSX",NA,"Groupers, seabasses nei","Serranidés nca","Serranidae","OTHERS","OTHERS","Serranidae","Percoidei",FALSE,TRUE,FALSE,TRUE,TRUE
-"BTH",NA,"Bigeye thresher","Renard à gros yeux","Alopias superciliosus","SHARKS","SHARKS","Alopiidae","Lamniformes",FALSE,TRUE,TRUE,FALSE,TRUE
-"BTS",NA,"Hound needlefish","Aiguille crocodile","Tylosurus crocodilus","OTHERS","OTHERS","Belonidae","Beloniformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"BUK",NA,"Butterfly kingfish","Thon papillon","Gasterochisma melampus","OTHERS","OTHERS","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"BUM",NA,"Blue marlin","Makaire bleu","Makaira nigricans","BILLFISH","BILLFISH","Istiophoridae","Scombroidei",TRUE,TRUE,TRUE,FALSE,TRUE
-"BVV",NA,"Yellowmouth barracuda","Bécune bouche jaune","Sphyraena viridensis","OTHERS","OTHERS","Sphyraenidae","Other perciformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"BXD",NA,"Alfonsino","Béryx commun","Beryx decadactylus","OTHERS","OTHERS","Berycidae","Beryciformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"BXQ",NA,"Marlins nei","Makaires nca","Makaira spp","BILLFISH","BILLFISH","Istiophoridae","Scombroidei",TRUE,FALSE,FALSE,TRUE,TRUE
-"BYW",NA,"Gray's beaked whale","Baleine à bec de Gray","Mesoplodon grayi","OTHERS","CETACEANS","Ziphiidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"CAT",NA,"Wolffishes(=Catfishes) nei","Loups nca","Anarhichas spp","OTHERS","OTHERS","Anarhichadidae","Zoarcoidei",FALSE,FALSE,FALSE,TRUE,TRUE
-"CCA",NA,"Bignose shark","Requin babosse","Carcharhinus altimus","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"CCB",NA,"Spinner shark","Requin tisserand","Carcharhinus brevipinna","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"CCC",NA,"Nervous shark","Requin nerveux","Carcharhinus cautus","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"CCD",NA,"Whitecheek shark","Requin à joues blanches","Carcharhinus dussumieri","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"CCE",NA,"Bull shark","Requin bouledogue","Carcharhinus leucas","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"CCG",NA,"Galapagos shark","Requin des Galapagos","Carcharhinus galapagensis","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"CCI",NA,"Blackspot shark","Requin à tache noir","Carcharhinus sealei","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"CCL",NA,"Blacktip shark","Requin bordé","Carcharhinus limbatus","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"CCM",NA,"Hardnose shark","Requin à nez rude","Carcharhinus macloti","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"CCO",NA,"Finetooth shark","Requin à petites dents","Carcharhinus isodon","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"CCP",NA,"Sandbar shark","Requin gris","Carcharhinus plumbeus","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"CCQ",NA,"Spottail shark","Requin à queue tachetée","Carcharhinus sorrah","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"CCY",NA,"Graceful shark","Requin gracile","Carcharhinus amblyrhynchoides","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"CEM",NA,"Smallfin gulper shark","Squale-chagrin cagaou","Centrophorus moluccensis","SHARKS","SHARKS","Centrophoridae","Squaliformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"CEO",NA,"Rudderfish","Centrolophe noir","Centrolophus niger","OTHERS","OTHERS","Centrolophidae","Stromateoidei, anabantoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"CEP",NA,"Cephalopods nei","Céphalopodes nca","Cephalopoda","OTHERS","OTHERS",NA,"Cephalopoda",FALSE,FALSE,FALSE,TRUE,TRUE
-"CFW",NA,"Pompano dolphinfish",NA,"Coryphaena equiselis","OTHERS","OTHERS","Coryphaenidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"CGD",NA,"Burmese river gizzard shad",NA,"Gonialosa modesta","OTHERS","OTHERS","Clupeidae","Clupeiformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"CGX",NA,"Carangids nei","Carangidés nca","Carangidae","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,TRUE,FALSE,TRUE,TRUE
-"CHP",NA,"Pacific sardine","Sardine du Pacifique","Sardinops sagax","OTHERS","OTHERS","Clupeidae","Clupeiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"CJX",NA,"Fusiliers nei","Fusiliers nca","Caesionidae","OTHERS","OTHERS","Caesionidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"CLD",NA,"Sliteye shark","Requin sagrin","Loxodon macrorhinus","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"CLP",NA,"Herrings, sardines nei","Harengs, sardines nca","Clupeidae","OTHERS","OTHERS","Clupeidae","Clupeiformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"CMD",NA,"Commerson's dolphin","Dauphin de Commerson","Cephalorhynchus commersonii","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"CNT",NA,"Rough triggerfish","Baliste rude","Canthidermis maculata","OTHERS","OTHERS","Balistidae","Tetraodontiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"COM",NA,"Narrow-barred Spanish mackerel","Thazard rayé indo-pacifique","Scomberomorus commerson","SEERFISH","SEERFISH","Scombridae","Scombroidei",TRUE,TRUE,FALSE,FALSE,TRUE
-"CPM",NA,"Pygmy right whale","Baleine pygmée","Caperea marginata","OTHERS","CETACEANS","Neobalaenidae","Mysticeti",FALSE,FALSE,TRUE,FALSE,TRUE
-"CPT",NA,"Australian swellshark","Holbiche gressouillette","Cephaloscyllium laticeps","OTHERS","OTHERS","Scyliorhinidae","Carcharhiniformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"CPU",NA,"Little gulper shark","Petit squale-chagrin","Centrophorus uyato","SHARKS","SHARKS","Centrophoridae","Squaliformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"CTU",NA,"Gummy shark","Émissole gommée","Mustelus antarcticus","SHARKS","SHARKS","Triakidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"CUT",NA,"Hairtails, scabbardfishes nei","Poissons-sabres, sabres nca","Trichiuridae","OTHERS","OTHERS","Trichiuridae","Scombroidei",FALSE,TRUE,FALSE,TRUE,TRUE
-"CVX",NA,"Ground sharks",NA,"Carcharhiniformes","SHARKS","SHARKS",NA,"Carcharhiniformes",FALSE,FALSE,FALSE,TRUE,TRUE
-"CWZ",NA,"Carcharhinus sharks nei","Requins Carcharhinus nca","Carcharhinus spp","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"CXS",NA,"Bigeye trevally","Carangue vorace","Caranx sexfasciatus","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"CYT",NA,"Ornate dogfish","Aiguillat élégant","Centroscyllium ornatum","SHARKS","SHARKS","Etmopteridae","Squaliformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"DAC",NA,"Cape petrel","Damier du Cap","Daption capense","OTHERS","SEABIRDS","Procellariidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"DAM",NA,"Amsterdam Island albatross","Albatros de l'île d'Amsterdam","Diomedea amsterdamensis","OTHERS","SEABIRDS","Diomedeidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"DBM",NA,"Double-lined mackerel","Thazard-kusara","Grammatorcynus bilineatus","OTHERS","OTHERS","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"DBN",NA,"Tristan albatross","Albatros de Tristan","Diomedea dabbenena","OTHERS","SEABIRDS","Diomedeidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"DBO",NA,"Bottlenose dolphin","Grand dauphin","Tursiops truncatus","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"DCO",NA,"Common dolphin","Dauphin commun","Delphinus delphis","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"DCR",NA,"Atlant. yellow-nosed albatross","Albatros à nez jaune","Thalassarche chlororhynchos","OTHERS","SEABIRDS","Diomedeidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"DCU",NA,"Shy albatross","Albatros timide","Thalassarche cauta","OTHERS","SEABIRDS","Diomedeidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"DDD",NA,"Indo-Pacific sergeant",NA,"Abudefduf vaigiensis","OTHERS","OTHERS","Pomacentridae","Percoidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"DDU",NA,"Dusky dolphin","Dauphin sombre","Lagenorhynchus obscurus","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"DER",NA,"Chatham Islands albatross","Albatros des Chatham","Thalassarche eremita","OTHERS","SEABIRDS","Diomedeidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"DGZ",NA,"Dogfishes nei","Aiguillats nca","Squalus spp","SHARKS","SHARKS","Squalidae","Squaliformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"DHI",NA,"Indo-Pac. hump-backed dolphin","Dauphin à bosse indo-pacifique","Sousa chinensis","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"DHO",NA,"Longspined porcupinefish","Porc-épic ballon","Diodon holocanthus","OTHERS","OTHERS","Diodontidae","Tetraodontiformes",FALSE,NA,FALSE,FALSE,TRUE
-"DIB",NA,"Buller's albatross","Albatros de Buller","Thalassarche bulleri","OTHERS","SEABIRDS","Diomedeidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"DIC",NA,"Grey-headed albatross","Albatros à tête grise","Thalassarche chrysostoma","OTHERS","SEABIRDS","Diomedeidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"DIM",NA,"Black-browed albatross","Albatros à sourcils noirs","Thalassarche melanophris","OTHERS","SEABIRDS","Diomedeidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"DIO",NA,"Globefish, porcupine fish","Porcs-épics","Diodontidae","OTHERS","OTHERS","Diodontidae","Tetraodontiformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"DIP",NA,"Southern royal albatross","Albatros royal","Diomedea epomophora","OTHERS","SEABIRDS","Diomedeidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"DIQ",NA,"Northern royal albatross","Albatros royal du Nord","Diomedea sanfordi","OTHERS","SEABIRDS","Diomedeidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"DIX",NA,"Wandering albatross","Albatros hurleur","Diomedea exulans","OTHERS","SEABIRDS","Diomedeidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"DIY",NA,"Spotted porcupinefish","Porc-épic boubou","Diodon hystrix","OTHERS","OTHERS","Diodontidae","Tetraodontiformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"DKK",NA,"Leatherback turtle","Tortue luth","Dermochelys coriacea","OTHERS","TURTLES","Dermochelyidae","Testudines",FALSE,FALSE,TRUE,FALSE,TRUE
-"DKS",NA,"Salvin's albatross","Albatros de Salvin","Thalassarche salvini","OTHERS","SEABIRDS","Diomedeidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"DLP",NA,"Dolphins nei","Dauphins nca","Delphinidae","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,TRUE,TRUE
-"DOB",NA,"Dorab wolf-herring","Chirocentre dorab","Chirocentrus dorab","OTHERS","OTHERS","Chirocentridae","Clupeiformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"DOL",NA,"Common dolphinfish","Coryphène commune","Coryphaena hippurus","OTHERS","OTHERS","Coryphaenidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"DOP",NA,"Shortnose spurdog","Aiguillat nez court","Squalus megalops","SHARKS","SHARKS","Squalidae","Squaliformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"DOT",NA,"Dogtooth tuna","Bonite à gros yeux","Gymnosarda unicolor","OTHERS","OTHERS","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"DOX",NA,"Dolphinfishes nei","Coryphènes nca","Coryphaenidae","OTHERS","OTHERS","Coryphaenidae","Percoidei",FALSE,TRUE,FALSE,TRUE,TRUE
-"DPN",NA,"Pantropical spotted dolphin","Dauphin tacheté pantropical","Stenella attenuata","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"DQP",NA,"Pomfrets nei",NA,"Taractichthys spp","OTHERS","OTHERS","Bramidae","Percoidei",FALSE,FALSE,FALSE,TRUE,TRUE
-"DQS",NA,"Antipodean albatross","Albatros des antipodes","Diomedea antipodensis","OTHERS","SEABIRDS","Diomedeidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"DRR",NA,"Risso's dolphin","Grampus","Grampus griseus","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"DSI",NA,"Spinner dolphin","Dauphin longirostre","Stenella longirostris","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"DSP",NA,"Spotted dolphins nei","Dauphins tachetés nca","Stenella spp","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,TRUE,TRUE
-"DST",NA,"Striped dolphin","Dauphin bleu et blanc","Stenella coeruleoalba","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"DUS",NA,"Dusky shark","Requin de sable","Carcharhinus obscurus","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"DWW",NA,"Dwarf sperm whale","Cachalot nain","Kogia sima","OTHERS","CETACEANS","Kogiidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"EAG",NA,"Eagle rays nei","Aigles de mer nca","Myliobatidae","SHARKS","RAYS","Myliobatidae","Myliobatiformes",FALSE,FALSE,FALSE,TRUE,TRUE
-"ECN",NA,"Suckerfishes, remoras nei","Rémoras nca","Echeneidae","OTHERS","OTHERS","Echeneidae","Percoidei",FALSE,FALSE,FALSE,TRUE,TRUE
-"EEN",NA,"Giant grouper","Mérou lancéolé","Epinephelus lanceolatus","OTHERS","OTHERS","Serranidae","Percoidei",FALSE,NA,FALSE,FALSE,TRUE
-"EHN",NA,"Live sharksucker","Rémora commun","Echeneis naucrates","OTHERS","OTHERS","Echeneidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"EJA",NA,"Needle cuttlefish","Seiche aiguille","Sepia aculeata","OTHERS","OTHERS","Sepiidae","Cephalopoda",FALSE,TRUE,FALSE,FALSE,TRUE
-"ENR",NA,"Anchovies nei","Anchois nca","Engraulis spp","OTHERS","OTHERS","Engraulidae","Clupeiformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"EUA",NA,"Southern right whale","Baleine australe","Eubalaena australis","OTHERS","CETACEANS","Balaenidae","Mysticeti",FALSE,FALSE,TRUE,FALSE,TRUE
-"EUB",NA,"Winghead shark",NA,"Eusphyra blochii","SHARKS","SHARKS","Sphyrnidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"FAL",NA,"Silky shark","Requin soyeux","Carcharhinus falciformis","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"FAW",NA,"False killer whale","Faux-orque","Pseudorca crassidens","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"FBT",NA,"Flatback turtle","Tortue plate","Natator depressus","OTHERS","TURTLES","Cheloniidae","Testudines",FALSE,FALSE,TRUE,FALSE,TRUE
-"FIW",NA,"Fin whale","Rorqual commun","Balaenoptera physalus","OTHERS","CETACEANS","Balaenopteridae","Mysticeti",FALSE,FALSE,TRUE,FALSE,TRUE
-"FLE",NA,"European flounder","Flet d'Europe","Platichthys flesus","OTHERS","OTHERS","Pleuronectidae","Pleuronectiformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"FLY",NA,"Flyingfishes nei","Exocets nca","Exocoetidae","OTHERS","OTHERS","Exocoetidae","Beloniformes",FALSE,FALSE,FALSE,TRUE,TRUE
-"FRD",NA,"Fraser's dolphin","Dauphin de Fraser","Lagenodelphis hosei","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"FRI",NA,"Frigate tuna","Auxide","Auxis thazard","TUNAS","NERITIC","Scombridae","Scombroidei",TRUE,TRUE,FALSE,FALSE,TRUE
-"FRZ",NA,"Frigate and bullet tunas","Auxide et bonitou","Auxis thazard, A. rochei","TUNAS","NERITIC","Scombridae","Scombroidei",TRUE,TRUE,FALSE,TRUE,TRUE
-"GAG",NA,"Tope shark","Requin-hâ","Galeorhinus galeus","SHARKS","SHARKS","Triakidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"GAM",NA,"Mouse catshark","Chien islandais","Galeus murinus","SHARKS","SHARKS","Pentanchidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"GBA",NA,"Great barracuda","Barracuda","Sphyraena barracuda","OTHERS","OTHERS","Sphyraenidae","Other perciformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"GEP",NA,"Snake mackerels, escolars nei","Escoliers, rouvets nca","Gempylidae","OTHERS","OTHERS","Gempylidae","Scombroidei",FALSE,TRUE,FALSE,TRUE,TRUE
-"GES",NA,"Snake mackerel","Escolier serpent","Gempylus serpens","OTHERS","OTHERS","Gempylidae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"GLT",NA,"Golden trevally","Carangue royale","Gnathanodon speciosus","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"GRO",NA,"Groundfishes nei","Poissons de fond nca","Actinopterygii","OTHERS","OTHERS",NA,"Pisces miscellanea",FALSE,FALSE,FALSE,TRUE,TRUE
-"GSE",NA,"Goldenstriped soapfish",NA,"Grammistes sexlineatus","OTHERS","OTHERS","Serranidae","Percoidei",FALSE,NA,FALSE,FALSE,TRUE
-"GTF",NA,"Guitarfishes, etc. nei","Guitares, etc. nca","Rhinobatidae","OTHERS","OTHERS","Rhinobatidae","Rhinopristiformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"GUQ",NA,"Leafscale gulper shark","Squale-chagrin de l'Atlantique","Centrophorus squamosus","OTHERS","OTHERS","Centrophoridae","Squaliformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"GUT",NA,"Indo-Pacific king mackerel","Thazard ponctué indo-pacifique","Scomberomorus guttatus","SEERFISH","SEERFISH","Scombridae","Scombroidei",TRUE,TRUE,FALSE,FALSE,TRUE
-"GZX",NA,"Toothponies nei",NA,"Gazza spp","OTHERS","OTHERS","Leiognathidae","Percoidei",FALSE,FALSE,FALSE,TRUE,TRUE
-"HAY",NA,"Lined catshark","Holbiche des plages","Halaelurus lineatus","SHARKS","SHARKS","Pentanchidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"HCM",NA,"Hooktooth shark","Milandre harpon","Chaenogaleus macrostoma","SHARKS","SHARKS","Hemigaleidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"HEE",NA,"Snaggletooth shark",NA,"Hemipristis elongata","SHARKS","SHARKS","Hemigaleidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"HRD",NA,"Hourglass dolphin","Dauphin crucigére","Lagenorhynchus cruciger","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"HUW",NA,"Humpback whale","Baleine à bosse","Megaptera novaeangliae","OTHERS","CETACEANS","Balaenopteridae","Mysticeti",FALSE,FALSE,TRUE,FALSE,TRUE
-"HXN",NA,"Bigeyed sixgill shark","Requin-vache","Hexanchus nakamurai","SHARKS","SHARKS","Hexanchidae","Hexanchiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"HXT",NA,"Sharpnose sevengill shark","Requin perlon","Heptranchias perlo","SHARKS","SHARKS","Hexanchidae","Hexanchiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"HXW",NA,"Frilled and cow sharks",NA,"Hexanchiformes","SHARKS","SHARKS",NA,"Hexanchiformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"IAX",NA,"Cuttlefishes nei","Seiches nca","Sepia spp","OTHERS","OTHERS","Sepiidae","Cephalopoda",FALSE,FALSE,FALSE,FALSE,TRUE
-"IRD",NA,"Irrawaddy dolphin","Orcelle","Orcaella brevirostris","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"ISB",NA,"Cookie cutter shark","Squalelet féroce","Isistius brasiliensis","OTHERS","OTHERS","Dalatiidae","Squaliformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"JAA",NA,"Blue jack mackerel","Chinchard du large","Trachurus picturatus","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"JAN",NA,"Japanese anchovy","Anchois japonais","Engraulis japonicus","OTHERS","OTHERS","Engraulidae","Clupeiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"JAX",NA,"Jack and horse mackerels nei","Chinchards noirs nca","Trachurus spp","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,TRUE,FALSE,TRUE,TRUE
-"KAK",NA,"Kanadi kingfish","Thazard kanadi","Scomberomorus plurilineatus","SEERFISH","SEERFISH","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"KAW",NA,"Kawakawa","Thonine orientale","Euthynnus affinis","TUNAS","NERITIC","Scombridae","Scombroidei",TRUE,TRUE,FALSE,FALSE,TRUE
-"KGX",NA,"Seerfishes nei","Thazards nca","Scomberomorus spp","SEERFISH","SEERFISH","Scombridae","Scombroidei",FALSE,TRUE,FALSE,TRUE,TRUE
-"KIW",NA,"Killer whale","Orque","Orcinus orca","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"KOS",NA,"Korean seerfish","Thazard coréen","Scomberomorus koreanus","SEERFISH","SEERFISH","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"KPW",NA,"Pygmy killer whale","Orque pygmée","Feresa attenuata","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"KYC",NA,"Blue sea chub","Calicagère bleue","Kyphosus cinerascens","OTHERS","OTHERS","Kyphosidae","Percoidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"KYP",NA,"Kyphosus sea chubs nei","Kyphosus calicagères nca","Kyphosus spp","OTHERS","OTHERS","Kyphosidae","Percoidei",FALSE,FALSE,FALSE,TRUE,TRUE
-"KYV",NA,"Brassy chub","Saupe grise à lignes jaunes","Kyphosus vaigiensis","OTHERS","OTHERS","Kyphosidae","Percoidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"LAG",NA,"Opah","Opah","Lampris guttatus","OTHERS","OTHERS","Lampridae","Lampriformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"LAI",NA,"Southern opah","Poisson des dieux austral","Lampris immaculatus","OTHERS","OTHERS","Lampridae","Lampriformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"LEB",NA,"Leaping bonito","Bonite à dos tacheté","Cybiosarda elegans","OTHERS","OTHERS","Scombridae","Scombroidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"LEC",NA,"Escolar","Escolier noir","Lepidocybium flavobrunneum","OTHERS","OTHERS","Gempylidae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"LEK",NA,"Unicorn crestfish",NA,"Eumecichthys fiski","OTHERS","OTHERS","Lophotidae","Lampriformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"LGE",NA,"Common ponyfish","Sapsap commun","Leiognathus equulus","OTHERS","OTHERS","Leiognathidae","Percoidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"LGH",NA,"Oceanic puffer","Compère océanique","Lagocephalus lagocephalus","OTHERS","OTHERS","Tetraodontidae","Tetraodontiformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"LHT",NA,"Largehead hairtail","Poisson-sabre commun","Trichiurus lepturus","OTHERS","OTHERS","Trichiuridae","Scombroidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"LIB",NA,"Brushtooth lizardfish","Anoli à grandes écailles","Saurida undosquamis","OTHERS","OTHERS","Synodontidae","Aulopiformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"LKV",NA,"Olive ridley turtle","Tortue olivatre","Lepidochelys olivacea","OTHERS","TURTLES","Cheloniidae","Testudines",FALSE,FALSE,TRUE,FALSE,TRUE
-"LLL",NA,"Crested oarfish","Poisson-ruban licorne","Lophotus lacepede","OTHERS","OTHERS","Lophotidae","Lampriformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"LMA",NA,"Longfin mako","Petite taupe","Isurus paucus","SHARKS","SHARKS","Lamnidae","Lamniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"LMD",NA,"Salmon shark","Requin-taupe saumon","Lamna ditropis","OTHERS","OTHERS","Lamnidae","Lamniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"LOB",NA,"Tripletail","Croupia roche","Lobotes surinamensis","OTHERS","OTHERS","Lobotidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"LOT",NA,"Longtail tuna","Thon mignon","Thunnus tonggol","TUNAS","NERITIC","Scombridae","Scombroidei",TRUE,TRUE,FALSE,FALSE,TRUE
-"LTA",NA,"Little tunny(=Atl.black skipj)","Thonine commune","Euthynnus alletteratus","TUNAS","TUNAS_NEI","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"LXR",NA,"Orbicular batfish","Poule d'eau","Platax orbicularis","OTHERS","OTHERS","Ephippidae","Acanthuroidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"MAA",NA,"Blue mackerel","Maquereau tacheté","Scomber australasicus","OTHERS","OTHERS","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"MAC",NA,"Atlantic mackerel","Maquereau commun","Scomber scombrus","OTHERS","OTHERS","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"MAE",NA,"Spotted eagle ray","Aigle de mer léopard","Aetobatus narinari","SHARKS","RAYS","Aetobatidae","Myliobatiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"MAH",NA,"Hall's giant petrel","Pétrel de Hall","Macronectes halli","OTHERS","SEABIRDS","Procellariidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"MAI",NA,"Antarctic giant petrel","Pétrel géant","Macronectes giganteus","OTHERS","SEABIRDS","Procellariidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"MAK",NA,"Mako sharks","Taupes","Isurus spp","SHARKS","SHARKS","Lamnidae","Lamniformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"MAN",NA,"Mantas, devil rays nei","Mantes, diables de mer nca","Mobulidae","SHARKS","RAYS","Mobulidae","Myliobatiformes",FALSE,TRUE,TRUE,TRUE,TRUE
-"MAS",NA,"Pacific chub mackerel","Maquereau espagnol Pacifique","Scomber japonicus","OTHERS","OTHERS","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"MAX",NA,"Mackerels nei","Maquereaux nca","Scombridae","OTHERS","OTHERS","Scombridae","Scombroidei",FALSE,TRUE,FALSE,TRUE,TRUE
-"MIL",NA,"Milkfish","Chano","Chanos chanos","OTHERS","OTHERS","Chanidae","Gonorynchiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"MIW",NA,"Minke whale","Petit rorqual","Balaenoptera acutorostrata","OTHERS","CETACEANS","Balaenopteridae","Mysticeti",FALSE,FALSE,TRUE,FALSE,TRUE
-"MLS",NA,"Striped marlin","Marlin rayé","Kajikia audax","BILLFISH","BILLFISH","Istiophoridae","Scombroidei",TRUE,TRUE,TRUE,FALSE,TRUE
-"MOO",NA,"Moonfish","Luneur","Mene maculata","OTHERS","OTHERS","Menidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"MOP",NA,"Sunfish",NA,"Mola spp","OTHERS","OTHERS","Molidae","Tetraodontiformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"MOX",NA,"Ocean sunfish","Poisson lune","Mola mola","OTHERS","OTHERS","Molidae","Tetraodontiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"MRJ",NA,"Flapnose ray",NA,"Rhinoptera javanica","SHARKS","RAYS","Rhinopteridae","Myliobatiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"MRW",NA,"Sharptail mola","Poisson-lune lancéolé","Masturus lanceolatus","OTHERS","OTHERS","Molidae","Tetraodontiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"MSB",NA,"River sardine",NA,"Mesobola brevianalis","OTHERS","OTHERS","Cyprinidae","Cypriniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"MSD",NA,"Mackerel scad","Comète maquereau","Decapterus macarellus","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"MSK",NA,"Mackerel sharks,porbeagles nei","Requins taupe nca","Lamnidae","SHARKS","SHARKS","Lamnidae","Lamniformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"MTM",NA,"Arabian smooth-hound","Émissole d'Arabie","Mustelus mosis","SHARKS","SHARKS","Triakidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"MWE",NA,"Cape gannet","Fou du Cap","Morus capensis","OTHERS","SEABIRDS","Sulidae","Pelecaniformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"MZZ",NA,"Marine fishes nei","Poissons marins nca","Actinopterygii","OTHERS","OTHERS",NA,"Pisces miscellanea",FALSE,FALSE,FALSE,TRUE,TRUE
-"NAU",NA,"Pilotfish","Poisson pilote","Naucrates ductor","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"NEN",NA,"Black gemfish","Escolier long nez","Nesiarchus nasutus","OTHERS","OTHERS","Gempylidae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"NGB",NA,"Lemon shark","Requin citron","Negaprion brevirostris","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"NGT",NA,"Island trevally","Carangue des îles","Carangoides orthogrammus","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"NHR",NA,"Largescale triggerfish",NA,"Canthidermis macrolepis","OTHERS","OTHERS","Balistidae","Tetraodontiformes",FALSE,NA,FALSE,FALSE,TRUE
-"NTC",NA,"Broadnose sevengill shark","Platnez","Notorynchus cepedianus","SHARKS","SHARKS","Hexanchidae","Hexanchiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"OCS",NA,"Oceanic whitetip shark","Requin océanique","Carcharhinus longimanus","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,TRUE,FALSE,TRUE
-"OCX",NA,"Carpet sharks",NA,"Orectolobiformes","OTHERS","OTHERS",NA,"Orectolobiformes",FALSE,FALSE,FALSE,TRUE,TRUE
-"ODH",NA,"Bigeye sand tiger shark","Requin noronhai","Odontaspis noronhai","SHARKS","SHARKS","Odontaspididae","Lamniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"ODN",NA,"Toothed whales nei","Baleines odontocètes nca","Odontoceti","OTHERS","CETACEANS",NA,"Odontoceti",FALSE,FALSE,TRUE,TRUE,TRUE
-"OIL",NA,"Oilfish","Rouvet","Ruvettus pretiosus","OTHERS","OTHERS","Gempylidae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"OMZ",NA,"Ommastrephidae squids nei","Encornets Ommastrephidae nca","Ommastrephidae","OTHERS","OTHERS","Ommastrephidae","Cephalopoda",FALSE,TRUE,FALSE,FALSE,TRUE
-"OQX",NA,"Bamboosharks nei",NA,"Chiloscyllium spp","SHARKS","SHARKS","Hemiscylliidae","Orectolobiformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"ORB",NA,"Brownbanded bambooshark","Requin-chabot bambou","Chiloscyllium punctatum","SHARKS","SHARKS","Hemiscylliidae","Orectolobiformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"ORI",NA,"Slender bambooshark","Requin-chabot élégant","Chiloscyllium indicum","SHARKS","SHARKS","Hemiscylliidae","Orectolobiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"ORR",NA,"Grey bambooshark","Requin-chabot gris","Chiloscyllium griseum","SHARKS","SHARKS","Hemiscylliidae","Orectolobiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"ORZ",NA,"Tawny nurse shark","Requin nourrice fauve","Nebrius ferrugineus","SHARKS","SHARKS","Ginglymostomatidae","Orectolobiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"OSF",NA,"Zebra shark","Requin zèbre","Stegostoma tigrinum","SHARKS","SHARKS","Stegostomatidae","Orectolobiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"OXY",NA,"Angular roughshark","Centrine commune","Oxynotus centrina","SHARKS","SHARKS","Oxynotidae","Squaliformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"PCI",NA,"Grey petrel","Puffin gris","Procellaria cinerea","OTHERS","SEABIRDS","Procellariidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"PCW",NA,"Westland petrel","Puffin du Westland","Procellaria westlandica","OTHERS","SEABIRDS","Procellariidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"PDM",NA,"Great-winged petrel","Pétrel noir","Pterodroma macroptera","OTHERS","SEABIRDS","Procellariidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"PFC",NA,"Flesh-footed shearwater","Puffin à pieds pâles","Puffinus carneipes","OTHERS","SEABIRDS","Procellariidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"PFG",NA,"Sooty shearwater","Puffin fuligineux","Puffinus griseus","OTHERS","SEABIRDS","Procellariidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"PFI",NA,"Finless porpoise","Marsouin aptère","Neophocaena phocaenoides","OTHERS","CETACEANS","Phocoenidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"PFT",NA,"Short-tailed shearwater","Puffin à bec grêle","Puffinus tenuirostris","OTHERS","SEABIRDS","Procellariidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"PHE",NA,"Light-mantled sooty albatross","Albatros fuligineux","Phoebetria palpebrata","OTHERS","SEABIRDS","Diomedeidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"PHT",NA,"Tardoore","Poisson-papier tarture","Opisthopterus tardoore","OTHERS","OTHERS","Pristigasteridae","Clupeiformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"PHU",NA,"Sooty albatross","Albatros brun","Phoebetria fusca","OTHERS","SEABIRDS","Diomedeidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"PIL",NA,"European pilchard(=Sardine)","Sardine commune","Sardina pilchardus","OTHERS","OTHERS","Clupeidae","Clupeiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"PIW",NA,"Long-finned pilot whale","Globicéphale commun","Globicephala melas","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"PLS",NA,"Pelagic stingray","Pastenague violette","Pteroplatytrygon violacea","SHARKS","RAYS","Dasyatidae","Myliobatiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"POA",NA,"Atlantic pomfret","Grande castagnole","Brama brama","OTHERS","OTHERS","Bramidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"POL",NA,"Pollack","Lieu jaune","Pollachius pollachius","OTHERS","OTHERS","Gadidae","Gadiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"POR",NA,"Porbeagle","Requin-taupe commun","Lamna nasus","SHARKS","SHARKS","Lamnidae","Lamniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"POY",NA,"Ponyfishes(=Slipmouths)","Sapsap","Leiognathus spp","OTHERS","OTHERS","Leiognathidae","Percoidei",FALSE,FALSE,FALSE,TRUE,TRUE
-"PRO",NA,"White-chinned petrel","Puffin à menton blanc","Procellaria aequinoctialis","OTHERS","SEABIRDS","Procellariidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"PRP",NA,"Roudi escolar","Escolier clair","Promethichthys prometheus","OTHERS","OTHERS","Gempylidae","Scombroidei",FALSE,NA,FALSE,FALSE,TRUE
-"PRU",NA,"Raconda",NA,"Raconda russeliana","OTHERS","OTHERS","Pristigasteridae","Clupeiformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"PSK",NA,"Crocodile shark","Requin crocodile","Pseudocarcharias kamoharai","SHARKS","SHARKS","Pseudocarchariidae","Lamniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"PTH",NA,"Pelagic thresher","Renard pélagique","Alopias pelagicus","SHARKS","SHARKS","Alopiidae","Lamniformes",FALSE,TRUE,TRUE,FALSE,TRUE
-"PUX",NA,"Puffers nei","Compères nca","Tetraodontidae","OTHERS","OTHERS","Tetraodontidae","Tetraodontiformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"PYW",NA,"Pygmy sperm whale","Cachalot pygmée","Kogia breviceps","OTHERS","CETACEANS","Kogiidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"QUM",NA,"Queensland school mackerel","Thazard du Queensland","Scomberomorus queenslandicus","OTHERS","OTHERS","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"RAG",NA,"Indian mackerel","Maquereau des Indes","Rastrelliger kanagurta","OTHERS","OTHERS","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"RAJ",NA,"Rays and skates nei","Rajidés nca","Rajidae","SHARKS","RAYS","Rajidae","Rajiformes",FALSE,FALSE,FALSE,TRUE,TRUE
-"RAX",NA,"Indian mackerels nei","Maquereaux indo-pacifique nca","Rastrelliger spp","OTHERS","OTHERS","Scombridae","Scombroidei",FALSE,TRUE,FALSE,TRUE,TRUE
-"REO",NA,"Shark sucker","Rémora des requins","Remora remora","OTHERS","OTHERS","Echeneidae","Percoidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"REY",NA,"Spearfish remora","Rémora des espadons","Remora brachyptera","OTHERS","OTHERS","Echeneidae","Percoidei",FALSE,NA,FALSE,FALSE,TRUE
-"REZ",NA,"Marlin sucker","Rémora des marlins","Remora osteochir","OTHERS","OTHERS","Echeneidae","Percoidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"RHA",NA,"Milk shark","Requin à museau pointu","Rhizoprionodon acutus","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"RHN",NA,"Whale shark","Requin baleine","Rhincodon typus","SHARKS","SHARKS","Rhincodontidae","Orectolobiformes",FALSE,TRUE,TRUE,FALSE,TRUE
-"RMA",NA,NA,NA,"Mobula alfredi","SHARKS","RAYS","Mobulidae","Myliobatiformes",FALSE,TRUE,TRUE,FALSE,TRUE
-"RMB",NA,"Giant manta","Mante géante","Mobula birostris","SHARKS","RAYS","Mobulidae","Myliobatiformes",FALSE,TRUE,TRUE,FALSE,TRUE
-"RME",NA,"Longhorned mobula",NA,"Mobula eregoodoo","SHARKS","RAYS","Mobulidae","Myliobatiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"RMK",NA,"Shortfin devil ray","Petit diable","Mobula kuhlii","SHARKS","RAYS","Mobulidae","Myliobatiformes",FALSE,TRUE,TRUE,FALSE,TRUE
-"RMM",NA,"Devil fish",NA,"Mobula mobular","SHARKS","RAYS","Mobulidae","Myliobatiformes",FALSE,TRUE,TRUE,FALSE,TRUE
-"RMO",NA,"Smoothtail mobula","Mante vampire","Mobula thurstoni","SHARKS","RAYS","Mobulidae","Myliobatiformes",FALSE,TRUE,TRUE,FALSE,TRUE
-"RMT",NA,"Chilean devil ray",NA,"Mobula tarapacana","SHARKS","RAYS","Mobulidae","Myliobatiformes",FALSE,TRUE,TRUE,FALSE,TRUE
-"RMV",NA,"Mobula nei",NA,"Mobula spp","SHARKS","RAYS","Mobulidae","Myliobatiformes",FALSE,FALSE,TRUE,TRUE,TRUE
-"RRH",NA,"Red-eye round herring","Shadine ronde","Etrumeus teres","OTHERS","OTHERS","Clupeidae","Clupeiformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"RRU",NA,"Rainbow runner","Comète saumon","Elagatis bipinnulata","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"RSA",NA,"Japanese scad","Comète japonaise","Decapterus maruadsi","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"RSK",NA,"Requiem sharks nei","Requins nca","Carcharhinidae","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"RSW",NA,"Southern right whale dolphin","Dauphin aptère austral","Lissodelphis peronii","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"RTD",NA,"Rough-toothed dolphin","Sténo","Steno bredanensis","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"RUS",NA,"Indian scad","Comète indienne","Decapterus russelli","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"RUV",NA,"Patchwork stingaree",NA,"Urolophus flavomosaicus","OTHERS","OTHERS","Urolophidae","Myliobatiformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"RXP",NA,"Royal escolar","Escolier royal","Rexea prometheoides","OTHERS","OTHERS","Gempylidae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"RZV",NA,"Slender sunfish","Ranzania","Ranzania laevis","OTHERS","OTHERS","Molidae","Tetraodontiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"SAA",NA,"Round sardinella","Allache","Sardinella aurita","OTHERS","OTHERS","Clupeidae","Clupeiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"SAE",NA,"Madeiran sardinella","Grande allache","Sardinella maderensis","OTHERS","OTHERS","Clupeidae","Clupeiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"SAG",NA,"Goldstripe sardinella","Sardinelle dorée","Sardinella gibbosa","OTHERS","OTHERS","Clupeidae","Clupeiformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"SAI",NA,"Atlantic sailfish","Voilier de l'Atlantique","Istiophorus albicans","BILLFISH","BILLFISH","Istiophoridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"SAP",NA,"Pacific saury","Balaou du Japon","Cololabis saira","OTHERS","OTHERS","Scomberesocidae","Beloniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"SAX",NA,"Sauries nei","Balaous, bananes de mer nca","Scomberesocidae","OTHERS","OTHERS","Scomberesocidae","Beloniformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"SBF",NA,"Southern bluefin tuna","Thon rouge du Sud","Thunnus maccoyii","TUNAS","TEMPERATE","Scombridae","Scombroidei",TRUE,TRUE,FALSE,FALSE,TRUE
-"SBL",NA,"Bluntnose sixgill shark","Requin griset","Hexanchus griseus","SHARKS","SHARKS","Hexanchidae","Hexanchiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"SCK",NA,"Kitefin shark","Squale liche","Dalatias licha","SHARKS","SHARKS","Dalatiidae","Squaliformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"SFA",NA,"Indo-Pacific sailfish","Voilier indo-pacifique","Istiophorus platypterus","BILLFISH","BILLFISH","Istiophoridae","Scombroidei",TRUE,TRUE,TRUE,FALSE,TRUE
-"SHM",NA,"Shark mackerel","Thazard requin","Grammatorcynus bicarinatus","SHARKS","SHARKS","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"SHW",NA,"Short-finned pilot whale","Globicéphale tropical","Globicephala macrorhynchus","OTHERS","CETACEANS","Delphinidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"SIL",NA,"Silversides(=Sand smelts) nei","Athérinidés nca","Atherinidae","OTHERS","OTHERS","Atherinidae","Atheriniformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"SKH",NA,"Various sharks nei","Requins divers nca","Selachimorpha (Pleurotremata)","SHARKS","SHARKS",NA,"Pisces miscellanea",FALSE,TRUE,FALSE,TRUE,TRUE
-"SKJ",NA,"Skipjack tuna","Listao","Katsuwonus pelamis","TUNAS","TROPICAL","Scombridae","Scombroidei",TRUE,TRUE,FALSE,FALSE,TRUE
-"SKX",NA,"Sharks, rays, skates, etc. nei","Requins, raies, etc. nca","Elasmobranchii","SHARKS","SHARKS",NA,"Pisces miscellanea",FALSE,NA,FALSE,TRUE,TRUE
-"SLA",NA,"Spadenose shark","Requin épée","Scoliodon laticaudus","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"SLT",NA,"Slender tuna","Thon élégant","Allothunnus fallai","OTHERS","OTHERS","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"SMA",NA,"Shortfin mako","Taupe bleue","Isurus oxyrinchus","SHARKS","SHARKS","Lamnidae","Lamniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"SMD",NA,"Smooth-hound","Émissole lisse","Mustelus mustelus","SHARKS","SHARKS","Triakidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"SNK",NA,"Snoek","Escolier","Thyrsites atun","OTHERS","OTHERS","Gempylidae","Scombroidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"SNS",NA,"Longspine snipefish","Bécasse de mer","Macroramphosus scolopax","OTHERS","OTHERS","Macroramphosidae","Syngnathiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"SNX",NA,"Snappers, jobfishes nei","Lutianidés nca","Lutjanidae","OTHERS","OTHERS","Lutjanidae","Percoidei",FALSE,TRUE,FALSE,TRUE,TRUE
-"SPD",NA,"Delicate round herring","Hareng rond","Spratelloides delicatulus","OTHERS","OTHERS","Clupeidae","Clupeiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"SPF",NA,"Longbill spearfish","Makaire bécune","Tetrapturus pfluegeri","BILLFISH","BILLFISH","Istiophoridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"SPK",NA,"Great hammerhead","Grand requin marteau","Sphyrna mokarran","SHARKS","SHARKS","Sphyrnidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"SPL",NA,"Scalloped hammerhead","Requin-marteau halicorne","Sphyrna lewini","SHARKS","SHARKS","Sphyrnidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"SPN",NA,"Hammerhead sharks nei","Requins marteau nca","Sphyrna spp","SHARKS","SHARKS","Sphyrnidae","Carcharhiniformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"SPP",NA,"Spectacled porpoise","Marsouin de Lahille","Phocoena dioptrica","OTHERS","CETACEANS","Phocoenidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"SPW",NA,"Sperm whale","Cachalot","Physeter macrocephalus","OTHERS","CETACEANS","Physeteridae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"SPY",NA,"Hammerhead sharks, etc. nei","Requins marteau, etc. nca","Sphyrnidae","SHARKS","SHARKS","Sphyrnidae","Carcharhiniformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"SPZ",NA,"Smooth hammerhead","Requin-marteau commun","Sphyrna zygaena","SHARKS","SHARKS","Sphyrnidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"SQU",NA,"Various squids nei","Calmars, encornets nca","Loliginidae, Ommastrephidae","OTHERS","OTHERS","Ommastrephidae","Cephalopoda",FALSE,TRUE,FALSE,TRUE,TRUE
-"SRH",NA,"Silver-stripe round herring","Hareng gracile","Spratelloides gracilis","OTHERS","OTHERS","Clupeidae","Clupeiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"SRW",NA,"Southern bottlenose whale","Hyperoodon austral","Hyperoodon planifrons","OTHERS","CETACEANS","Ziphiidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"SRX",NA,"Rays, stingrays, mantas nei","Raies, pastenagues, mantes nca","Rajiformes","SHARKS","RAYS",NA,"Rajiformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"SSP",NA,"Shortbill spearfish","Makaire à rostre court","Tetrapturus angustirostris","BILLFISH","BILLFISH","Istiophoridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"SSQ",NA,"Velvet dogfish",NA,"Zameus squamulosus","SHARKS","SHARKS","Somniosidae","Squaliformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"STS",NA,"Streaked seerfish","Thazard cirrus","Scomberomorus lineolatus","SEERFISH","SEERFISH","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"STT",NA,"Stingrays, butterfly rays nei","Pastenagues, etc. nca","Dasyatidae","SHARKS","RAYS","Dasyatidae","Myliobatiformes",FALSE,NA,FALSE,TRUE,TRUE
-"SUU",NA,"Australian angelshark","Ange de mer australien","Squatina australis","SHARKS","SHARKS","Squatinidae","Squatiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"SWA",NA,"White seabream","Sar commun","Diplodus sargus","OTHERS","OTHERS","Sparidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"SWO",NA,"Swordfish","Espadon","Xiphias gladius","BILLFISH","BILLFISH","Xiphiidae","Scombroidei",TRUE,TRUE,FALSE,FALSE,TRUE
-"TAL",NA,"Big-scale pomfret",NA,"Taractichthys longipinnis","OTHERS","OTHERS","Bramidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"TCR",NA,NA,NA,"Taractes rubescens","OTHERS","OTHERS","Bramidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"TCW",NA,"Hairtails nei","Poissons-sabres nca","Trichiurus spp","OTHERS","OTHERS","Trichiuridae","Scombroidei",FALSE,FALSE,FALSE,TRUE,TRUE
-"TEE",NA,"Pacific fanfish",NA,"Pteraclis aesticola","OTHERS","OTHERS","Bramidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"TFM",NA,"Whiskery shark","Émissole moustachue","Furgaleus macki","SHARKS","SHARKS","Triakidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"TGW",NA,"Ginkgo-toothed beaked whale","Baleine à bec de Nishiwaki","Mesoplodon ginkgodens","OTHERS","CETACEANS","Ziphiidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"THH",NA,"Blacktipe tope","Requin-hâ élégant","Hypogaleus hyugaensis","OTHERS","OTHERS","Triakidae","Carcharhiniformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"THR",NA,"Thresher sharks nei","Renards de mer nca","Alopias spp","SHARKS","SHARKS","Alopiidae","Lamniformes",FALSE,TRUE,TRUE,TRUE,TRUE
-"TIG",NA,"Tiger shark","Requin tigre commun","Galeocerdo cuvier","SHARKS","SHARKS","Galeocerdonidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"TOA",NA,"Antarctic toothfish","Légine antarctique","Dissostichus mawsoni","OTHERS","OTHERS","Nototheniidae","Percoidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"TQH",NA,"Indian yellow-nosed albatross","Albatros de l'océan indien","Thalassarche carteri","OTHERS","SEABIRDS","Diomedeidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"TQW",NA,"Campbell albatross","Albatros de l'île Campbell","Thalassarche impavida","OTHERS","SEABIRDS","Diomedeidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"TRB",NA,"Whitetip reef shark","Requin corail","Triaenodon obesus","SHARKS","SHARKS","Carcharhinidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"TRE",NA,"Jacks, crevalles nei","Chinchards, carangues nca","Caranx spp","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,FALSE,FALSE,TRUE,TRUE
-"TRF",NA,"False trevally","Péliau chanos","Lactarius lactarius","OTHERS","OTHERS","Lactariidae","Percoidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"TRG",NA,"Grey triggerfish","Baliste cabri","Balistes capriscus","OTHERS","OTHERS","Balistidae","Tetraodontiformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"TRI",NA,"Triggerfishes, durgons nei","Balistes nca","Balistidae","OTHERS","OTHERS","Balistidae","Tetraodontiformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"TRK",NA,"Houndsharks, smoothhounds nei","Émissoles, requins-hâ nca","Triakidae","SHARKS","SHARKS","Triakidae","Carcharhiniformes",FALSE,TRUE,FALSE,TRUE,TRUE
-"TRQ",NA,"Mediterranean dealfish","Poisson ruban","Trachipterus trachypterus","OTHERS","OTHERS","Trachipteridae","Lampriformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"TRU",NA,"Trumpeters nei",NA,"Latridae","OTHERS","OTHERS","Latridae","Percoidei",FALSE,FALSE,FALSE,TRUE,TRUE
-"TRX",NA,"Ribbonfishes","Trachyptères, poissons-rubans","Trachipteridae","OTHERS","OTHERS","Trachipteridae","Lampriformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"TSK",NA,"Flapnose houndshark","Virli à clapet","Scylliogaleus quecketti","SHARKS","SHARKS","Triakidae","Carcharhiniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"TST",NA,"Sickle pomfret",NA,"Taractichthys steindachneri","OTHERS","OTHERS","Bramidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"TSW",NA,"Strap-toothed whale","Baleine à bec de Layard","Mesoplodon layardii","OTHERS","CETACEANS","Ziphiidae","Odontoceti",FALSE,FALSE,TRUE,FALSE,TRUE
-"TTH",NA,"Hawksbill turtle","Tortue caret","Eretmochelys imbricata","OTHERS","TURTLES","Cheloniidae","Testudines",FALSE,FALSE,TRUE,FALSE,TRUE
-"TTL",NA,"Loggerhead turtle","Caouane","Caretta caretta","OTHERS","TURTLES","Cheloniidae","Testudines",FALSE,FALSE,TRUE,FALSE,TRUE
-"TTX",NA,"Marine turtles nei","Tortues de mer nca","Testudinata","OTHERS","TURTLES",NA,"Testudines",FALSE,FALSE,TRUE,TRUE,TRUE
-"TUG",NA,"Green turtle","Tortue verte","Chelonia mydas","OTHERS","TURTLES","Cheloniidae","Testudines",FALSE,FALSE,TRUE,FALSE,TRUE
-"TUM",NA,"Yellowtail scad","Sélar queue jaune","Atule mate","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"TUN",NA,"Tunas nei","Thonidés nca","Thunnini","TUNAS","TUNAS_NEI","Scombridae","Scombroidei",TRUE,TRUE,FALSE,TRUE,TRUE
-"TUS",NA,"True tunas nei","Thons Thunnus nca","Thunnus spp","TUNAS","TUNAS_NEI","Scombridae","Scombroidei",TRUE,TRUE,FALSE,TRUE,TRUE
-"TUX",NA,"Tuna-like fishes nei","Poissons type thon nca","Scombroidei","OTHERS","OTHERS",NA,"Scombroidei",TRUE,TRUE,FALSE,TRUE,TRUE
-"TWD",NA,"White-capped albatross","Albatros à cape blanche","Thalassarche steadi","OTHERS","SEABIRDS","Diomedeidae","Procellariiformes",FALSE,FALSE,TRUE,FALSE,TRUE
-"TWK",NA,"Slender ribbonfish",NA,"Trachipterus ishikawae","OTHERS","OTHERS","Trachipteridae","Lampriformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"UBP",NA,"Cape fathead",NA,"Cubiceps capensis","OTHERS","OTHERS","Nomeidae","Stromateoidei, anabantoidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"UDD",NA,"Whitetongue jack","Carangue langue blanche","Uraspis helvola","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,NA,FALSE,FALSE,TRUE
-"UKK",NA,NA,NA,"Uraspis spp","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,NA,FALSE,TRUE,TRUE
-"URU",NA,"Whitemouth jack","Carangue paia","Uraspis uraspis","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"USE",NA,"Cottonmouth jack","Carangue coton","Uraspis secunda","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"WAH",NA,"Wahoo","Thazard-bâtard","Acanthocybium solandri","SEERFISH","SEERFISH","Scombridae","Scombroidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"WEC",NA,"Round scad","Comète quiaquia","Decapterus punctatus","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"WHM",NA,"Atlantic white marlin","Makaire blanc de l'Atlantique","Kajikia albida","BILLFISH","BILLFISH","Istiophoridae","Scombroidei",FALSE,FALSE,FALSE,FALSE,TRUE
-"WSH",NA,"Great white shark","Grand requin blanc","Carcharodon carcharias","SHARKS","SHARKS","Lamnidae","Lamniformes",FALSE,TRUE,FALSE,FALSE,TRUE
-"YFT",NA,"Yellowfin tuna","Albacore","Thunnus albacares","TUNAS","TROPICAL","Scombridae","Scombroidei",TRUE,TRUE,FALSE,FALSE,TRUE
-"YMU",NA,"Luminous flying squid","Encornet lumineux","Symplectoteuthis luminosa","OTHERS","OTHERS","Ommastrephidae","Cephalopoda",FALSE,FALSE,FALSE,FALSE,TRUE
-"YRS",NA,"European barracuda","Bécune européenne","Sphyraena sphyraena","OTHERS","OTHERS","Sphyraenidae","Other perciformes",FALSE,FALSE,FALSE,FALSE,TRUE
-"YTC",NA,"Yellowtail amberjack","Sériole chicard","Seriola lalandi","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
-"YTL",NA,"Longfin yellowtail","Sériole limon","Seriola rivoliana","OTHERS","OTHERS","Carangidae","Percoidei",FALSE,TRUE,FALSE,FALSE,TRUE
+"ABL",NA,"Attentive carplet",NA,"Amblypharyngodon melettinus","OTHERS","OTHERS","Cyprinidae","order",0,0,0,0,1
+"AG00",NA,"Unknown","Espèces non ciblées, associées et dépendantes",NA,"OTHERS","OTHERS",NA,"order",0,1,0,1,NA
+"AG01",NA,"Black marlin and striped marlin","Marlin noir et marlin rayé","Makaira nigricans; Tetrapturus audax","BILLFISH","BILLFISH",NA,"order",1,1,0,1,0
+"AG02",NA,"Indo-Pacific sailfish and shortbill spearfish","Voilier indo-pacifique et makaire à rostre court","Istiophorus platypterus; Tetrapturus angustirostris","BILLFISH","BILLFISH",NA,"order",1,1,0,1,0
+"AG03",NA,"Marlins nei","Marlin rayé et makaires nca",NA,"BILLFISH","OTHERS",NA,"order",1,1,0,1,NA
+"AG04",NA,"Marlins, sailfish, spearfish nei","Makaires et marlins et voiliers nca",NA,"BILLFISH","OTHERS",NA,"order",1,1,0,1,NA
+"AG05",NA,"Frigate tuna and bullet tuna","Auxide et bonitou",NA,"TUNAS","OTHERS",NA,"order",1,1,0,1,NA
+"AG06",NA,"Kawakawa, frigate and bullet tunas","Thonine orientale, auxide et bonitou ","Euthynnus affinis; Auxis spp","TUNAS","NERITIC",NA,"order",1,1,0,1,0
+"AG07",NA,"Longtail tuna and kawakawa","Thon mignon et thonine orientale","Thunnus tonggol; Euthynnus affinis","TUNAS","NERITIC",NA,"order",1,1,0,1,0
+"AG09",NA,"Wahoo and seerfishes nei","Thazards nca",NA,"SEERFISH","OTHERS",NA,"order",1,1,0,1,NA
+"AG10",NA,"Skipjack tuna and kawakawa","Listao et thonine orientale","Katsuwonus pelamis; Euthynnus affinis","TUNAS","TUNAS_NEI",NA,"order",1,1,0,1,0
+"AG11",NA,"True tunas nei","Thons Thunnus nca",NA,"TUNAS","OTHERS",NA,"order",1,1,0,1,NA
+"AG12",NA,"Tuna-like fishes nei","Poissons type thon nca",NA,"TUNAS","OTHERS",NA,"order",1,1,0,1,NA
+"AG13",NA,"Tunas nei","Thonidés nca",NA,"TUNAS","OTHERS",NA,"order",1,1,0,1,NA
+"AG14",NA,"Billfish nei","Poissons epée nca",NA,"BILLFISH","OTHERS",NA,"order",1,1,0,1,NA
+"AG15",NA,"Dogfishes nei","Aiguillats nca",NA,"SHARKS","OTHERS",NA,"order",0,1,0,1,NA
+"AG16",NA,"Hammerhead sharks nei","Requins marteau nca",NA,"SHARKS","OTHERS",NA,"order",0,1,0,1,NA
+"AG17",NA,"Mako sharks","Taupes",NA,"SHARKS","OTHERS",NA,"order",0,1,0,1,NA
+"AG18",NA,"Rays, stingrays, mantas nei","Raies et pastenagues et mantes nca",NA,"SHARKS","OTHERS",NA,"order",0,1,0,1,NA
+"AG21",NA,"Sharks nei other than oceanic whitetip shark and blue shark","Espèces de requins autres que le requin océanique et le requin peau bleue","Selachimorpha (Pleurotremata); needs update","SHARKS","SHARKS",NA,"order",0,1,0,1,0
+"AG22",NA,"Sharks various nei","Requins divers nca",NA,"SHARKS","OTHERS",NA,"order",0,1,0,1,NA
+"AG23",NA,"Thresher sharks nei","Renards de mer nca",NA,"SHARKS","OTHERS",NA,"order",0,1,1,1,NA
+"AG24",NA,"Dolphinfishes, nei","Coryphènes nca",NA,"OTHERS","OTHERS",NA,"order",0,1,0,1,NA
+"AG26",NA,"Mackerels Indian, nei","Maquereaux Indo-pacifique nca",NA,"OTHERS","OTHERS",NA,"order",0,1,0,1,NA
+"AG27",NA,"Non-IOTC species","Poissons marins nca",NA,"OTHERS","OTHERS",NA,"order",0,1,0,1,NA
+"AG30",NA,"Mantas, devil rays nei","Mantes, diables de mer nca",NA,"SHARKS","OTHERS",NA,"order",0,1,0,1,NA
+"AG32",NA,"Barracudas","Brochets de mer",NA,"OTHERS","OTHERS",NA,"order",0,1,0,1,NA
+"AG35",NA,"Yellowfin tuna and skipjack tuna","Albacore et listao","Thunnus albacares; Katsuwonus pelamis","TUNAS","TROPICAL",NA,"order",1,1,0,1,0
+"AG38",NA,"Blue shark, shortfin mako, oceanic whitetip shark","Requin peau bleue, requin-taupe bleu et requin océanique","Prionace glauca; Isurus oxyrinchus; Carcharhinus longimanus","SHARKS","SHARKS",NA,"order",0,1,0,1,0
+"AG39",NA,"Yellowfin tuna; bigeye tuna; albacore; swordfish; marlins nei","Albacore, listao, patudo, germon, espadon, makaires nca",NA,"TUNAS","OTHERS",NA,"order",1,1,0,1,NA
+"AG40",NA,"Albacore, frigate tuna and bullet tuna","Germon, Auxide et bonitou",NA,"TUNAS","OTHERS",NA,"order",1,1,0,1,NA
+"AG45",NA,"Albacore, yellowfin tuna and bigeye tuna","Germon; Albacore; Patudo; Thon obèse",NA,"TUNAS","OTHERS",NA,"order",1,1,0,1,NA
+"AG47",NA,"Common dolphinfish and rainbow runner","Coryphène commune et comète saumon","Elagatis bipinnulata, Coryphaena hippurus","OTHERS","OTHERS",NA,"order",0,1,0,1,0
+"AG50",NA,"Sea turtles nei",NA,NA,"OTHERS","OTHERS",NA,"order",0,0,1,1,NA
+"AG51",NA,"Seabirds nei","Oiseaux de mer nca",NA,"OTHERS","SEABIRDS",NA,"order",0,0,1,1,0
+"AG70",NA,"Giant oceanic manta ray and Alfred manta (reef manta ray)",NA,NA,"SHARKS","OTHERS",NA,"order",0,1,1,1,NA
+"AG71",NA,"Devil rays nei",NA,NA,"SHARKS","OTHERS",NA,"order",0,1,1,1,NA
+"AGN",NA,"Angelshark","Ange de mer commun","Squatina squatina","SHARKS","SHARKS","Squatinidae","order",0,1,0,0,1
+"AG_CETACEANS",NA,"Cetaceans nei","Cétacés nca",NA,"OTHERS","CETACEANS",NA,"order",0,0,1,1,0
+"ALB",NA,"Albacore","Germon","Thunnus alalunga","TUNAS","TEMPERATE","Scombridae","order",1,1,0,0,1
+"ALI",NA,"Lancetfishes nei",NA,"Alepisaurus spp","OTHERS","OTHERS","Alepisauridae","order",0,1,0,1,1
+"ALM",NA,"Unicorn leatherjacket filefish","Bourse loulou","Aluterus monoceros","OTHERS","OTHERS","Monacanthidae","order",0,0,0,0,1
+"ALN",NA,"Scribbled leatherjac. filefish","Bourse écriture","Aluterus scriptus","OTHERS","OTHERS","Monacanthidae","order",0,0,0,0,1
+"ALO",NA,"Short snouted lancetfish","Lancier à nez court","Alepisaurus brevirostris","OTHERS","OTHERS","Alepisauridae","order",0,1,0,0,1
+"ALS",NA,"Silvertip shark","Requin pointe blanche","Carcharhinus albimarginatus","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"ALT",NA,"Leatherjacket filefishes",NA,"Aluterus spp","OTHERS","OTHERS","Monacanthidae","order",0,0,0,1,1
+"ALV",NA,"Thresher","Renard","Alopias vulpinus","SHARKS","SHARKS","Alopiidae","order",0,1,1,0,1
+"ALX",NA,"Long snouted lancetfish","Lancier longnez","Alepisaurus ferox","OTHERS","OTHERS","Alepisauridae","order",0,1,0,0,1
+"ALZ",NA,"Albatrosses nei","Albatros nca","Diomedeidae","OTHERS","SEABIRDS","Diomedeidae","order",0,0,1,1,1
+"AMB",NA,"Greater amberjack","Sériole couronnée","Seriola dumerili","OTHERS","OTHERS","Carangidae","order",0,1,0,0,1
+"AML",NA,"Grey reef shark","Requin dagsit","Carcharhinus amblyrhynchos","SHARKS","SHARKS","Carcharhinidae","order",0,0,0,0,1
+"AMX",NA,"Amberjacks nei","Sérioles nca","Seriola spp","OTHERS","OTHERS","Carangidae","order",0,1,0,1,1
+"ANX",NA,"Anchovies, etc. nei","Anchois, etc. nca","Engraulidae","OTHERS","OTHERS","Engraulidae","order",0,0,0,1,1
+"APO",NA,"Cardinalfishes, etc. nei","Apogonidés nca","Apogonidae","OTHERS","OTHERS","Apogonidae","order",0,1,0,1,1
+"ASM",NA,"Australian spotted mackerel","Thazard australien","Scomberomorus munroi","OTHERS","OTHERS","Scombridae","order",0,1,0,0,1
+"ASZ",NA,"Razorback scabbardfish","Poisson-sabre rasoir","Assurger anzac","OTHERS","OTHERS","Trichiuridae","order",0,1,0,0,1
+"AVR",NA,"Green jobfish","Vivaneau job","Aprion virescens","OTHERS","OTHERS","Lutjanidae","order",0,0,0,0,1
+"BAB",NA,"Blackfin barracuda",NA,"Sphyraena qenie","OTHERS","OTHERS","Sphyraenidae","order",0,0,0,0,1
+"BAF",NA,"Flat needlefish","Orphie plate","Ablennes hians","OTHERS","OTHERS","Belonidae","order",0,0,0,0,1
+"BAO",NA,"Longfin batfish","Platax à longues nageoires","Platax teira","OTHERS","OTHERS","Ephippidae","order",0,0,0,0,1
+"BAR",NA,"Barracudas nei","Bécunes nca","Sphyraena spp","OTHERS","OTHERS","Sphyraenidae","order",0,1,0,1,1
+"BAT",NA,"Batfishes","Poules d'eau","Platax spp","OTHERS","OTHERS","Ephippidae","order",0,0,0,1,1
+"BAU",NA,"Australian bonito","Bonite bagnard","Sarda australis","OTHERS","OTHERS","Scombridae","order",0,1,0,0,1
+"BAW",NA,"Arnoux's beaked whale","Béradien d'Arnoux","Berardius arnuxii","OTHERS","CETACEANS","Ziphiidae","order",0,0,1,0,1
+"BBM",NA,"Broad-barred king mackerel","Thazard tigré","Scomberomorus semifasciatus","OTHERS","OTHERS","Scombridae","order",0,1,0,0,1
+"BBW",NA,"Blainville's beaked whale","Baleine à bec de Blainville","Mesoplodon densirostris","OTHERS","CETACEANS","Ziphiidae","order",0,0,1,0,1
+"BCW",NA,"Cuvier's beaked whale","Ziphius","Ziphius cavirostris","OTHERS","CETACEANS","Ziphiidae","order",0,0,1,0,1
+"BDL",NA,"Elongate frostfish","Poisson-sabre long","Benthodesmus elongatus","OTHERS","OTHERS","Trichiuridae","order",0,NA,0,0,1
+"BDW",NA,"Andrews' beaked whale","Baleine à bec de Bowdoin","Mesoplodon bowdoini","OTHERS","CETACEANS","Ziphiidae","order",0,0,1,0,1
+"BEN",NA,"Needlefishes, etc. nei","Aiguilles, orphies nca","Belonidae","OTHERS","OTHERS","Belonidae","order",0,0,0,1,1
+"BET",NA,"Bigeye tuna","Thon obèse(=Patudo)","Thunnus obesus","TUNAS","TROPICAL","Scombridae","order",1,1,0,0,1
+"BFT",NA,"Atlantic bluefin tuna","Thon rouge de l'Atlantique","Thunnus thynnus","TUNAS","TEMPERATE","Scombridae","order",0,1,0,0,1
+"BHW",NA,"Hector's beaked whale","Baleine à bec d'Hector","Mesoplodon hectori","OTHERS","CETACEANS","Ziphiidae","order",0,0,1,0,1
+"BIL",NA,"Marlins,sailfishes,etc. nei","Makaires,marlins,voiliers nca","Istiophoridae","BILLFISH","BILLFISH","Istiophoridae","order",1,1,0,1,1
+"BIP",NA,"Striped bonito","Bonite oriental","Sarda orientalis","OTHERS","OTHERS","Scombridae","order",0,1,0,0,1
+"BIS",NA,"Bigeye scad","Sélar coulisou","Selar crumenophthalmus","OTHERS","OTHERS","Carangidae","order",0,1,0,0,1
+"BLM",NA,"Black marlin","Makaire noir","Istiompax indica","BILLFISH","BILLFISH","Istiophoridae","order",1,1,1,0,1
+"BLR",NA,"Blacktip reef shark","Requin pointes noires","Carcharhinus melanopterus","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"BLT",NA,"Bullet tuna","Bonitou","Auxis rochei","TUNAS","NERITIC","Scombridae","order",1,1,0,0,1
+"BLW",NA,"Blue whale","Rorqual bleu","Balaenoptera musculus","OTHERS","CETACEANS","Balaenopteridae","order",0,0,1,0,1
+"BNW",NA,"Longman's beaked whale","Baleine à bec de Longman","Indopacetus pacificus","OTHERS","CETACEANS","Ziphiidae","order",0,0,1,0,1
+"BOC",NA,"Boarfish","Sanglier","Capros aper","OTHERS","OTHERS","Caproidae","order",0,1,0,0,1
+"BOG",NA,"Bogue","Bogue","Boops boops","OTHERS","OTHERS","Sparidae","order",0,1,0,0,1
+"BON",NA,"Atlantic bonito","Bonite à dos rayé","Sarda sarda","OTHERS","OTHERS","Scombridae","order",0,1,0,0,1
+"BRA",NA,NA,NA,"Brama spp","OTHERS","OTHERS","Bramidae","order",0,1,0,1,1
+"BRO",NA,"Copper shark","Requin cuivre","Carcharhinus brachyurus","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"BRW",NA,"Bryde's whale","Rorqual de Bryde","Balaenoptera edeni","OTHERS","CETACEANS","Balaenopteridae","order",0,0,1,0,1
+"BRZ",NA,"Pomfrets, ocean breams nei","Castagnoles nca","Bramidae","OTHERS","OTHERS","Bramidae","order",0,1,0,1,1
+"BSH",NA,"Blue shark","Peau bleue","Prionace glauca","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"BSK",NA,"Basking shark","Pèlerin","Cetorhinus maximus","SHARKS","SHARKS","Cetorhinidae","order",0,1,0,0,1
+"BSR",NA,"Brazilian sardinella","Sardinelle de Brésil","Sardinella brasiliensis","OTHERS","OTHERS","Clupeidae","order",0,1,0,0,1
+"BSW",NA,"Sherpherd's beaked whale","Tasmacète","Tasmacetus shepherdi","OTHERS","CETACEANS","Ziphiidae","order",0,0,1,0,1
+"BSX",NA,"Groupers, seabasses nei","Serranidés nca","Serranidae","OTHERS","OTHERS","Serranidae","order",0,1,0,1,1
+"BTH",NA,"Bigeye thresher","Renard à gros yeux","Alopias superciliosus","SHARKS","SHARKS","Alopiidae","order",0,1,1,0,1
+"BTS",NA,"Hound needlefish","Aiguille crocodile","Tylosurus crocodilus","OTHERS","OTHERS","Belonidae","order",0,0,0,0,1
+"BUK",NA,"Butterfly kingfish","Thon papillon","Gasterochisma melampus","OTHERS","OTHERS","Scombridae","order",0,1,0,0,1
+"BUM",NA,"Blue marlin","Makaire bleu","Makaira nigricans","BILLFISH","BILLFISH","Istiophoridae","order",1,1,1,0,1
+"BVV",NA,"Yellowmouth barracuda","Bécune bouche jaune","Sphyraena viridensis","OTHERS","OTHERS","Sphyraenidae","order",0,0,0,0,1
+"BXD",NA,"Alfonsino","Béryx commun","Beryx decadactylus","OTHERS","OTHERS","Berycidae","order",0,0,0,0,1
+"BXQ",NA,"Marlins nei","Makaires nca","Makaira spp","BILLFISH","BILLFISH","Istiophoridae","order",1,0,0,1,1
+"BYW",NA,"Gray's beaked whale","Baleine à bec de Gray","Mesoplodon grayi","OTHERS","CETACEANS","Ziphiidae","order",0,0,1,0,1
+"CAT",NA,"Wolffishes(=Catfishes) nei","Loups nca","Anarhichas spp","OTHERS","OTHERS","Anarhichadidae","order",0,0,0,1,1
+"CCA",NA,"Bignose shark","Requin babosse","Carcharhinus altimus","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"CCB",NA,"Spinner shark","Requin tisserand","Carcharhinus brevipinna","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"CCC",NA,"Nervous shark","Requin nerveux","Carcharhinus cautus","SHARKS","SHARKS","Carcharhinidae","order",0,0,0,0,1
+"CCD",NA,"Whitecheek shark","Requin à joues blanches","Carcharhinus dussumieri","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"CCE",NA,"Bull shark","Requin bouledogue","Carcharhinus leucas","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"CCG",NA,"Galapagos shark","Requin des Galapagos","Carcharhinus galapagensis","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"CCI",NA,"Blackspot shark","Requin à tache noir","Carcharhinus sealei","SHARKS","SHARKS","Carcharhinidae","order",0,0,0,0,1
+"CCL",NA,"Blacktip shark","Requin bordé","Carcharhinus limbatus","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"CCM",NA,"Hardnose shark","Requin à nez rude","Carcharhinus macloti","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"CCO",NA,"Finetooth shark","Requin à petites dents","Carcharhinus isodon","SHARKS","SHARKS","Carcharhinidae","order",0,0,0,0,1
+"CCP",NA,"Sandbar shark","Requin gris","Carcharhinus plumbeus","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"CCQ",NA,"Spottail shark","Requin à queue tachetée","Carcharhinus sorrah","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"CCY",NA,"Graceful shark","Requin gracile","Carcharhinus amblyrhynchoides","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"CEM",NA,"Smallfin gulper shark","Squale-chagrin cagaou","Centrophorus moluccensis","SHARKS","SHARKS","Centrophoridae","order",0,1,0,0,1
+"CEO",NA,"Rudderfish","Centrolophe noir","Centrolophus niger","OTHERS","OTHERS","Centrolophidae","order",0,1,0,0,1
+"CEP",NA,"Cephalopods nei","Céphalopodes nca","Cephalopoda","OTHERS","OTHERS",NA,"order",0,0,0,1,1
+"CFW",NA,"Pompano dolphinfish",NA,"Coryphaena equiselis","OTHERS","OTHERS","Coryphaenidae","order",0,1,0,0,1
+"CGD",NA,"Burmese river gizzard shad",NA,"Gonialosa modesta","OTHERS","OTHERS","Clupeidae","order",0,0,0,0,1
+"CGX",NA,"Carangids nei","Carangidés nca","Carangidae","OTHERS","OTHERS","Carangidae","order",0,1,0,1,1
+"CHP",NA,"Pacific sardine","Sardine du Pacifique","Sardinops sagax","OTHERS","OTHERS","Clupeidae","order",0,1,0,0,1
+"CJX",NA,"Fusiliers nei","Fusiliers nca","Caesionidae","OTHERS","OTHERS","Caesionidae","order",0,1,0,0,1
+"CLD",NA,"Sliteye shark","Requin sagrin","Loxodon macrorhinus","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"CLP",NA,"Herrings, sardines nei","Harengs, sardines nca","Clupeidae","OTHERS","OTHERS","Clupeidae","order",0,1,0,1,1
+"CMD",NA,"Commerson's dolphin","Dauphin de Commerson","Cephalorhynchus commersonii","OTHERS","CETACEANS","Delphinidae","order",0,0,1,0,1
+"CNT",NA,"Rough triggerfish","Baliste rude","Canthidermis maculata","OTHERS","OTHERS","Balistidae","order",0,1,0,0,1
+"COM",NA,"Narrow-barred Spanish mackerel","Thazard rayé indo-pacifique","Scomberomorus commerson","SEERFISH","SEERFISH","Scombridae","order",1,1,0,0,1
+"CPM",NA,"Pygmy right whale","Baleine pygmée","Caperea marginata","OTHERS","CETACEANS","Neobalaenidae","order",0,0,1,0,1
+"CPT",NA,"Australian swellshark","Holbiche gressouillette","Cephaloscyllium laticeps","OTHERS","OTHERS","Scyliorhinidae","order",0,0,0,0,1
+"CPU",NA,"Little gulper shark","Petit squale-chagrin","Centrophorus uyato","SHARKS","SHARKS","Centrophoridae","order",0,1,0,0,1
+"CTU",NA,"Gummy shark","Émissole gommée","Mustelus antarcticus","SHARKS","SHARKS","Triakidae","order",0,1,0,0,1
+"CUT",NA,"Hairtails, scabbardfishes nei","Poissons-sabres, sabres nca","Trichiuridae","OTHERS","OTHERS","Trichiuridae","order",0,1,0,1,1
+"CVX",NA,"Ground sharks",NA,"Carcharhiniformes","SHARKS","SHARKS",NA,"order",0,0,0,1,1
+"CWZ",NA,"Carcharhinus sharks nei","Requins Carcharhinus nca","Carcharhinus spp","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,1,1
+"CXS",NA,"Bigeye trevally","Carangue vorace","Caranx sexfasciatus","OTHERS","OTHERS","Carangidae","order",0,0,0,0,1
+"CYT",NA,"Ornate dogfish","Aiguillat élégant","Centroscyllium ornatum","SHARKS","SHARKS","Etmopteridae","order",0,1,0,0,1
+"DAC",NA,"Cape petrel","Damier du Cap","Daption capense","OTHERS","SEABIRDS","Procellariidae","order",0,0,1,0,1
+"DAM",NA,"Amsterdam Island albatross","Albatros de l'île d'Amsterdam","Diomedea amsterdamensis","OTHERS","SEABIRDS","Diomedeidae","order",0,0,1,0,1
+"DBM",NA,"Double-lined mackerel","Thazard-kusara","Grammatorcynus bilineatus","OTHERS","OTHERS","Scombridae","order",0,1,0,0,1
+"DBN",NA,"Tristan albatross","Albatros de Tristan","Diomedea dabbenena","OTHERS","SEABIRDS","Diomedeidae","order",0,0,1,0,1
+"DBO",NA,"Bottlenose dolphin","Grand dauphin","Tursiops truncatus","OTHERS","CETACEANS","Delphinidae","order",0,0,1,0,1
+"DCO",NA,"Common dolphin","Dauphin commun","Delphinus delphis","OTHERS","CETACEANS","Delphinidae","order",0,0,1,0,1
+"DCR",NA,"Atlant. yellow-nosed albatross","Albatros à nez jaune","Thalassarche chlororhynchos","OTHERS","SEABIRDS","Diomedeidae","order",0,0,1,0,1
+"DCU",NA,"Shy albatross","Albatros timide","Thalassarche cauta","OTHERS","SEABIRDS","Diomedeidae","order",0,0,1,0,1
+"DDD",NA,"Indo-Pacific sergeant",NA,"Abudefduf vaigiensis","OTHERS","OTHERS","Pomacentridae","order",0,0,0,0,1
+"DDU",NA,"Dusky dolphin","Dauphin sombre","Lagenorhynchus obscurus","OTHERS","CETACEANS","Delphinidae","order",0,0,1,0,1
+"DER",NA,"Chatham Islands albatross","Albatros des Chatham","Thalassarche eremita","OTHERS","SEABIRDS","Diomedeidae","order",0,0,1,0,1
+"DGZ",NA,"Dogfishes nei","Aiguillats nca","Squalus spp","SHARKS","SHARKS","Squalidae","order",0,1,0,1,1
+"DHI",NA,"Indo-Pac. hump-backed dolphin","Dauphin à bosse indo-pacifique","Sousa chinensis","OTHERS","CETACEANS","Delphinidae","order",0,0,1,0,1
+"DHO",NA,"Longspined porcupinefish","Porc-épic ballon","Diodon holocanthus","OTHERS","OTHERS","Diodontidae","order",0,NA,0,0,1
+"DIB",NA,"Buller's albatross","Albatros de Buller","Thalassarche bulleri","OTHERS","SEABIRDS","Diomedeidae","order",0,0,1,0,1
+"DIC",NA,"Grey-headed albatross","Albatros à tête grise","Thalassarche chrysostoma","OTHERS","SEABIRDS","Diomedeidae","order",0,0,1,0,1
+"DIM",NA,"Black-browed albatross","Albatros à sourcils noirs","Thalassarche melanophris","OTHERS","SEABIRDS","Diomedeidae","order",0,0,1,0,1
+"DIO",NA,"Globefish, porcupine fish","Porcs-épics","Diodontidae","OTHERS","OTHERS","Diodontidae","order",0,1,0,1,1
+"DIP",NA,"Southern royal albatross","Albatros royal","Diomedea epomophora","OTHERS","SEABIRDS","Diomedeidae","order",0,0,1,0,1
+"DIQ",NA,"Northern royal albatross","Albatros royal du Nord","Diomedea sanfordi","OTHERS","SEABIRDS","Diomedeidae","order",0,0,1,0,1
+"DIX",NA,"Wandering albatross","Albatros hurleur","Diomedea exulans","OTHERS","SEABIRDS","Diomedeidae","order",0,0,1,0,1
+"DIY",NA,"Spotted porcupinefish","Porc-épic boubou","Diodon hystrix","OTHERS","OTHERS","Diodontidae","order",0,0,0,0,1
+"DKK",NA,"Leatherback turtle","Tortue luth","Dermochelys coriacea","OTHERS","TURTLES","Dermochelyidae","order",0,0,1,0,1
+"DKS",NA,"Salvin's albatross","Albatros de Salvin","Thalassarche salvini","OTHERS","SEABIRDS","Diomedeidae","order",0,0,1,0,1
+"DLP",NA,"Dolphins nei","Dauphins nca","Delphinidae","OTHERS","CETACEANS","Delphinidae","order",0,0,1,1,1
+"DOB ",NA,"Dorab wolf-herring","Chirocentre dorab","Chirocentrus dorab","OTHERS","OTHERS","Chirocentridae","order",0,0,0,0,1
+"DOL",NA,"Common dolphinfish","Coryphène commune","Coryphaena hippurus","OTHERS","OTHERS","Coryphaenidae","order",0,1,0,0,1
+"DOP",NA,"Shortnose spurdog","Aiguillat nez court","Squalus megalops","SHARKS","SHARKS","Squalidae","order",0,1,0,0,1
+"DOT",NA,"Dogtooth tuna","Bonite à gros yeux","Gymnosarda unicolor","OTHERS","OTHERS","Scombridae","order",0,1,0,0,1
+"DOX",NA,"Dolphinfishes nei","Coryphènes nca","Coryphaenidae","OTHERS","OTHERS","Coryphaenidae","order",0,1,0,1,1
+"DPN",NA,"Pantropical spotted dolphin","Dauphin tacheté pantropical","Stenella attenuata","OTHERS","CETACEANS","Delphinidae","order",0,0,1,0,1
+"DQP",NA,"Pomfrets nei",NA,"Taractichthys spp","OTHERS","OTHERS","Bramidae","order",0,0,0,1,1
+"DQS",NA,"Antipodean albatross","Albatros des antipodes","Diomedea antipodensis","OTHERS","SEABIRDS","Diomedeidae","order",0,0,1,0,1
+"DRR",NA,"Risso's dolphin","Grampus","Grampus griseus","OTHERS","CETACEANS","Delphinidae","order",0,0,1,0,1
+"DSI",NA,"Spinner dolphin","Dauphin longirostre","Stenella longirostris","OTHERS","CETACEANS","Delphinidae","order",0,0,1,0,1
+"DSP",NA,"Spotted dolphins nei","Dauphins tachetés nca","Stenella spp","OTHERS","CETACEANS","Delphinidae","order",0,0,1,1,1
+"DST",NA,"Striped dolphin","Dauphin bleu et blanc","Stenella coeruleoalba","OTHERS","CETACEANS","Delphinidae","order",0,0,1,0,1
+"DUS",NA,"Dusky shark","Requin de sable","Carcharhinus obscurus","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"DWW",NA,"Dwarf sperm whale","Cachalot nain","Kogia sima","OTHERS","CETACEANS","Kogiidae","order",0,0,1,0,1
+"EAG",NA,"Eagle rays nei","Aigles de mer nca","Myliobatidae","SHARKS","RAYS","Myliobatidae","order",0,0,0,1,1
+"ECN",NA,"Suckerfishes, remoras nei","Rémoras nca","Echeneidae","OTHERS","OTHERS","Echeneidae","order",0,0,0,1,1
+"EEN",NA,"Giant grouper","Mérou lancéolé","Epinephelus lanceolatus","OTHERS","OTHERS","Serranidae","order",0,NA,0,0,1
+"EHN",NA,"Live sharksucker","Rémora commun","Echeneis naucrates","OTHERS","OTHERS","Echeneidae","order",0,1,0,0,1
+"EJA",NA,"Needle cuttlefish","Seiche aiguille","Sepia aculeata","OTHERS","OTHERS","Sepiidae","order",0,1,0,0,1
+"ENR",NA,"Anchovies nei","Anchois nca","Engraulis spp","OTHERS","OTHERS","Engraulidae","order",0,1,0,1,1
+"EUA",NA,"Southern right whale","Baleine australe","Eubalaena australis","OTHERS","CETACEANS","Balaenidae","order",0,0,1,0,1
+"EUB",NA,"Winghead shark",NA,"Eusphyra blochii","SHARKS","SHARKS","Sphyrnidae","order",0,1,0,0,1
+"FAL",NA,"Silky shark","Requin soyeux","Carcharhinus falciformis","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"FAW",NA,"False killer whale","Faux-orque","Pseudorca crassidens","OTHERS","CETACEANS","Delphinidae","order",0,0,1,0,1
+"FBT",NA,"Flatback turtle","Tortue plate","Natator depressus","OTHERS","TURTLES","Cheloniidae","order",0,0,1,0,1
+"FIW",NA,"Fin whale","Rorqual commun","Balaenoptera physalus","OTHERS","CETACEANS","Balaenopteridae","order",0,0,1,0,1
+"FLE",NA,"European flounder","Flet d'Europe","Platichthys flesus","OTHERS","OTHERS","Pleuronectidae","order",0,0,0,0,1
+"FLY",NA,"Flyingfishes nei","Exocets nca","Exocoetidae","OTHERS","OTHERS","Exocoetidae","order",0,0,0,1,1
+"FRD",NA,"Fraser's dolphin","Dauphin de Fraser","Lagenodelphis hosei","OTHERS","CETACEANS","Delphinidae","order",0,0,1,0,1
+"FRI",NA,"Frigate tuna","Auxide","Auxis thazard","TUNAS","NERITIC","Scombridae","order",1,1,0,0,1
+"FRZ",NA,"Frigate and bullet tunas","Auxide et bonitou","Auxis thazard, A. rochei","TUNAS","NERITIC","Scombridae","order",1,1,0,1,1
+"GAG",NA,"Tope shark","Requin-hâ","Galeorhinus galeus","SHARKS","SHARKS","Triakidae","order",0,1,0,0,1
+"GAM",NA,"Mouse catshark","Chien islandais","Galeus murinus","SHARKS","SHARKS","Pentanchidae","order",0,1,0,0,1
+"GBA",NA,"Great barracuda","Barracuda","Sphyraena barracuda","OTHERS","OTHERS","Sphyraenidae","order",0,1,0,0,1
+"GEP",NA,"Snake mackerels, escolars nei","Escoliers, rouvets nca","Gempylidae","OTHERS","OTHERS","Gempylidae","order",0,1,0,1,1
+"GES",NA,"Snake mackerel","Escolier serpent","Gempylus serpens","OTHERS","OTHERS","Gempylidae","order",0,1,0,0,1
+"GLT",NA,"Golden trevally","Carangue royale","Gnathanodon speciosus","OTHERS","OTHERS","Carangidae","order",0,0,0,0,1
+"GRO",NA,"Groundfishes nei","Poissons de fond nca","Actinopterygii","OTHERS","OTHERS",NA,"order",0,0,0,1,1
+"GSE",NA,"Goldenstriped soapfish",NA,"Grammistes sexlineatus","OTHERS","OTHERS","Serranidae","order",0,NA,0,0,1
+"GTF",NA,"Guitarfishes, etc. nei","Guitares, etc. nca","Rhinobatidae","OTHERS","OTHERS","Rhinobatidae","order",0,1,0,1,1
+"GUQ",NA,"Leafscale gulper shark","Squale-chagrin de l'Atlantique","Centrophorus squamosus","OTHERS","OTHERS","Centrophoridae","order",0,1,0,0,1
+"GUT",NA,"Indo-Pacific king mackerel","Thazard ponctué indo-pacifique","Scomberomorus guttatus","SEERFISH","SEERFISH","Scombridae","order",1,1,0,0,1
+"GZX",NA,"Toothponies nei",NA,"Gazza spp","OTHERS","OTHERS","Leiognathidae","order",0,0,0,1,1
+"HAY",NA,"Lined catshark","Holbiche des plages","Halaelurus lineatus","SHARKS","SHARKS","Pentanchidae","order",0,1,0,0,1
+"HCM",NA,"Hooktooth shark","Milandre harpon","Chaenogaleus macrostoma","SHARKS","SHARKS","Hemigaleidae","order",0,1,0,0,1
+"HEE",NA,"Snaggletooth shark",NA,"Hemipristis elongata","SHARKS","SHARKS","Hemigaleidae","order",0,1,0,0,1
+"HRD",NA,"Hourglass dolphin","Dauphin crucigére","Lagenorhynchus cruciger","OTHERS","CETACEANS","Delphinidae","order",0,0,1,0,1
+"HUW",NA,"Humpback whale","Baleine à bosse","Megaptera novaeangliae","OTHERS","CETACEANS","Balaenopteridae","order",0,0,1,0,1
+"HXN",NA,"Bigeyed sixgill shark","Requin-vache","Hexanchus nakamurai","SHARKS","SHARKS","Hexanchidae","order",0,1,0,0,1
+"HXT",NA,"Sharpnose sevengill shark","Requin perlon","Heptranchias perlo","SHARKS","SHARKS","Hexanchidae","order",0,1,0,0,1
+"HXW",NA,"Frilled and cow sharks",NA,"Hexanchiformes","SHARKS","SHARKS",NA,"order",0,1,0,1,1
+"IAX",NA,"Cuttlefishes nei","Seiches nca","Sepia spp","OTHERS","OTHERS","Sepiidae","order",0,0,0,0,1
+"IRD",NA,"Irrawaddy dolphin","Orcelle","Orcaella brevirostris","OTHERS","CETACEANS","Delphinidae","order",0,0,1,0,1
+"ISB",NA,"Cookie cutter shark","Squalelet féroce","Isistius brasiliensis","OTHERS","OTHERS","Dalatiidae","order",0,1,0,0,1
+"JAA",NA,"Blue jack mackerel","Chinchard du large","Trachurus picturatus","OTHERS","OTHERS","Carangidae","order",0,1,0,0,1
+"JAN",NA,"Japanese anchovy","Anchois japonais","Engraulis japonicus","OTHERS","OTHERS","Engraulidae","order",0,1,0,0,1
+"JAX",NA,"Jack and horse mackerels nei","Chinchards noirs nca","Trachurus spp","OTHERS","OTHERS","Carangidae","order",0,1,0,1,1
+"KAK",NA,"Kanadi kingfish","Thazard kanadi","Scomberomorus plurilineatus","SEERFISH","SEERFISH","Scombridae","order",0,1,0,0,1
+"KAW",NA,"Kawakawa","Thonine orientale","Euthynnus affinis","TUNAS","NERITIC","Scombridae","order",1,1,0,0,1
+"KGX",NA,"Seerfishes nei","Thazards nca","Scomberomorus spp","SEERFISH","SEERFISH","Scombridae","order",0,1,0,1,1
+"KIW",NA,"Killer whale","Orque","Orcinus orca","OTHERS","CETACEANS","Delphinidae","order",0,0,1,0,1
+"KOS",NA,"Korean seerfish","Thazard coréen","Scomberomorus koreanus","SEERFISH","SEERFISH","Scombridae","order",0,1,0,0,1
+"KPW",NA,"Pygmy killer whale","Orque pygmée","Feresa attenuata","OTHERS","CETACEANS","Delphinidae","order",0,0,1,0,1
+"KYC",NA,"Blue sea chub","Calicagère bleue","Kyphosus cinerascens","OTHERS","OTHERS","Kyphosidae","order",0,0,0,0,1
+"KYP",NA,"Kyphosus sea chubs nei","Kyphosus calicagères nca","Kyphosus spp","OTHERS","OTHERS","Kyphosidae","order",0,0,0,1,1
+"KYV",NA,"Brassy chub","Saupe grise à lignes jaunes","Kyphosus vaigiensis","OTHERS","OTHERS","Kyphosidae","order",0,0,0,0,1
+"LAG",NA,"Opah","Opah","Lampris guttatus","OTHERS","OTHERS","Lampridae","order",0,1,0,0,1
+"LAI",NA,"Southern opah","Poisson des dieux austral","Lampris immaculatus","OTHERS","OTHERS","Lampridae","order",0,0,0,0,1
+"LEB",NA,"Leaping bonito","Bonite à dos tacheté","Cybiosarda elegans","OTHERS","OTHERS","Scombridae","order",0,0,0,0,1
+"LEC",NA,"Escolar","Escolier noir","Lepidocybium flavobrunneum","OTHERS","OTHERS","Gempylidae","order",0,1,0,0,1
+"LEK",NA,"Unicorn crestfish",NA,"Eumecichthys fiski","OTHERS","OTHERS","Lophotidae","order",0,0,0,0,1
+"LGE",NA,"Common ponyfish","Sapsap commun","Leiognathus equulus","OTHERS","OTHERS","Leiognathidae","order",0,0,0,0,1
+"LGH",NA,"Oceanic puffer","Compère océanique","Lagocephalus lagocephalus","OTHERS","OTHERS","Tetraodontidae","order",0,0,0,0,1
+"LHT",NA,"Largehead hairtail","Poisson-sabre commun","Trichiurus lepturus","OTHERS","OTHERS","Trichiuridae","order",0,0,0,0,1
+"LIB",NA,"Brushtooth lizardfish","Anoli à grandes écailles","Saurida undosquamis","OTHERS","OTHERS","Synodontidae","order",0,0,0,0,1
+"LKV",NA,"Olive ridley turtle","Tortue olivatre","Lepidochelys olivacea","OTHERS","TURTLES","Cheloniidae","order",0,0,1,0,1
+"LLL",NA,"Crested oarfish","Poisson-ruban licorne","Lophotus lacepede","OTHERS","OTHERS","Lophotidae","order",0,1,0,0,1
+"LMA",NA,"Longfin mako","Petite taupe","Isurus paucus","SHARKS","SHARKS","Lamnidae","order",0,1,0,0,1
+"LMD",NA,"Salmon shark","Requin-taupe saumon","Lamna ditropis","OTHERS","OTHERS","Lamnidae","order",0,1,0,0,1
+"LOB",NA,"Tripletail","Croupia roche","Lobotes surinamensis","OTHERS","OTHERS","Lobotidae","order",0,1,0,0,1
+"LOT",NA,"Longtail tuna","Thon mignon","Thunnus tonggol","TUNAS","NERITIC","Scombridae","order",1,1,0,0,1
+"LTA",NA,"Little tunny(=Atl.black skipj)","Thonine commune","Euthynnus alletteratus","TUNAS","TUNAS_NEI","Scombridae","order",0,1,0,0,1
+"LXR",NA,"Orbicular batfish","Poule d'eau","Platax orbicularis","OTHERS","OTHERS","Ephippidae","order",0,0,0,0,1
+"MAA",NA,"Blue mackerel","Maquereau tacheté","Scomber australasicus","OTHERS","OTHERS","Scombridae","order",0,1,0,0,1
+"MAC",NA,"Atlantic mackerel","Maquereau commun","Scomber scombrus","OTHERS","OTHERS","Scombridae","order",0,1,0,0,1
+"MAE",NA,"Spotted eagle ray","Aigle de mer léopard","Aetobatus narinari","SHARKS","RAYS","Aetobatidae","order",0,1,0,0,1
+"MAH",NA,"Hall's giant petrel","Pétrel de Hall","Macronectes halli","OTHERS","SEABIRDS","Procellariidae","order",0,0,1,0,1
+"MAI",NA,"Antarctic giant petrel","Pétrel géant","Macronectes giganteus","OTHERS","SEABIRDS","Procellariidae","order",0,0,1,0,1
+"MAK",NA,"Mako sharks","Taupes","Isurus spp","SHARKS","SHARKS","Lamnidae","order",0,1,0,1,1
+"MAN",NA,"Mantas, devil rays nei","Mantes, diables de mer nca","Mobulidae","SHARKS","RAYS","Mobulidae","order",0,1,1,1,1
+"MAS",NA,"Pacific chub mackerel","Maquereau espagnol Pacifique","Scomber japonicus","OTHERS","OTHERS","Scombridae","order",0,1,0,0,1
+"MAX",NA,"Mackerels nei","Maquereaux nca","Scombridae","OTHERS","OTHERS","Scombridae","order",0,1,0,1,1
+"MIL",NA,"Milkfish","Chano","Chanos chanos","OTHERS","OTHERS","Chanidae","order",0,1,0,0,1
+"MIW",NA,"Minke whale","Petit rorqual","Balaenoptera acutorostrata","OTHERS","CETACEANS","Balaenopteridae","order",0,0,1,0,1
+"MLS",NA,"Striped marlin","Marlin rayé","Kajikia audax","BILLFISH","BILLFISH","Istiophoridae","order",1,1,1,0,1
+"MOO",NA,"Moonfish","Luneur","Mene maculata","OTHERS","OTHERS","Menidae","order",0,1,0,0,1
+"MOP",NA,"Sunfish",NA,"Mola spp","OTHERS","OTHERS","Molidae","order",0,0,0,0,1
+"MOX",NA,"Ocean sunfish","Poisson lune","Mola mola","OTHERS","OTHERS","Molidae","order",0,1,0,0,1
+"MRJ",NA,"Flapnose ray",NA,"Rhinoptera javanica","SHARKS","RAYS","Rhinopteridae","order",0,1,0,0,1
+"MRW",NA,"Sharptail mola","Poisson-lune lancéolé","Masturus lanceolatus","OTHERS","OTHERS","Molidae","order",0,1,0,0,1
+"MSB",NA,"River sardine",NA,"Mesobola brevianalis","OTHERS","OTHERS","Cyprinidae","order",0,1,0,0,1
+"MSD",NA,"Mackerel scad","Comète maquereau","Decapterus macarellus","OTHERS","OTHERS","Carangidae","order",0,1,0,0,1
+"MSK",NA,"Mackerel sharks,porbeagles nei","Requins taupe nca","Lamnidae","SHARKS","SHARKS","Lamnidae","order",0,1,0,1,1
+"MTM",NA,"Arabian smooth-hound","Émissole d'Arabie","Mustelus mosis","SHARKS","SHARKS","Triakidae","order",0,1,0,0,1
+"MWE",NA,"Cape gannet","Fou du Cap","Morus capensis","OTHERS","SEABIRDS","Sulidae","order",0,0,1,0,1
+"MZZ",NA,"Marine fishes nei","Poissons marins nca","Actinopterygii","OTHERS","OTHERS",NA,"order",0,0,0,1,1
+"NAU",NA,"Pilotfish","Poisson pilote","Naucrates ductor","OTHERS","OTHERS","Carangidae","order",0,0,0,0,1
+"NEN",NA,"Black gemfish","Escolier long nez","Nesiarchus nasutus","OTHERS","OTHERS","Gempylidae","order",0,1,0,0,1
+"NGB",NA,"Lemon shark","Requin citron","Negaprion brevirostris","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"NGT",NA,"Island trevally","Carangue des îles","Carangoides orthogrammus","OTHERS","OTHERS","Carangidae","order",0,0,0,0,1
+"NHR",NA,"Largescale triggerfish",NA,"Canthidermis macrolepis","OTHERS","OTHERS","Balistidae","order",0,NA,0,0,1
+"NTC",NA,"Broadnose sevengill shark","Platnez","Notorynchus cepedianus","SHARKS","SHARKS","Hexanchidae","order",0,1,0,0,1
+"OCS",NA,"Oceanic whitetip shark","Requin océanique","Carcharhinus longimanus","SHARKS","SHARKS","Carcharhinidae","order",0,1,1,0,1
+"OCX",NA,"Carpet sharks",NA,"Orectolobiformes","OTHERS","OTHERS",NA,"order",0,0,0,1,1
+"ODH",NA,"Bigeye sand tiger shark","Requin noronhai","Odontaspis noronhai","SHARKS","SHARKS","Odontaspididae","order",0,1,0,0,1
+"ODN",NA,"Toothed whales nei","Baleines odontocètes nca","Odontoceti","OTHERS","CETACEANS",NA,"order",0,0,1,1,1
+"OIL",NA,"Oilfish","Rouvet","Ruvettus pretiosus","OTHERS","OTHERS","Gempylidae","order",0,1,0,0,1
+"OMZ",NA,"Ommastrephidae squids nei","Encornets Ommastrephidae nca","Ommastrephidae","OTHERS","OTHERS","Ommastrephidae","order",0,1,0,0,1
+"OQX",NA,"Bamboosharks nei",NA,"Chiloscyllium spp","SHARKS","SHARKS","Hemiscylliidae","order",0,1,0,1,1
+"ORB",NA,"Brownbanded bambooshark","Requin-chabot bambou","Chiloscyllium punctatum","SHARKS","SHARKS","Hemiscylliidae","order",0,0,0,0,1
+"ORI",NA,"Slender bambooshark","Requin-chabot élégant","Chiloscyllium indicum","SHARKS","SHARKS","Hemiscylliidae","order",0,1,0,0,1
+"ORR",NA,"Grey bambooshark","Requin-chabot gris","Chiloscyllium griseum","SHARKS","SHARKS","Hemiscylliidae","order",0,1,0,0,1
+"ORZ",NA,"Tawny nurse shark","Requin nourrice fauve","Nebrius ferrugineus","SHARKS","SHARKS","Ginglymostomatidae","order",0,1,0,0,1
+"OSF",NA,"Zebra shark","Requin zèbre","Stegostoma tigrinum","SHARKS","SHARKS","Stegostomatidae","order",0,1,0,0,1
+"OXY",NA,"Angular roughshark","Centrine commune","Oxynotus centrina","SHARKS","SHARKS","Oxynotidae","order",0,1,0,0,1
+"PCI",NA,"Grey petrel","Puffin gris","Procellaria cinerea","OTHERS","SEABIRDS","Procellariidae","order",0,0,1,0,1
+"PCW",NA,"Westland petrel","Puffin du Westland","Procellaria westlandica","OTHERS","SEABIRDS","Procellariidae","order",0,0,1,0,1
+"PDM",NA,"Great-winged petrel","Pétrel noir","Pterodroma macroptera","OTHERS","SEABIRDS","Procellariidae","order",0,0,1,0,1
+"PFC",NA,"Flesh-footed shearwater","Puffin à pieds pâles","Puffinus carneipes","OTHERS","SEABIRDS","Procellariidae","order",0,0,1,0,1
+"PFG",NA,"Sooty shearwater","Puffin fuligineux","Puffinus griseus","OTHERS","SEABIRDS","Procellariidae","order",0,0,1,0,1
+"PFI",NA,"Finless porpoise","Marsouin aptère","Neophocaena phocaenoides","OTHERS","CETACEANS","Phocoenidae","order",0,0,1,0,1
+"PFT",NA,"Short-tailed shearwater","Puffin à bec grêle","Puffinus tenuirostris","OTHERS","SEABIRDS","Procellariidae","order",0,0,1,0,1
+"PHE",NA,"Light-mantled sooty albatross","Albatros fuligineux","Phoebetria palpebrata","OTHERS","SEABIRDS","Diomedeidae","order",0,0,1,0,1
+"PHT",NA,"Tardoore","Poisson-papier tarture","Opisthopterus tardoore","OTHERS","OTHERS","Pristigasteridae","order",0,0,0,0,1
+"PHU",NA,"Sooty albatross","Albatros brun","Phoebetria fusca","OTHERS","SEABIRDS","Diomedeidae","order",0,0,1,0,1
+"PIL",NA,"European pilchard(=Sardine)","Sardine commune","Sardina pilchardus","OTHERS","OTHERS","Clupeidae","order",0,1,0,0,1
+"PIW",NA,"Long-finned pilot whale","Globicéphale commun","Globicephala melas","OTHERS","CETACEANS","Delphinidae","order",0,0,1,0,1
+"PLS",NA,"Pelagic stingray","Pastenague violette","Pteroplatytrygon violacea","SHARKS","RAYS","Dasyatidae","order",0,1,0,0,1
+"POA",NA,"Atlantic pomfret","Grande castagnole","Brama brama","OTHERS","OTHERS","Bramidae","order",0,1,0,0,1
+"POL",NA,"Pollack","Lieu jaune","Pollachius pollachius","OTHERS","OTHERS","Gadidae","order",0,1,0,0,1
+"POR",NA,"Porbeagle","Requin-taupe commun","Lamna nasus","SHARKS","SHARKS","Lamnidae","order",0,1,0,0,1
+"POY",NA,"Ponyfishes(=Slipmouths)","Sapsap","Leiognathus spp","OTHERS","OTHERS","Leiognathidae","order",0,0,0,1,1
+"PRO",NA,"White-chinned petrel","Puffin à menton blanc","Procellaria aequinoctialis","OTHERS","SEABIRDS","Procellariidae","order",0,0,1,0,1
+"PRP",NA,"Roudi escolar","Escolier clair","Promethichthys prometheus","OTHERS","OTHERS","Gempylidae","order",0,NA,0,0,1
+"PRU",NA,"Raconda",NA,"Raconda russeliana","OTHERS","OTHERS","Pristigasteridae","order",0,0,0,0,1
+"PSK",NA,"Crocodile shark","Requin crocodile","Pseudocarcharias kamoharai","SHARKS","SHARKS","Pseudocarchariidae","order",0,1,0,0,1
+"PTH",NA,"Pelagic thresher","Renard pélagique","Alopias pelagicus","SHARKS","SHARKS","Alopiidae","order",0,1,1,0,1
+"PUX",NA,"Puffers nei","Compères nca","Tetraodontidae","OTHERS","OTHERS","Tetraodontidae","order",0,1,0,1,1
+"PYW",NA,"Pygmy sperm whale","Cachalot pygmée","Kogia breviceps","OTHERS","CETACEANS","Kogiidae","order",0,0,1,0,1
+"QUM",NA,"Queensland school mackerel","Thazard du Queensland","Scomberomorus queenslandicus","OTHERS","OTHERS","Scombridae","order",0,1,0,0,1
+"RAG",NA,"Indian mackerel","Maquereau des Indes","Rastrelliger kanagurta","OTHERS","OTHERS","Scombridae","order",0,1,0,0,1
+"RAJ",NA,"Rays and skates nei","Rajidés nca","Rajidae","SHARKS","RAYS","Rajidae","order",0,0,0,1,1
+"RAX",NA,"Indian mackerels nei","Maquereaux indo-pacifique nca","Rastrelliger spp","OTHERS","OTHERS","Scombridae","order",0,1,0,1,1
+"REO",NA,"Shark sucker","Rémora des requins","Remora remora","OTHERS","OTHERS","Echeneidae","order",0,0,0,0,1
+"REY",NA,"Spearfish remora","Rémora des espadons","Remora brachyptera","OTHERS","OTHERS","Echeneidae","order",0,NA,0,0,1
+"REZ",NA,"Marlin sucker","Rémora des marlins","Remora osteochir","OTHERS","OTHERS","Echeneidae","order",0,0,0,0,1
+"RHA",NA,"Milk shark","Requin à museau pointu","Rhizoprionodon acutus","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"RHN",NA,"Whale shark","Requin baleine","Rhincodon typus","SHARKS","SHARKS","Rhincodontidae","order",0,1,1,0,1
+"RMA",NA,NA,NA,"Mobula alfredi","SHARKS","RAYS","Mobulidae","order",0,1,1,0,1
+"RMB",NA,"Giant manta","Mante géante","Mobula birostris","SHARKS","RAYS","Mobulidae","order",0,1,1,0,1
+"RME",NA,"Longhorned mobula",NA,"Mobula eregoodoo","SHARKS","RAYS","Mobulidae","order",0,0,1,0,1
+"RMJ",NA,"Spinetail mobula",NA,NA,"SHARKS","OTHERS",NA,"order",0,1,0,1,NA
+"RMK",NA,"Shortfin devil ray","Petit diable","Mobula kuhlii","SHARKS","RAYS","Mobulidae","order",0,1,1,0,1
+"RMM",NA,"Devil fish",NA,"Mobula mobular","SHARKS","RAYS","Mobulidae","order",0,1,1,0,1
+"RMO",NA,"Smoothtail mobula","Mante vampire","Mobula thurstoni","SHARKS","RAYS","Mobulidae","order",0,1,1,0,1
+"RMT",NA,"Chilean devil ray",NA,"Mobula tarapacana","SHARKS","RAYS","Mobulidae","order",0,1,1,0,1
+"RMV",NA,"Mobula nei",NA,"Mobula spp","SHARKS","RAYS","Mobulidae","order",0,0,1,1,1
+"RRH",NA,"Red-eye round herring","Shadine ronde","Etrumeus teres","OTHERS","OTHERS","Clupeidae","order",0,0,0,0,1
+"RRU",NA,"Rainbow runner","Comète saumon","Elagatis bipinnulata","OTHERS","OTHERS","Carangidae","order",0,1,0,0,1
+"RSA",NA,"Japanese scad","Comète japonaise","Decapterus maruadsi","OTHERS","OTHERS","Carangidae","order",0,1,0,0,1
+"RSK",NA,"Requiem sharks nei","Requins nca","Carcharhinidae","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,1,1
+"RSW",NA,"Southern right whale dolphin","Dauphin aptère austral","Lissodelphis peronii","OTHERS","CETACEANS","Delphinidae","order",0,0,1,0,1
+"RTD",NA,"Rough-toothed dolphin","Sténo","Steno bredanensis","OTHERS","CETACEANS","Delphinidae","order",0,0,1,0,1
+"RUS",NA,"Indian scad","Comète indienne","Decapterus russelli","OTHERS","OTHERS","Carangidae","order",0,1,0,0,1
+"RUV",NA,"Patchwork stingaree",NA,"Urolophus flavomosaicus","OTHERS","OTHERS","Urolophidae","order",0,0,0,0,1
+"RXP",NA,"Royal escolar","Escolier royal","Rexea prometheoides","OTHERS","OTHERS","Gempylidae","order",0,1,0,0,1
+"RZV",NA,"Slender sunfish","Ranzania","Ranzania laevis","OTHERS","OTHERS","Molidae","order",0,1,0,0,1
+"SAA",NA,"Round sardinella","Allache","Sardinella aurita","OTHERS","OTHERS","Clupeidae","order",0,1,0,0,1
+"SAE",NA,"Madeiran sardinella","Grande allache","Sardinella maderensis","OTHERS","OTHERS","Clupeidae","order",0,1,0,0,1
+"SAG",NA,"Goldstripe sardinella","Sardinelle dorée","Sardinella gibbosa","OTHERS","OTHERS","Clupeidae","order",0,0,0,0,1
+"SAI",NA,"Atlantic sailfish","Voilier de l'Atlantique","Istiophorus albicans","BILLFISH","BILLFISH","Istiophoridae","order",0,1,0,0,1
+"SAP",NA,"Pacific saury","Balaou du Japon","Cololabis saira","OTHERS","OTHERS","Scomberesocidae","order",0,1,0,0,1
+"SAX",NA,"Sauries nei","Balaous, bananes de mer nca","Scomberesocidae","OTHERS","OTHERS","Scomberesocidae","order",0,1,0,1,1
+"SBF",NA,"Southern bluefin tuna","Thon rouge du Sud","Thunnus maccoyii","TUNAS","TEMPERATE","Scombridae","order",1,1,0,0,1
+"SBL",NA,"Bluntnose sixgill shark","Requin griset","Hexanchus griseus","SHARKS","SHARKS","Hexanchidae","order",0,1,0,0,1
+"SCK",NA,"Kitefin shark","Squale liche","Dalatias licha","SHARKS","SHARKS","Dalatiidae","order",0,1,0,0,1
+"SFA",NA,"Indo-Pacific sailfish","Voilier indo-pacifique","Istiophorus platypterus","BILLFISH","BILLFISH","Istiophoridae","order",1,1,1,0,1
+"SHM",NA,"Shark mackerel","Thazard requin","Grammatorcynus bicarinatus","SHARKS","SHARKS","Scombridae","order",0,1,0,0,1
+"SHW",NA,"Short-finned pilot whale","Globicéphale tropical","Globicephala macrorhynchus","OTHERS","CETACEANS","Delphinidae","order",0,0,1,0,1
+"SIL",NA,"Silversides(=Sand smelts) nei","Athérinidés nca","Atherinidae","OTHERS","OTHERS","Atherinidae","order",0,1,0,1,1
+"SKH",NA,"Various sharks nei","Requins divers nca","Selachimorpha (Pleurotremata)","SHARKS","SHARKS",NA,"order",0,1,0,1,1
+"SKJ",NA,"Skipjack tuna","Listao","Katsuwonus pelamis","TUNAS","TROPICAL","Scombridae","order",1,1,0,0,1
+"SKX",NA,"Sharks, rays, skates, etc. nei","Requins, raies, etc. nca","Elasmobranchii","SHARKS","SHARKS",NA,"order",0,NA,0,1,1
+"SLA",NA,"Spadenose shark","Requin épée","Scoliodon laticaudus","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"SLT",NA,"Slender tuna","Thon élégant","Allothunnus fallai","OTHERS","OTHERS","Scombridae","order",0,1,0,0,1
+"SMA",NA,"Shortfin mako","Taupe bleue","Isurus oxyrinchus","SHARKS","SHARKS","Lamnidae","order",0,1,0,0,1
+"SMD",NA,"Smooth-hound","Émissole lisse","Mustelus mustelus","SHARKS","SHARKS","Triakidae","order",0,1,0,0,1
+"SNK",NA,"Snoek","Escolier","Thyrsites atun","OTHERS","OTHERS","Gempylidae","order",0,0,0,0,1
+"SNS",NA,"Longspine snipefish","Bécasse de mer","Macroramphosus scolopax","OTHERS","OTHERS","Macroramphosidae","order",0,1,0,0,1
+"SNX",NA,"Snappers, jobfishes nei","Lutianidés nca","Lutjanidae","OTHERS","OTHERS","Lutjanidae","order",0,1,0,1,1
+"SPD",NA,"Delicate round herring","Hareng rond","Spratelloides delicatulus","OTHERS","OTHERS","Clupeidae","order",0,1,0,0,1
+"SPF",NA,"Longbill spearfish","Makaire bécune","Tetrapturus pfluegeri","BILLFISH","BILLFISH","Istiophoridae","order",0,1,0,0,1
+"SPK",NA,"Great hammerhead","Grand requin marteau","Sphyrna mokarran","SHARKS","SHARKS","Sphyrnidae","order",0,1,0,0,1
+"SPL",NA,"Scalloped hammerhead","Requin-marteau halicorne","Sphyrna lewini","SHARKS","SHARKS","Sphyrnidae","order",0,1,0,0,1
+"SPN",NA,"Hammerhead sharks nei","Requins marteau nca","Sphyrna spp","SHARKS","SHARKS","Sphyrnidae","order",0,1,0,1,1
+"SPP",NA,"Spectacled porpoise","Marsouin de Lahille","Phocoena dioptrica","OTHERS","CETACEANS","Phocoenidae","order",0,0,1,0,1
+"SPW",NA,"Sperm whale","Cachalot","Physeter macrocephalus","OTHERS","CETACEANS","Physeteridae","order",0,0,1,0,1
+"SPY",NA,"Hammerhead sharks, etc. nei","Requins marteau, etc. nca","Sphyrnidae","SHARKS","SHARKS","Sphyrnidae","order",0,1,0,1,1
+"SPZ",NA,"Smooth hammerhead","Requin-marteau commun","Sphyrna zygaena","SHARKS","SHARKS","Sphyrnidae","order",0,1,0,0,1
+"SQU",NA,"Various squids nei","Calmars, encornets nca","Loliginidae, Ommastrephidae","OTHERS","OTHERS","Ommastrephidae","order",0,1,0,1,1
+"SRH",NA,"Silver-stripe round herring","Hareng gracile","Spratelloides gracilis","OTHERS","OTHERS","Clupeidae","order",0,1,0,0,1
+"SRW",NA,"Southern bottlenose whale","Hyperoodon austral","Hyperoodon planifrons","OTHERS","CETACEANS","Ziphiidae","order",0,0,1,0,1
+"SRX",NA,"Rays, stingrays, mantas nei","Raies, pastenagues, mantes nca","Rajiformes","SHARKS","RAYS",NA,"order",0,1,0,1,1
+"SSP",NA,"Shortbill spearfish","Makaire à rostre court","Tetrapturus angustirostris","BILLFISH","BILLFISH","Istiophoridae","order",0,1,0,0,1
+"SSQ",NA,"Velvet dogfish",NA,"Zameus squamulosus","SHARKS","SHARKS","Somniosidae","order",0,1,0,0,1
+"STS",NA,"Streaked seerfish","Thazard cirrus","Scomberomorus lineolatus","SEERFISH","SEERFISH","Scombridae","order",0,1,0,0,1
+"STT",NA,"Stingrays, butterfly rays nei","Pastenagues, etc. nca","Dasyatidae","SHARKS","RAYS","Dasyatidae","order",0,NA,0,1,1
+"SUU",NA,"Australian angelshark","Ange de mer australien","Squatina australis","SHARKS","SHARKS","Squatinidae","order",0,1,0,0,1
+"SWA",NA,"White seabream","Sar commun","Diplodus sargus","OTHERS","OTHERS","Sparidae","order",0,1,0,0,1
+"SWO",NA,"Swordfish","Espadon","Xiphias gladius","BILLFISH","BILLFISH","Xiphiidae","order",1,1,0,0,1
+"TAL",NA,"Big-scale pomfret",NA,"Taractichthys longipinnis","OTHERS","OTHERS","Bramidae","order",0,1,0,0,1
+"TCR",NA,NA,NA,"Taractes rubescens","OTHERS","OTHERS","Bramidae","order",0,1,0,0,1
+"TCW",NA,"Hairtails nei","Poissons-sabres nca","Trichiurus spp","OTHERS","OTHERS","Trichiuridae","order",0,0,0,1,1
+"TEE",NA,"Pacific fanfish",NA,"Pteraclis aesticola","OTHERS","OTHERS","Bramidae","order",0,1,0,0,1
+"TFM",NA,"Whiskery shark","Émissole moustachue","Furgaleus macki","SHARKS","SHARKS","Triakidae","order",0,1,0,0,1
+"TGW",NA,"Ginkgo-toothed beaked whale","Baleine à bec de Nishiwaki","Mesoplodon ginkgodens","OTHERS","CETACEANS","Ziphiidae","order",0,0,1,0,1
+"THH",NA,"Blacktipe tope","Requin-hâ élégant","Hypogaleus hyugaensis","OTHERS","OTHERS","Triakidae","order",0,0,0,0,1
+"THR",NA,"Thresher sharks nei","Renards de mer nca","Alopias spp","SHARKS","SHARKS","Alopiidae","order",0,1,1,1,1
+"TIG",NA,"Tiger shark","Requin tigre commun","Galeocerdo cuvier","SHARKS","SHARKS","Galeocerdonidae","order",0,1,0,0,1
+"TOA",NA,"Antarctic toothfish","Légine antarctique","Dissostichus mawsoni","OTHERS","OTHERS","Nototheniidae","order",0,0,0,0,1
+"TQH",NA,"Indian yellow-nosed albatross","Albatros de l'océan indien","Thalassarche carteri","OTHERS","SEABIRDS","Diomedeidae","order",0,0,1,0,1
+"TQW",NA,"Campbell albatross","Albatros de l'île Campbell","Thalassarche impavida","OTHERS","SEABIRDS","Diomedeidae","order",0,0,1,0,1
+"TRB",NA,"Whitetip reef shark","Requin corail","Triaenodon obesus","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
+"TRE",NA,"Jacks, crevalles nei","Chinchards, carangues nca","Caranx spp","OTHERS","OTHERS","Carangidae","order",0,0,0,1,1
+"TRF",NA,"False trevally","Péliau chanos","Lactarius lactarius","OTHERS","OTHERS","Lactariidae","order",0,0,0,0,1
+"TRG",NA,"Grey triggerfish","Baliste cabri","Balistes capriscus","OTHERS","OTHERS","Balistidae","order",0,1,0,0,1
+"TRI",NA,"Triggerfishes, durgons nei","Balistes nca","Balistidae","OTHERS","OTHERS","Balistidae","order",0,1,0,1,1
+"TRK",NA,"Houndsharks, smoothhounds nei","Émissoles, requins-hâ nca","Triakidae","SHARKS","SHARKS","Triakidae","order",0,1,0,1,1
+"TRQ",NA,"Mediterranean dealfish","Poisson ruban","Trachipterus trachypterus","OTHERS","OTHERS","Trachipteridae","order",0,1,0,0,1
+"TRU",NA,"Trumpeters nei",NA,"Latridae","OTHERS","OTHERS","Latridae","order",0,0,0,1,1
+"TRX",NA,"Ribbonfishes","Trachyptères, poissons-rubans","Trachipteridae","OTHERS","OTHERS","Trachipteridae","order",0,1,0,0,1
+"TSK",NA,"Flapnose houndshark","Virli à clapet","Scylliogaleus quecketti","SHARKS","SHARKS","Triakidae","order",0,1,0,0,1
+"TST",NA,"Sickle pomfret",NA,"Taractichthys steindachneri","OTHERS","OTHERS","Bramidae","order",0,1,0,0,1
+"TSW",NA,"Strap-toothed whale","Baleine à bec de Layard","Mesoplodon layardii","OTHERS","CETACEANS","Ziphiidae","order",0,0,1,0,1
+"TTH",NA,"Hawksbill turtle","Tortue caret","Eretmochelys imbricata","OTHERS","TURTLES","Cheloniidae","order",0,0,1,0,1
+"TTL",NA,"Loggerhead turtle","Caouane","Caretta caretta","OTHERS","TURTLES","Cheloniidae","order",0,0,1,0,1
+"TTX",NA,"Marine turtles nei","Tortues de mer nca","Testudinata","OTHERS","TURTLES",NA,"order",0,0,1,1,1
+"TUG",NA,"Green turtle","Tortue verte","Chelonia mydas","OTHERS","TURTLES","Cheloniidae","order",0,0,1,0,1
+"TUM",NA,"Yellowtail scad","Sélar queue jaune","Atule mate","OTHERS","OTHERS","Carangidae","order",0,0,0,0,1
+"TUN",NA,"Tunas nei","Thonidés nca","Thunnini","TUNAS","TUNAS_NEI","Scombridae","order",1,1,0,1,1
+"TUS",NA,"True tunas nei","Thons Thunnus nca","Thunnus spp","TUNAS","TUNAS_NEI","Scombridae","order",1,1,0,1,1
+"TUX",NA,"Tuna-like fishes nei","Poissons type thon nca","Scombroidei","OTHERS","OTHERS",NA,"order",1,1,0,1,1
+"TWD",NA,"White-capped albatross","Albatros à cape blanche","Thalassarche steadi","OTHERS","SEABIRDS","Diomedeidae","order",0,0,1,0,1
+"TWK",NA,"Slender ribbonfish",NA,"Trachipterus ishikawae","OTHERS","OTHERS","Trachipteridae","order",0,1,0,0,1
+"UBP",NA,"Cape fathead",NA,"Cubiceps capensis","OTHERS","OTHERS","Nomeidae","order",0,0,0,0,1
+"UDD",NA,"Whitetongue jack","Carangue langue blanche","Uraspis helvola","OTHERS","OTHERS","Carangidae","order",0,NA,0,0,1
+"UKK",NA,NA,NA,"Uraspis spp","OTHERS","OTHERS","Carangidae","order",0,NA,0,1,1
+"URU",NA,"Whitemouth jack","Carangue paia","Uraspis uraspis","OTHERS","OTHERS","Carangidae","order",0,0,0,0,1
+"USE",NA,"Cottonmouth jack","Carangue coton","Uraspis secunda","OTHERS","OTHERS","Carangidae","order",0,0,0,0,1
+"WAH",NA,"Wahoo","Thazard-bâtard","Acanthocybium solandri","SEERFISH","SEERFISH","Scombridae","order",0,1,0,0,1
+"WEC",NA,"Round scad","Comète quiaquia","Decapterus punctatus","OTHERS","OTHERS","Carangidae","order",0,0,0,0,1
+"WHM",NA,"Atlantic white marlin","Makaire blanc de l'Atlantique","Kajikia albida","BILLFISH","BILLFISH","Istiophoridae","order",0,0,0,0,1
+"WSH",NA,"Great white shark","Grand requin blanc","Carcharodon carcharias","SHARKS","SHARKS","Lamnidae","order",0,1,0,0,1
+"YFT",NA,"Yellowfin tuna","Albacore","Thunnus albacares","TUNAS","TROPICAL","Scombridae","order",1,1,0,0,1
+"YMU",NA,"Luminous flying squid","Encornet lumineux","Symplectoteuthis luminosa","OTHERS","OTHERS","Ommastrephidae","order",0,0,0,0,1
+"YRS",NA,"European barracuda","Bécune européenne","Sphyraena sphyraena","OTHERS","OTHERS","Sphyraenidae","order",0,0,0,0,1
+"YTC",NA,"Yellowtail amberjack","Sériole chicard","Seriola lalandi","OTHERS","OTHERS","Carangidae","order",0,1,0,0,1
+"YTL",NA,"Longfin yellowtail","Sériole limon","Seriola rivoliana","OTHERS","OTHERS","Carangidae","order",0,1,0,0,1
