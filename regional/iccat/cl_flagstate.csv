@@ -1,0 +1,173 @@
+﻿code,uri,label,definition,status
+ALB,,Albania,,CP
+DZA,,Algerie,,CP
+AGO,,Angola,,CP
+BRB,,Barbados,,CP
+BLZ,,Belize,,CP
+BRA,,Brazil,,CP
+CAN,,Canada,,CP
+CPV,,Cape Verde,,CP
+CHN,,China PR,,CP
+CUW,,Curaçao,,CP
+CIV,,Côte d'Ivoire,,CP
+AUT,,EU-Austria,,CP
+BEL,,EU-Belgium,,CP
+BGR,,EU-Bulgaria,,CP
+HRV,,EU-Croatia,,CP
+CYP,,EU-Cyprus,,CP
+CZE,,EU-Czechia,,CP
+DNK,,EU-Denmark,,CP
+ESP,,EU-España,,CP
+EST,,EU-Estonia,,CP
+FIN,,EU-Finland,,CP
+FRA,,EU-France,,CP
+DEU,,EU-Germany,,CP
+GRC,,EU-Greece,,CP
+HUN,,EU-Hungary,,CP
+IRL,,EU-Ireland,,CP
+ITA,,EU-Italy,,CP
+LVA,,EU-Latvia,,CP
+LTU,,EU-Lithuania,,CP
+LUX,,EU-Luxemburg,,CP
+MLT,,EU-Malta,,CP
+NLD,,EU-Netherlands,,CP
+POL,,EU-Poland,,CP
+PRT,,EU-Portugal,,CP
+ROU,,EU-Rumania,,CP
+SVK,,EU-Slovakia,,CP
+SVN,,EU-Slovenia,,CP
+SWE,,EU-Sweden,,CP
+EGY,,Egypt,,CP
+SLV,,El Salvador,,CP
+ENG,,England,,CP
+SPM,,FR-St Pierre et Miquelon,,CP
+GAB,,Gabon,,CP
+GMB,,Gambia,,CP
+GHA,,Ghana,,CP
+GBR,,Great Britain,,CP
+GRD,,Grenada,,CP
+GTM,,Guatemala,,CP
+GNB,,Guinea Bissau,,CP
+GNQ,,Guinea Ecuatorial,,CP
+GIN,,Guinée Rep,,CP
+HND,,Honduras,,CP
+ISL,,Iceland,,CP
+JPN,,Japan,,CP
+KOR,,Korea Rep,,CP
+LBR,,Liberia,,CP
+LBY,,Libya,,CP
+MAR,,Maroc,,CP
+MRT,,Mauritania,,CP
+MEX,,Mexico,,CP
+NAM,,Namibia,,CP
+NIC,,Nicaragua,,CP
+NGA,,Nigeria,,CP
+NIR,,Northern Ireland,,CP
+NOR,,Norway,,CP
+PAN,,Panama,,CP
+PHL,,Philippines,,CP
+RUS,,Russian Federation,,CP
+STP,,S Tomé e Príncipe,,CP
+SCT,,Scotland,,CP
+SEN,,Senegal,,CP
+SLE,,Sierra Leone,,CP
+ZAF,,South Africa,,CP
+VCT,,St Vincent and Grenadines,,CP
+SYR,,Syria,,CP
+TTO,,Trinidad and Tobago,,CP
+TUN,,Tunisie,,CP
+TUR,,Türkiye,,CP
+BMU,,UK-Bermuda,,CP
+VGB,,UK-British Virgin Islands,,CP
+SHN,,UK-Sta Helena,,CP
+TCA,,UK-Turks and Caicos,,CP
+USA,,USA,,CP
+URY,,Uruguay,,CP
+VEN,,Venezuela,,CP
+WLS,,Wales,,CP
+BOL,,Bolivia,,NCC
+TWN,,Chinese Taipei,,NCC
+CRI,,Costa Rica,,NCC
+GUY,,Guyana,,NCC
+SUR,,Suriname,,NCC
+AND,,Andorra,,NCO
+AIA,,Anguilla,,NCO
+ATG,,Antigua and Barbuda,,NCO
+ARG,,Argentina,,NCO
+ABW,,Aruba,,NCO
+AUS,,Australia,,NCO
+BHS,,Bahamas,,NCO
+BLR,,Belarus,,NCO
+BEN,,Benin,,NCO
+BIH,,Bosnia and Herzegovina,,NCO
+BND,,Brunei,,NCO
+BFA,,Burkina Faso,,NCO
+KHM,,Cambodia,,NCO
+CMR,,Cameroon,,NCO
+CYM,,Cayman Islands,,NCO
+CHL,,Chile,,NCO
+COL,,Colombia,,NCC
+COG,,Congo,,NCO
+COK,,Cook Islands,,NCO
+CUB,,Cuba,,NCO
+DJI,,Djibouti,,NCO
+DMA,,Dominica,,NCO
+DOM,,Dominican Republic,,NCO
+ECU,,Ecuador,,NCO
+FLK,,Falklands,,NCO
+FRO,,Faroe Islands,,NCO
+FJI,,Fiji Islands,,NCO
+GEO,,Georgia,,NCO
+GIB,,Gibraltar,,NCO
+GUM,,Guam,,NCO
+HTI,,Haiti,,NCO
+IND,,India,,NCO
+IDN,,Indonesia,,NCO
+IRN,,Iran,,NCO
+IMN,,Isle of Man,,NCO
+ISR,,Israel,,NCO
+JAM,,Jamaica,,NCO
+KEN,,Kenya,,NCO
+KIR,,Kiribati,,NCO
+KWT,,Kuwait,,NCO
+LBN,,Lebanon,,NCO
+MDG,,Madagascar,,NCO
+MYS,,Malaysia,,NCO
+MDV,,Maldives,,NCO
+MHL,,Marshall Islands,,NCO
+MUS,,Mauritius,,NCO
+FSM,,Micronesia,,NCO
+MNG,,Mongolia,,NCO
+MNE,,Montenegro,,NCO
+MOZ,,Mozambique,,NCO
+NCL,,New Caledonia,,NCO
+NZL,,New Zealand,,NCO
+MKD,,North Macedonia Rep,,NCO
+OMN,,Oman,,NCO
+PLW,,Palau,,NCO
+PSE,,Palestine,,NCO
+PNG,,Papua New Guinea,,NCO
+PER,,Perú,,NCO
+PYF,,Polynesie Française,,NCO
+PRI,,Puerto Rico,,NCO
+QAT,,Qatar,,NCO
+KNA,,Saint Kitts and Nevis,,NCO
+WSM,,Samoa,,NCO
+SMR,,San Marino,,NCO
+SAU,,Saudi Arabia,,NCO
+SRB,,Serbia,,NCO
+SYC,,Seychelles,,NCO
+SGP,,Singapore,,NCO
+SLB,,Solomon Islands,,NCO
+LKA,,Sri Lanka,,NCO
+LCA,,Sta Lucia,,NCO
+CHE,,Switzerland,,NCO
+TZA,,Tanzania,,NCO
+THA,,Thailand,,NCO
+TGO,,Togo,,NCO
+TON,,Tonga,,NCO
+TUV,,Tuvalu,,NCO
+VIR,,US Virgin Islands,,NCO
+ARE,,United Arab Emirates,,NCO
+VUT,,Vanuatu,,NCO
+VNM,,Vietnam,,NCO
