@@ -1,0 +1,49 @@
+code,uri,label,definition
+LL,NA,Longline,NA
+LL-B,NA,Longline: Bottom or Deep longliners,NA
+LL-Shrk,NA,Longline: Targetting sharks (BSH & SMA),NA
+LL-surf,NA,Longline: Surface,NA
+LLALB,NA,Longline: Targetting ALB,NA
+LLAMS,NA,Longline: American style,NA
+LLBFT,NA,Longline: Targetting BFT,NA
+LLJAP,NA,Longline: Japanese type (Spain),NA
+LLMB,NA,Longline: With mother boat,NA
+LLMESO,NA,Longline: Mesopelagic,NA
+LLPB,NA,"Longline: ""Stone-ball"" (Spain)",NA
+LLSWO,NA,Longline: Targetting SWO,NA
+PS,NA,Purse seine,NA
+PSD,NA,Purse seine: Double-boats,NA
+PSFB,NA,Purse seine: Catching large fish,NA
+PSFS,NA,Purse seine: Catching small fish,NA
+PSG,NA,Purse seine: Large scale (over 200 MT capacity),NA
+PSLB,NA,Purse seine: Using live bait,NA
+PSM,NA,Purse seine: Medium scale (between 50 and 200 MT capacity),NA
+PSS,NA,Purse seine: Small scale (less than 50 MT capacity),NA
+TRAP,NA,Trap,NA
+TRAP-S,NA,Trap: small traps,NA
+TRAPM,NA,Trap: trap non-fixed,NA
+BB,NA,Baitboat,NA
+BBALB,NA,Baitboat: Targgetting ALB,NA
+BBF,NA,Baitboat: Freezer,NA
+BBI,NA,Baitboat: Ice-well,NA
+TRAW,NA,Trawl,NA
+TRAWB,NA,Trawl: Bottom paired (old TRBD),NA
+TRAWP,NA,Trawl: Mid-water pelagic (old MWT),NA
+TRAWPP,NA,Trawl: Mid-water pelagic paired (old MWTD),NA
+TROL,NA,Trolling lines,NA
+GILL,NA,Gillnet: Drift net,NA
+GILLALB,NA,Gillnet: Targetting ALB,NA
+GILLSWO,NA,Gillnet: Targetting SWO,NA
+GNS,NA,"Gillnet: anchored (set gillnet, FAO)",NA
+RR,NA,Rod and Reel,NA
+RRFB,NA,Rod and Reel (catching large fish),NA
+RRFS,NA,Rod and Reel (catching small fish),NA
+TN,NA,Trammel nets,NA
+TL,NA,Tended lines,NA
+HARP,NA,Harpoon,NA
+HARPE,NA,Harpoon: Electric harpoon (old HP-E),NA
+HS,NA,Haul seine,NA
+HAND,NA,Handline,NA
+FASA,NA,Farm (salmon farms),NA
+UNCL,NA,"Unclassified gears (unknown, not reported, OTH not specified)",NA
+OTH,NA,Other (specified in Notes),NA
