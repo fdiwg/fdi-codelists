@@ -1,0 +1,122 @@
+code,uri,label,definition,label_en,label_fr,label_es
+BFT,NA,Atlantic bluefin tuna,Thunnus thynnus,Atlantic bluefin tuna,Thon rouge de l'Atlantique,Atún rojo del Atlántico
+YFT,NA,Yellowfin tuna,Thunnus albacares,Yellowfin tuna,Albacore,Rabil
+ALB,NA,Albacore,Thunnus alalunga,Albacore,Germon,Atún blanco
+BET,NA,Bigeye tuna,Thunnus obesus,Bigeye tuna,Thon obèse(=Patudo),Patudo
+SKJ,NA,Skipjack tuna,Katsuwonus pelamis,Skipjack tuna,Listao,Listado
+SAI,NA,Atlantic sailfish,Istiophorus albicans,Atlantic sailfish,Voilier de l'Atlantique,Pez vela del Atlántico
+BUM,NA,Blue marlin,Makaira nigricans,Blue marlin,Makaire bleu,Aguja azul
+WHM,NA,Atlantic white marlin,Kajikia albida,Atlantic white marlin,Makaire blanc de l'Atlantique,Aguja blanca del Atlántico
+SWO,NA,Swordfish,Xiphias gladius,Swordfish,Espadon,Pez espada
+SPF,NA,Longbill spearfish,Tetrapturus pfluegeri,Longbill spearfish,Makaire bécune,Aguja picuda
+BLF,NA,Blackfin tuna,Thunnus atlanticus,Blackfin tuna,Thon à nageoires noires,Atún aleta negra
+LTA,NA,Little tunny(=Atl.black skipj),Euthynnus alletteratus,Little tunny(=Atl.black skipj),Thonine commune,Bacoreta
+BON,NA,Atlantic bonito,Sarda sarda,Atlantic bonito,Bonite à dos rayé,Bonito del Atlántico
+FRI,NA,Frigate tuna,Auxis thazard,Frigate tuna,Auxide,Melva
+BOP,NA,Plain bonito,Orcynopsis unicolor,Plain bonito,Palomette,Tasarte
+WAH,NA,Wahoo,Acanthocybium solandri,Wahoo,Thazard-bâtard,Peto
+SSM,NA,Atlantic Spanish mackerel,Scomberomorus maculatus,Atlantic Spanish mackerel,Thazard atlantique,Carite atlántico
+KGM,NA,King mackerel,Scomberomorus cavalla,King mackerel,Thazard barré,Carite lucio
+MAW,NA,West African Spanish mackerel,Scomberomorus tritor,West African Spanish mackerel,Thazard blanc,Carite lusitánico
+CER,NA,Cero,Scomberomorus regalis,Cero,Thazard franc,Carite chinigua
+BLT,NA,Bullet tuna,Auxis rochei,Bullet tuna,Bonitou,Melva(=Melvera)
+BRS,NA,Serra Spanish mackerel,Scomberomorus brasiliensis,Serra Spanish mackerel,Thazard serra,Serra
+DOL,NA,Common dolphinfish,Coryphaena hippurus,Common dolphinfish,Coryphène commune,Lampuga
+SBF,NA,Southern bluefin tuna,Thunnus maccoyii,Southern bluefin tuna,Thon rouge du Sud,Atún rojo del Sur
+BLM,NA,Black marlin,Makaira indica,Black marlin,Makaire noir,Aguja negra
+SLT,NA,Slender tuna,Allothunnus fallai,Slender tuna,Thon élégant,Atún lanzón
+GES,NA,Snake mackerel,Gempylus serpens,Snake mackerel,Escolier serpent,Escolar de canal
+OIL,NA,Oilfish,Ruvettus pretiosus,Oilfish,Rouvet,Escolar clavo
+NPH,NA,Japanese Spanish mackerel,Scomberomorus niphonius,Japanese Spanish mackerel,Thazard oriental,Carite oriental
+LEC,NA,Escolar,Lepidocybium flavobrunneum,Escolar,Escolier noir,Escolar negro
+BUK,NA,Butterfly kingfish,Gasterochisma melampus,Butterfly kingfish,Thon papillon,Atún chauchera
+KAW,NA,Kawakawa,Euthynnus affinis,Kawakawa,Thonine orientale,Bacoreta oriental
+MSP,NA,Mediterranean spearfish,Tetrapturus belone,Mediterranean spearfish,Marlin de la Méditerranée,Marlín del Mediterráneo
+MLS,NA,Striped marlin,Tetrapturus audax,Striped marlin,Marlin rayé,Marlín rayado
+SSP,NA,Shortbill spearfish,Tetrapturus angustirostris,Shortbill spearfish,Makaire à rostre court,Marlín trompa corta
+RSP,NA,Roundscale spearfish,Tetrapturus georgii,Roundscale spearfish,Makaire épée,Marlín peto
+TUS,NA,True tunas nei,Thunnus spp,True tunas nei,Thons Thunnus nca,Atunes verdaderos nep
+TUN,NA,Tunas nei,Thunnini,Tunas nei,Thonidés nca,Atunes nep
+BIL,NA,"Marlins,sailfishes,etc. nei",Istiophoridae,"Marlins,sailfishes,etc. nei","Makaires,marlins,voiliers nca","Agujas,marlines,peces vela nep"
+SMA,NA,Shortfin mako,Isurus oxyrinchus,Shortfin mako,Taupe bleue,Marrajo dientuso
+POR,NA,Porbeagle,Lamna nasus,Porbeagle,Requin-taupe commun,Marrajo sardinero
+BSH,NA,Blue shark,Prionace glauca,Blue shark,Peau bleue,Tiburón azul
+ALV,NA,Thresher,Alopias vulpinus,Thresher,Renard,Zorro
+BSK,NA,Basking shark,Cetorhinus maximus,Basking shark,Pèlerin,Peregrino
+BTH,NA,Bigeye thresher,Alopias superciliosus,Bigeye thresher,Renard à gros yeux,Zorro ojón
+CCG,NA,Galapagos shark,Carcharhinus galapagensis,Galapagos shark,Requin des Galapagos,Tiburón de Galápagos
+CYW,NA,Roughskin dogfish,Centroscymnus owstonii,Roughskin dogfish,Pailona rapeux,Sapata lija
+ETU,NA,Lined lanternshark,Etmopterus bullisi,Lined lanternshark,Sagre chien,Tollo lucero rayado
+EUP,NA,pygmy shark,Euprotomicrus bispinatus,pygmy shark,Squale pygmée,Tollo pigmeo
+EUZ,NA,taillight shark,Euprotomicroides zantedeschia,taillight shark,Squale à queue claire,Tollo rabo claro
+FAL,NA,Silky shark,Carcharhinus falciformis,Silky shark,Requin soyeux,Tiburón jaquetón
+HXN,NA,bigeye sixgill shark,Hexanchus nakamurai,bigeye sixgill shark,Requin-vache,Cañabota ojigrande
+ISB,NA,Cookie cutter shark,Isistius brasiliensis,Cookie cutter shark,Squalelet féroce,Tollo cigarro
+ISP,NA,largetooth cookiecutter shark,Isistius plutodus,largetooth cookiecutter shark,Squalelet dentu,Tollo cigarro dentón
+LMA,NA,Longfin mako,Isurus paucus,Longfin mako,Petite taupe,Marrajo carite
+LMO,NA,goblin shark,Mitsukurina owstoni,goblin shark,Requin lutin,Tiburón duende
+LMP,NA,Megamouth shark,Megachasma pelagios,Megamouth shark,Requin grande guele,Tiburón bocudo
+OCS,NA,Oceanic whitetip shark,Carcharhinus longimanus,Oceanic whitetip shark,Requin océanique,Tiburón oceánico
+PLS,NA,Pelagic stingray,Pteroplatytrygon violacea,Pelagic stingray,Pastenague violette,Raya-látigo violeta
+PSK,NA,Crocodile shark,Pseudocarcharias kamoharai,Crocodile shark,Requin crocodile,Tiburón cocodrilo
+QUL,NA,Spined pygmy shark,Squaliolus laticaudus,Spined pygmy shark,Squale nain,Tollo pigmeo espinudo
+RHN,NA,Whale shark,Rhincodon typus,Whale shark,Requin baleine,Tiburón ballena
+RMA,NA,Inshore manta ray,Manta alfredi,Inshore manta ray,NA,NA
+RMB,NA,Giant manta,Manta birostris,Giant manta,Mante géante,Manta gigante
+RMH,NA,Lesser devil ray,Mobula hypostoma,Lesser devil ray,Mante diable,Manta del Golfo
+RMJ,NA,Spinetail mobula,Mobula japonica,Spinetail mobula,NA,NA
+RMM,NA,Devil fish,Mobula mobular,Devil fish,Diable de mer méditerranéen,Manta mobula
+RMN,NA,Lesser Guinean devil ray,Mobula rochebrunei,Lesser Guinean devil ray,Petit diable de Guinée,Diablito de Guinea
+RMO,NA,Smoothtail mobula,Mobula thurstoni,Smoothtail mobula,Mante vampire,Diablo chupasangre
+RMT,NA,Chilean devil ray,Mobula tarapacana,Chilean devil ray,NA,NA
+SDH,NA,Rough longnose dogfish,Deania histricosa,Rough longnose dogfish,Squale-savate rude,Tollo raspa
+SDU,NA,Arrowhead dogfish,Deania profundorum,Arrowhead dogfish,Squale-savate lutin,Tollo flecha
+SPK,NA,Great hammerhead,Sphyrna mokarran,Great hammerhead,Grand requin marteau,Cornuda gigante
+SPL,NA,Scalloped hammerhead,Sphyrna lewini,Scalloped hammerhead,Requin-marteau halicorne,Cornuda común
+SPZ,NA,Smooth hammerhead,Sphyrna zygaena,Smooth hammerhead,Requin-marteau commun,Cornuda cruz(=Pez martillo)
+WSH,NA,Great white shark,Carcharodon carcharias,Great white shark,Grand requin blanc,Jaquetón blanco
+SPN,NA,Hammerhead sharks nei,Sphyrna spp,Hammerhead sharks nei,Requins marteau nca,Cornudas (Peces martillo) nep
+THR,NA,Thresher sharks nei,Alopias spp,Thresher sharks nei,Renards de mer nca,Zorros nep
+MAN,NA,"Mantas, devil rays nei",Mobulidae,"Mantas, devil rays nei","Mantes, diables de mer nca","Mantas, diablos nep"
+MSK,NA,"Mackerel sharks,porbeagles nei",Lamnidae,"Mackerel sharks,porbeagles nei",Requins taupe nca,"Jaquetones,marrajos nep"
+RSK,NA,Requiem sharks nei,Carcharhinidae,Requiem sharks nei,Requins nca,"Cazones picudos,tintoreras nep"
+SPY,NA,"Hammerhead sharks, etc. nei",Sphyrnidae,"Hammerhead sharks, etc. nei","Requins marteau, etc. nca","Cornudas, etc. nep"
+STT,NA,"Stingrays, butterfly rays nei",Dasyatidae,"Stingrays, butterfly rays nei","Pastenagues, etc. nca","Pastinacas, etc. nep"
+SKH,NA,Various sharks nei,Selachimorpha (Pleurotremata),Various sharks nei,Requins divers nca,Escualos diversos nep
+BSF,NA,black scabbardfish,Aphanopus carbo,black scabbardfish,Sabre noir,Sable negro
+SFS,NA,Silver scabbardfish,Lepidopus caudatus,Silver scabbardfish,Sabre argenté,Pez cinto
+CVJ,NA,Crevalle jack,Caranx hippos,Crevalle jack,Carangue crevalle,Jurel común
+GBA,NA,Great barracuda,Sphyraena barracuda,Great barracuda,Barracuda,Picuda barracuda
+YTC,NA,Yellowtail amberjack,Seriola lalandi,Yellowtail amberjack,Sériole chicard,Medregal rabo amarillo
+SAU,NA,Atlantic saury,Scomberesox saurus,Atlantic saury,Balaou atlantique,Paparda del Atlántico
+POA,NA,Atlantic pomfret,Brama brama,Atlantic pomfret,Grande castagnole,Japuta
+AMB,NA,Greater amberjack,Seriola dumerili,Greater amberjack,Sériole couronnée,Pez de limón
+AWI,NA,Orange filefish,Aluterus schoepfii,Orange filefish,Bourse orange,Lija naranja
+BVP,NA,Bluespotted triggerfish,Balistes punctatus,Bluespotted triggerfish,Baliste à taches bleues,Pejepuerco moteado
+EXQ,NA,Flying halfbeak,Euleptorhamphus velox,Flying halfbeak,Demi-bec volant,Agujeta voladora
+LGH,NA,Oceanic puffer,Lagocephalus lagocephalus,Oceanic puffer,Compère océanique,Tamboril liebre
+ALM,NA,Unicorn leatherjacket filefish,Aluterus monoceros,Unicorn leatherjacket filefish,Bourse loulou,Lija barbuda
+CBA,NA,Cobia,Rachycentron canadum,Cobia,Mafou,Cobia
+CFW,NA,Pompano dolphinfish,Coryphaena equiselis,Pompano dolphinfish,Coryphène dauphin,Dorado
+CNT,NA,Rough triggerfish,Canthidermis maculata,Rough triggerfish,Baliste rude,Calafate áspero
+DIY,NA,Spot-fin porcupinefish,Diodon hystrix,Spot-fin porcupinefish,Porc-épic boubou,Pejerizo común
+GAR,NA,Garfish,Belone belone,Garfish,Orphie,Aguja
+HMM,NA,Mediterranean horse mackerel,Trachurus mediterraneus,Mediterranean horse mackerel,Chinchard à queue jaune,Jurel mediterráneo
+LEE,NA,Leerfish,Lichia amia,Leerfish,Liche,Palometón
+MOX,NA,Ocean sunfish,Mola mola,Ocean sunfish,Poisson lune,Pez luna
+MRW,NA,Sharptail mola,Masturus lanceolatus,Sharptail mola,Poisson-lune lancéolé,Masturus lanceolatus
+NAU,NA,Pilotfish,Naucrates ductor,Pilotfish,Poisson pilote,Pez piloto
+RRU,NA,Rainbow runner,Elagatis bipinnulata,Rainbow runner,Comète saumon,Macarela salmón
+RUB,NA,Blue runner,Caranx crysos,Blue runner,Carangue coubali,Cojinúa negra
+RZV,NA,Slender sunfish,Ranzania laevis,Slender sunfish,Ranzania,Ranzania
+TAL,NA,Big-scale pomfret,Taractichthys longipinnis,Big-scale pomfret,Castagnole fauchoir,Tristón aletudo
+TAS,NA,Rough pomfret,Taractes asper,Rough pomfret,Taractes asper,Taractes asper
+TCR,NA,Dagger pomfret,Taractes rubescens,Dagger pomfret,NA,NA
+TRG,NA,Grey triggerfish,Balistes carolinensis,Grey triggerfish,Baliste cabri,Pejepuerco blanco
+TST,NA,Sickle pomfret,Taractichthys steindachneri,Sickle pomfret,NA,Tristón segador
+USE,NA,Cottonmouth jack,Uraspis secunda,Cottonmouth jack,Carangue coton,Jurel volantín
+VAD,NA,Vadigo,Campogramma glaycos,Vadigo,Liche lirio,Lirio
+YTL,NA,Longfin yellowtail,Seriola rivoliana,Longfin yellowtail,Sériole limon,Medregal limón
+BAZ,NA,"Barracudas, etc. nei",Sphyraenidae,"Barracudas, etc. nei","Bécunes, barracudas, nca","Barracudas, picudas, nep"
+FLY,NA,Flyingfishes nei,Exocoetidae,Flyingfishes nei,Exocets nca,Voladores nep
+TRI,NA,"Triggerfishes, durgons nei",Balistidae,"Triggerfishes, durgons nei",Balistes nca,Peces-ballesta nep
