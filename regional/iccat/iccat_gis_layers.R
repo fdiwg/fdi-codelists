@@ -16,7 +16,6 @@ iccat_sa_billfish = sf::st_read(iccat_gis_gpkg, layer = "billfish_sampling_areas
 stock_columns = colnames(iccat_sa_billfish )[startsWith(colnames(iccat_sa_billfish ),"stock")]
 iccat_sa_billfish_all = do.call("rbind", lapply(stock_columns, function(sc){
 	sfl = sf::st_read(iccat_gis_gpkg, layer = "billfish_sampling_areas")
-	print(colnames(sfl))
 	sfl$stock = sfl[[sc]]
 	sfl = sfl[,c("CODE","NAME_EN","NAME_ES","NAME_FR","stock")]
 	return(sfl)
@@ -40,8 +39,8 @@ sf::st_write(iccat_stocks, file.path("regional/iccat", "iccat_stocks.gpkg"))
 
 setwd("../fdi-mappings/regional-to-regional/iccat")
 
-iccat_sa$geom = NULL
-sa_to_stock = unique(iccat_sa[,c("CODE","stock")])
+iccat_sa_all$geom = NULL
+sa_to_stock = unique(iccat_sa_all[,c("CODE","stock")])
 sa_to_stock = data.frame(
 	src_code = sa_to_stock$CODE,
 	trg_code = sa_to_stock$stock,
