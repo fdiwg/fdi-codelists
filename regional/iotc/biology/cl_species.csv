@@ -101,6 +101,7 @@
 "BXQ",NA,"Marlins nei","Makaires nca","Makaira spp","BILLFISH","BILLFISH","Istiophoridae","order",1,0,0,1,1
 "BYW",NA,"Gray's beaked whale","Baleine à bec de Gray","Mesoplodon grayi","OTHERS","CETACEANS","Ziphiidae","order",0,0,1,0,1
 "CAT",NA,"Wolffishes(=Catfishes) nei","Loups nca","Anarhichas spp","OTHERS","OTHERS","Anarhichadidae","order",0,0,0,1,1
+"CBG",NA,"Driftfish","Dérivant","Cubiceps gracilis","OTHERS","OTHERS","Nomeidae","order",0,0,0,0,1
 "CCA",NA,"Bignose shark","Requin babosse","Carcharhinus altimus","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
 "CCB",NA,"Spinner shark","Requin tisserand","Carcharhinus brevipinna","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,0,1
 "CCC",NA,"Nervous shark","Requin nerveux","Carcharhinus cautus","SHARKS","SHARKS","Carcharhinidae","order",0,0,0,0,1
@@ -131,6 +132,7 @@
 "CPT",NA,"Australian swellshark","Holbiche gressouillette","Cephaloscyllium laticeps","OTHERS","OTHERS","Scyliorhinidae","order",0,0,0,0,1
 "CPU",NA,"Little gulper shark","Petit squale-chagrin","Centrophorus uyato","SHARKS","SHARKS","Centrophoridae","order",0,1,0,0,1
 "CTU",NA,"Gummy shark","Émissole gommée","Mustelus antarcticus","SHARKS","SHARKS","Triakidae","order",0,1,0,0,1
+"CUP",NA,"","","Cubiceps spp","OTHERS","OTHERS","Nomeidae","order",0,0,0,1,1
 "CUT",NA,"Hairtails, scabbardfishes nei","Poissons-sabres, sabres nca","Trichiuridae","OTHERS","OTHERS","Trichiuridae","order",0,1,0,1,1
 "CVX",NA,"Ground sharks",NA,"Carcharhiniformes","SHARKS","SHARKS",NA,"order",0,0,0,1,1
 "CWZ",NA,"Carcharhinus sharks nei","Requins Carcharhinus nca","Carcharhinus spp","SHARKS","SHARKS","Carcharhinidae","order",0,1,0,1,1
@@ -197,6 +199,7 @@
 "GBA",NA,"Great barracuda","Barracuda","Sphyraena barracuda","OTHERS","OTHERS","Sphyraenidae","order",0,1,0,0,1
 "GEP",NA,"Snake mackerels, escolars nei","Escoliers, rouvets nca","Gempylidae","OTHERS","OTHERS","Gempylidae","order",0,1,0,1,1
 "GES",NA,"Snake mackerel","Escolier serpent","Gempylus serpens","OTHERS","OTHERS","Gempylidae","order",0,1,0,0,1
+"GLO",NA,"Pilot whales NEI","","Globicephala spp","OTHERS","CETACEANS","Delphinidae","order",0,0,1,1,1
 "GLT",NA,"Golden trevally","Carangue royale","Gnathanodon speciosus","OTHERS","OTHERS","Carangidae","order",0,0,0,0,1
 "GRO",NA,"Groundfishes nei","Poissons de fond nca","Actinopterygii","OTHERS","OTHERS",NA,"order",0,0,0,1,1
 "GSE",NA,"Goldenstriped soapfish",NA,"Grammistes sexlineatus","OTHERS","OTHERS","Serranidae","order",0,NA,0,0,1
@@ -277,6 +280,7 @@
 "OCX",NA,"Carpet sharks",NA,"Orectolobiformes","OTHERS","OTHERS",NA,"order",0,0,0,1,1
 "ODH",NA,"Bigeye sand tiger shark","Requin noronhai","Odontaspis noronhai","SHARKS","SHARKS","Odontaspididae","order",0,1,0,0,1
 "ODN",NA,"Toothed whales nei","Baleines odontocètes nca","Odontoceti","OTHERS","CETACEANS",NA,"order",0,0,1,1,1
+"OHH",NA,"White-spotted puffer","Compère à taches blanches","Arothron hispidus","OTHERS","OTHERS","Tetraodontidae","order",0,0,0,0,1
 "OIL",NA,"Oilfish","Rouvet","Ruvettus pretiosus","OTHERS","OTHERS","Gempylidae","order",0,1,0,0,1
 "OMZ",NA,"Ommastrephidae squids nei","Encornets Ommastrephidae nca","Ommastrephidae","OTHERS","OTHERS","Ommastrephidae","order",0,1,0,0,1
 "OQX",NA,"Bamboosharks nei",NA,"Chiloscyllium spp","SHARKS","SHARKS","Hemiscylliidae","order",0,1,0,1,1
