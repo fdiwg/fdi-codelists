@@ -1,0 +1,275 @@
+code,uri,label,definition
+AM,NA,Armenia,NA
+AF,NA,Afghanistan,NA
+AL,NA,Albania,NA
+DZ,NA,Algeria,NA
+AS,NA,American Samoa,NA
+AD,NA,Andorra,NA
+AO,NA,Angola,NA
+AG,NA,Antigua and Barbuda,NA
+AR,NA,Argentina,NA
+AU,NA,Australia,NA
+AT,NA,Austria,NA
+BS,NA,Bahamas,NA
+BH,NA,Bahrain,NA
+BB,NA,Barbados,NA
+NA,NA,Belgium-Luxembourg [former],NA
+BD,NA,Bangladesh,NA
+BM,NA,Bermuda,NA
+BT,NA,Bhutan,NA
+BO,NA,Bolivia (Plurinational State of),NA
+BW,NA,Botswana,NA
+BR,NA,Brazil,NA
+AW,NA,Aruba,NA
+BZ,NA,Belize,NA
+IO,NA,British Indian Ocean Territory [former],NA
+SB,NA,Solomon Islands,NA
+BN,NA,Brunei Darussalam,NA
+BG,NA,Bulgaria,NA
+MM,NA,Myanmar,NA
+BI,NA,Burundi,NA
+AQ,NA,Antarctica,NA
+BV,NA,Bouvet Island,NA
+CM,NA,Cameroon,NA
+CA,NA,Canada,NA
+NA,NA,Canton and Enderbury Islands [former],NA
+CV,NA,Cabo Verde,NA
+KY,NA,Cayman Islands,NA
+CF,NA,Central African Republic,NA
+LK,NA,Sri Lanka,NA
+TD,NA,Chad,NA
+CL,NA,Chile,NA
+CN,NA,China,NA
+CX,NA,Christmas Island,NA
+CC,NA,Cocos (Keeling) Islands,NA
+CO,NA,Colombia,NA
+KM,NA,Comoros,NA
+CG,NA,Congo,NA
+CK,NA,Cook Islands,NA
+CR,NA,Costa Rica,NA
+CU,NA,Cuba,NA
+CY,NA,Cyprus,NA
+NA,NA,Czechoslovakia [former],NA
+AZ,NA,Azerbaijan,NA
+BJ,NA,Benin,NA
+DK,NA,Denmark,NA
+DM,NA,Dominica,NA
+DO,NA,Dominican Republic,NA
+BY,NA,Belarus,NA
+EC,NA,Ecuador,NA
+EG,NA,Egypt,NA
+SV,NA,El Salvador,NA
+GQ,NA,Equatorial Guinea,NA
+NA,NA,Ethiopia PDR [former],NA
+EE,NA,Estonia,NA
+FO,NA,Faroe Islands,NA
+FK,NA,Falkland Islands (Malvinas),NA
+FJ,NA,Fiji,NA
+FI,NA,Finland,NA
+FR,NA,France,NA
+GF,NA,French Guiana,NA
+PF,NA,French Polynesia,NA
+TF,NA,French Southern Territories,NA
+DJ,NA,Djibouti,NA
+GE,NA,Georgia,NA
+GA,NA,Gabon,NA
+GM,NA,Gambia,NA
+NA,NA,Gaza Strip  [former],NA
+NA,NA,German Democratic Republic [former],NA
+NA,NA,"Germany, Fed. Rep. of [former]",NA
+DE,NA,Germany,NA
+BA,NA,Bosnia and Herzegovina,NA
+GH,NA,Ghana,NA
+GI,NA,Gibraltar,NA
+KI,NA,Kiribati,NA
+GR,NA,Greece,NA
+GL,NA,Greenland,NA
+GD,NA,Grenada,NA
+GP,NA,Guadeloupe,NA
+GU,NA,Guam,NA
+GT,NA,Guatemala,NA
+GN,NA,Guinea,NA
+GY,NA,Guyana,NA
+HM,NA,Heard Island and McDonald Islands,NA
+HT,NA,Haiti,NA
+VA,NA,Holy See,NA
+HN,NA,Honduras,NA
+HK,NA,"China, Hong Kong SAR",NA
+HU,NA,Hungary,NA
+HR,NA,Croatia,NA
+IS,NA,Iceland,NA
+IN,NA,India,NA
+ID,NA,Indonesia,NA
+IR,NA,Iran (Islamic Republic of),NA
+IQ,NA,Iraq,NA
+IE,NA,Ireland,NA
+IL,NA,Israel,NA
+IT,NA,Italy,NA
+CI,NA,Côte d'Ivoire,NA
+KZ,NA,Kazakhstan,NA
+JM,NA,Jamaica,NA
+JP,NA,Japan,NA
+JT,NA,Johnston Island [former],NA
+JO,NA,Jordan,NA
+KG,NA,Kyrgyzstan,NA
+KE,NA,Kenya,NA
+KH,NA,Cambodia,NA
+KP,NA,Democratic People's Republic of Korea,NA
+KR,NA,Republic of Korea,NA
+KW,NA,Kuwait,NA
+LV,NA,Latvia,NA
+LA,NA,Lao People's Democratic Republic,NA
+LB,NA,Lebanon,NA
+LS,NA,Lesotho,NA
+LR,NA,Liberia,NA
+LY,NA,Libya,NA
+LI,NA,Liechtenstein,NA
+LT,NA,Lithuania,NA
+MH,NA,Marshall Islands,NA
+MO,NA,"China, Macao SAR",NA
+MG,NA,Madagascar,NA
+MW,NA,Malawi,NA
+MY,NA,Malaysia,NA
+MV,NA,Maldives,NA
+ML,NA,Mali,NA
+MT,NA,Malta,NA
+MQ,NA,Martinique,NA
+MR,NA,Mauritania,NA
+MU,NA,Mauritius,NA
+MX,NA,Mexico,NA
+MI,NA,Midway Islands [former],NA
+MC,NA,Monaco,NA
+MN,NA,Mongolia,NA
+MS,NA,Montserrat,NA
+MA,NA,Morocco,NA
+MZ,NA,Mozambique,NA
+FM,NA,Micronesia (Federated States of),NA
+MD,NA,Republic of Moldova,NA
+NA,NA,Namibia,NA
+NR,NA,Nauru,NA
+NP,NA,Nepal,NA
+NL,NA,Netherlands (Kingdom of the),NA
+AN,NA,Netherlands Antilles [former],NA
+NA,NA,Neutral Zone,NA
+NC,NA,New Caledonia,NA
+MK,NA,North Macedonia,NA
+VU,NA,Vanuatu,NA
+NZ,NA,New Zealand,NA
+NI,NA,Nicaragua,NA
+NE,NA,Niger,NA
+NG,NA,Nigeria,NA
+NU,NA,Niue,NA
+NF,NA,Norfolk Island,NA
+NO,NA,Norway,NA
+MP,NA,Northern Mariana Islands,NA
+NA,NA,Trust Territory of the Pacific Islands [former],NA
+PK,NA,Pakistan,NA
+PA,NA,Panama,NA
+CZ,NA,Czechia,NA
+PG,NA,Papua New Guinea,NA
+PY,NA,Paraguay,NA
+PE,NA,Peru,NA
+PH,NA,Philippines,NA
+PN,NA,Pitcairn,NA
+PL,NA,Poland,NA
+PT,NA,Portugal,NA
+GW,NA,Guinea-Bissau,NA
+TL,NA,Timor-Leste,NA
+PR,NA,Puerto Rico,NA
+ER,NA,Eritrea,NA
+QA,NA,Qatar,NA
+PW,NA,Palau,NA
+ZW,NA,Zimbabwe,NA
+RE,NA,Réunion,NA
+RO,NA,Romania,NA
+RW,NA,Rwanda,NA
+RU,NA,Russian Federation,NA
+CS,NA,Serbia and Montenegro [former],NA
+SH,NA,"Ascension, Saint Helena and Tristan da Cunha",NA
+KN,NA,Saint Kitts and Nevis,NA
+LC,NA,Saint Lucia,NA
+PM,NA,Saint Pierre and Miquelon,NA
+VC,NA,Saint Vincent and the Grenadines,NA
+SM,NA,San Marino,NA
+ST,NA,Sao Tome and Principe,NA
+SA,NA,Saudi Arabia,NA
+SN,NA,Senegal,NA
+SC,NA,Seychelles,NA
+SL,NA,Sierra Leone,NA
+SI,NA,Slovenia,NA
+SK,NA,Slovakia,NA
+SG,NA,Singapore,NA
+SO,NA,Somalia,NA
+ZA,NA,South Africa,NA
+ES,NA,Spain,NA
+EH,NA,Western Sahara,NA
+NA,NA,Sudan [former],NA
+SR,NA,Suriname,NA
+TJ,NA,Tajikistan,NA
+SZ,NA,Eswatini,NA
+SE,NA,Sweden,NA
+CH,NA,Switzerland,NA
+SY,NA,Syrian Arab Republic,NA
+TM,NA,Turkmenistan,NA
+TW,NA,Taiwan Province of China,NA
+TZ,NA,United Republic of Tanzania,NA
+TH,NA,Thailand,NA
+TG,NA,Togo,NA
+TK,NA,Tokelau,NA
+TO,NA,Tonga,NA
+TT,NA,Trinidad and Tobago,NA
+OM,NA,Oman,NA
+TN,NA,Tunisia,NA
+TR,NA,Türkiye,NA
+TC,NA,Turks and Caicos Islands,NA
+AE,NA,United Arab Emirates,NA
+UG,NA,Uganda,NA
+TV,NA,Tuvalu,NA
+SU,NA,Union of Soviet Socialist Republics [former],NA
+GB,NA,United Kingdom of Great Britain and Northern Ireland,NA
+UA,NA,Ukraine,NA
+US,NA,United States of America,NA
+UM,NA,United States Minor Outlying Islands,NA
+BF,NA,Burkina Faso,NA
+UY,NA,Uruguay,NA
+UZ,NA,Uzbekistan,NA
+VE,NA,Venezuela (Bolivarian Republic of),NA
+VN,NA,Viet Nam,NA
+ET,NA,Ethiopia,NA
+VG,NA,British Virgin Islands,NA
+VI,NA,United States Virgin Islands,NA
+WK,NA,Wake Island [former],NA
+WF,NA,Wallis and Futuna Islands,NA
+WS,NA,Samoa,NA
+NA,NA,West Bank [former],NA
+NA,NA,Yemen Arab Republic [former],NA
+NA,NA,"Yemen, Democratic [former]",NA
+YU,NA,Yugoslavia SFR [former],NA
+YE,NA,Yemen,NA
+CD,NA,Democratic Republic of the Congo,NA
+ZM,NA,Zambia,NA
+NA,NA,Other NEI,NA
+BE,NA,Belgium,NA
+LU,NA,Luxembourg,NA
+AI,NA,Anguilla,NA
+NA,NA,Channel Islands,NA
+SJ,NA,Svalbard and Jan Mayen Islands,NA
+IM,NA,Isle of Man,NA
+YT,NA,Mayotte,NA
+GS,NA,South Georgia and the South Sandwich Islands,NA
+RS,NA,Serbia,NA
+ME,NA,Montenegro,NA
+NA,NA,"United Republic of Tanzania, Zanzibar",NA
+AX,NA,Åland Islands,NA
+BQ,NA,"Bonaire, Sint Eustatius and Saba",NA
+GG,NA,Guernsey,NA
+JE,NA,Jersey,NA
+CW,NA,Curaçao,NA
+BL,NA,Saint Barthélemy,NA
+MF,NA,Saint Martin (French part),NA
+SX,NA,Sint Maarten (Dutch part),NA
+SS,NA,South Sudan,NA
+NA,NA,Sark,NA
+SD,NA,Sudan,NA
+PS,NA,Palestine,NA
+EU,NA,European Union,NA
