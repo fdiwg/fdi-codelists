@@ -1,10 +1,10 @@
 "code","uri","label_en","label_fr","is_coastal","is_sids","status_code","acceptance_date"
+"ATF",NA,"France (OT)","France (Territoires)",1,0,"CP",1996-12-03
 "AUS",NA,"Australia","Australie",1,0,"CP",1996-11-13
 "BGD",NA,"Bangladesh","Bangladesh",1,0,"CP",2018-04-24
 "CHN",NA,"China","Chine",0,0,"CP",1998-10-14
 "COM",NA,"Comoros","Comores",1,1,"CP",2001-08-14
 "EUR",NA,"European Union","Union européenne",1,0,"CP",1995-10-27
-"FRAT",NA,"France (OT)","France (Territoires)",1,0,"CP",1996-12-03
 "GBR",NA,"United Kingdom of Great Britain and Northern Ireland","Royaume-Uni de Grande-Bretagne et d'Irlande du Nord",0,0,"CP",2020-12-22
 "IDN",NA,"Indonesia","Indonésie",1,0,"CP",1997-06-20
 "IND",NA,"India","Inde",1,0,"CP",1995-03-13
@@ -21,6 +21,7 @@
 "MYS",NA,"Malaysia","Malaisie",1,0,"CP",1998-05-22
 "OMN",NA,"Oman","Oman",1,0,"CP",2000-04-05
 "PAK",NA,"Pakistan","Pakistan",1,0,"CP",1995-04-27
+"PAN",NA,"Panama","Panama (le)",0,0,"CNPC",2025-04-17
 "PHL",NA,"Philippines","Philippines",0,0,"CP",2004-01-09
 "SDN",NA,"Sudan","Soudan",1,0,"CP",1996-12-03
 "SOM",NA,"Somalia","Somalie",1,0,"CP",2014-05-22

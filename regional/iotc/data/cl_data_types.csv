@@ -1,3 +1,3 @@
-"code","uri","label_en","label_fr"
-"FI",NA,"Final data","Données finales"
-"PR",NA,"Preliminary data","Données préliminaires"
+"code","uri","label_en","label_fr","definition_en","definition_fr"
+"FI",NA,"Final data","Données finales","Official, complete version of the dataset, submitted according to IOTC deadlines; fully checked and considered final","Version officielle et complète du jeu de données, soumise selon les échéances CTOI ; entièrement vérifiée et considérée comme finale"
+"PR",NA,"Preliminary data","Données préliminaires","Early version of the dataset, submitted prior to the final deadline; may be incomplete, under verification, or subject to updates. Indicates potential uncertainty in the data at the time of preparation","Version préliminaire du jeu de données, soumise avant l’échéance finale ; peut être incomplète, en cours de vérification ou susceptible d’être mise à jour. Indique une incertitude possible des données au moment de la préparation"
