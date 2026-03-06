@@ -2,6 +2,7 @@
 "AB",NA,"Abandonment","Abandon",1,1
 "CO",NA,"Consolidation","Consolidation",1,0
 "DE",NA,"Deployment","Mise à l'eau",1,1
+"DI",NA,"Discard","Rejet",1,1
 "LO",NA,"Loss","Perte",1,0
 "RE",NA,"Retrieval","Retrait",1,1
 "ST",NA,"Stranding","Échouage",1,0
