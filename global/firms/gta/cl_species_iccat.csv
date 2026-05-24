@@ -4,7 +4,7 @@ YFT,Yellowfin tuna,3,Thunnus albacares,Albacore,Rabil,1-Tuna (major sp.),1-Speci
 ALB,Albacore,4,Thunnus alalunga,Germon,Atún blanco,1-Tuna (major sp.),1-Species
 BET,Bigeye tuna,5,Thunnus obesus,Thon obèse(=Patudo),Patudo,1-Tuna (major sp.),1-Species
 SKJ,Skipjack tuna,8,Katsuwonus pelamis,Listao,Listado,1-Tuna (major sp.),1-Species
-SAI,Atlantic sailfish,15,Istiophorus albicans,Voilier de l'Atlantique,Pez vela del Atlántico,1-Tuna (major sp.),1-Species
+SFA,NA,Sailfish,Istiophorus platypterus,Sailfish,Voilier,Pez vela
 BUM,Atlantic blue marlin,17,Makaira nigricans,Makaire bleu de l'Atlantique,Aguja azul del Atlántico,1-Tuna (major sp.),1-Species
 WHM,Atlantic white marlin,18,Kajikia albida,Makaire blanc de l'Atlantique,Aguja blanca del Atlántico,1-Tuna (major sp.),1-Species
 SWO,Swordfish,19,Xiphias gladius,Espadon,Pez espada,1-Tuna (major sp.),1-Species
