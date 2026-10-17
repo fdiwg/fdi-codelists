@@ -12,3 +12,5 @@ NETS,net-days
 SETS,Number of sets
 STDHR,Number of hours fishing standarized
 TRIPS,Number of trips
+MH,Men-hours
+NG,Number of active gears
